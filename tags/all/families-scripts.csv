@@ -604,6 +604,7 @@ Alef,,/Expressive/Active,10,
 Alef,,/Expressive/Artistic,0,hebrew
 Alef,,/Expressive/Business,70,hebrew
 Alef,,/Expressive/Calm,68,
+Alef,,/Expressive/Cute,0,hebrew
 Alef,,/Expressive/Fancy,0,hebrew
 Alef,,/Expressive/Innovative,0,hebrew
 Alef,,/Expressive/Loud,1,
@@ -1217,6 +1218,7 @@ Amatic SC,,/Expressive/Artistic,65,hebrew
 Amatic SC,,/Expressive/Awkward,41,
 Amatic SC,,/Expressive/Business,0,hebrew
 Amatic SC,,/Expressive/Childlike,20,
+Amatic SC,,/Expressive/Cute,55,hebrew
 Amatic SC,,/Expressive/Excited,5,
 Amatic SC,,/Expressive/Fancy,0,hebrew
 Amatic SC,,/Expressive/Happy,33,
@@ -2433,6 +2435,8 @@ Arimo,wght@400,/Expressive/Childlike,4,
 Arimo,wght@700,/Expressive/Childlike,3,
 Arimo,wght@400,/Expressive/Competent,85,
 Arimo,wght@700,/Expressive/Competent,85,
+Arimo,wght@400,/Expressive/Cute,0,hebrew
+Arimo,wght@700,/Expressive/Cute,0,hebrew
 Arimo,wght@400,/Expressive/Fancy,0,hebrew
 Arimo,wght@700,/Expressive/Fancy,0,hebrew
 Arimo,wght@400,/Expressive/Innovative,0,hebrew
@@ -2736,6 +2740,8 @@ Assistant,wght@200,/Expressive/Childlike,2,
 Assistant,wght@800,/Expressive/Childlike,7,
 Assistant,wght@200,/Expressive/Competent,70,
 Assistant,wght@800,/Expressive/Competent,70,
+Assistant,wght@200,/Expressive/Cute,0,hebrew
+Assistant,wght@800,/Expressive/Cute,0,hebrew
 Assistant,wght@200,/Expressive/Fancy,0,hebrew
 Assistant,wght@800,/Expressive/Fancy,0,hebrew
 Assistant,wght@200,/Expressive/Happy,6,
@@ -3966,6 +3972,7 @@ Belgrano,,/Quality/Wordspace,80,
 Bellefair,,/Expressive/Artistic,55,hebrew
 Bellefair,,/Expressive/Business,50,
 Bellefair,,/Expressive/Competent,40,
+Bellefair,,/Expressive/Cute,0,hebrew
 Bellefair,,/Expressive/Fancy,0,hebrew
 Bellefair,,/Expressive/Innovative,0,hebrew
 Bellefair,,/Expressive/Loud,0,hebrew
@@ -4993,6 +5000,7 @@ Bona Nova SC,,/Expressive/Artistic,0,hebrew
 Bona Nova SC,,/Expressive/Business,65,
 Bona Nova SC,,/Expressive/Business,0,hebrew
 Bona Nova SC,,/Expressive/Calm,20,
+Bona Nova SC,,/Expressive/Cute,0,hebrew
 Bona Nova SC,,/Expressive/Fancy,65,hebrew
 Bona Nova SC,,/Expressive/Innovative,0,hebrew
 Bona Nova SC,,/Expressive/Loud,1,
@@ -5012,6 +5020,7 @@ Bona Nova,,/Expressive/Business,67,
 Bona Nova,,/Expressive/Business,0,hebrew
 Bona Nova,,/Expressive/Calm,20,
 Bona Nova,,/Expressive/Competent,50,
+Bona Nova,,/Expressive/Cute,0,hebrew
 Bona Nova,,/Expressive/Fancy,65,hebrew
 Bona Nova,,/Expressive/Innovative,0,hebrew
 Bona Nova,,/Expressive/Loud,1,
@@ -5967,6 +5976,7 @@ Cardo,,/Expressive/Artistic,0,hebrew
 Cardo,,/Expressive/Business,55,
 Cardo,,/Expressive/Business,0,hebrew
 Cardo,,/Expressive/Competent,40,
+Cardo,,/Expressive/Cute,0,hebrew
 Cardo,,/Expressive/Fancy,0,hebrew
 Cardo,,/Expressive/Innovative,0,hebrew
 Cardo,,/Expressive/Loud,1,
@@ -6062,6 +6072,8 @@ Cascadia Code,wght@200,/Expressive/Childlike,1,
 Cascadia Code,wght@700,/Expressive/Childlike,3,
 Cascadia Code,wght@200,/Expressive/Competent,64,
 Cascadia Code,wght@700,/Expressive/Competent,64,
+Cascadia Code,wght@200,/Expressive/Cute,0,hebrew
+Cascadia Code,wght@700,/Expressive/Cute,0,hebrew
 Cascadia Code,wght@200,/Expressive/Fancy,0,hebrew
 Cascadia Code,wght@700,/Expressive/Fancy,0,hebrew
 Cascadia Code,wght@200,/Expressive/Futuristic,22,
@@ -6099,6 +6111,8 @@ Cascadia Mono,wght@200,/Expressive/Childlike,1,
 Cascadia Mono,wght@700,/Expressive/Childlike,9,
 Cascadia Mono,wght@200,/Expressive/Competent,62,
 Cascadia Mono,wght@700,/Expressive/Competent,62,
+Cascadia Mono,wght@200,/Expressive/Cute,0,hebrew
+Cascadia Mono,wght@700,/Expressive/Cute,0,hebrew
 Cascadia Mono,wght@200,/Expressive/Fancy,0,hebrew
 Cascadia Mono,wght@700,/Expressive/Fancy,0,hebrew
 Cascadia Mono,wght@200,/Expressive/Futuristic,24,
@@ -7368,6 +7382,7 @@ Cousine,,/Expressive/Active,0,hebrew
 Cousine,,/Expressive/Artistic,0,hebrew
 Cousine,,/Expressive/Business,10,
 Cousine,,/Expressive/Calm,60,
+Cousine,,/Expressive/Cute,0,hebrew
 Cousine,,/Expressive/Fancy,0,hebrew
 Cousine,,/Expressive/Futuristic,25,
 Cousine,,/Expressive/Innovative,0,hebrew
@@ -7793,6 +7808,7 @@ Datatype,,/Special use/Symbols,100,
 David Libre,,/Expressive/Active,0,hebrew
 David Libre,,/Expressive/Artistic,0,hebrew
 David Libre,,/Expressive/Business,60,hebrew
+David Libre,,/Expressive/Cute,0,hebrew
 David Libre,,/Expressive/Fancy,75,hebrew
 David Libre,,/Expressive/Innovative,0,hebrew
 David Libre,,/Expressive/Loud,1,
@@ -9988,6 +10004,8 @@ Frank Ruhl Libre,wght@300,/Expressive/Childlike,11,
 Frank Ruhl Libre,wght@900,/Expressive/Childlike,13,
 Frank Ruhl Libre,wght@300,/Expressive/Competent,62,
 Frank Ruhl Libre,wght@900,/Expressive/Competent,58,
+Frank Ruhl Libre,wght@300,/Expressive/Cute,0,hebrew
+Frank Ruhl Libre,wght@900,/Expressive/Cute,0,hebrew
 Frank Ruhl Libre,wght@300,/Expressive/Fancy,12,
 Frank Ruhl Libre,wght@900,/Expressive/Fancy,14,
 Frank Ruhl Libre,wght@300,/Expressive/Innovative,0,hebrew
@@ -11678,6 +11696,7 @@ Gveret Levin,,/Expressive/Awkward,12,
 Gveret Levin,,/Expressive/Business,0,hebrew
 Gveret Levin,,/Expressive/Childlike,40,
 Gveret Levin,,/Expressive/Cute,30,
+Gveret Levin,,/Expressive/Cute,70,hebrew
 Gveret Levin,,/Expressive/Excited,50,
 Gveret Levin,,/Expressive/Fancy,0,hebrew
 Gveret Levin,,/Expressive/Happy,76,
@@ -11823,6 +11842,8 @@ Handjet,wght@900,/Expressive/Artistic,60,hebrew
 Handjet,,/Expressive/Awkward,50,
 Handjet,wght@100,/Expressive/Business,0,hebrew
 Handjet,wght@900,/Expressive/Business,0,hebrew
+Handjet,wght@100,/Expressive/Cute,0,hebrew
+Handjet,wght@900,/Expressive/Cute,0,hebrew
 Handjet,wght@100,/Expressive/Fancy,0,hebrew
 Handjet,wght@900,/Expressive/Fancy,0,hebrew
 Handjet,wght@100,/Expressive/Futuristic,20,
@@ -11995,6 +12016,8 @@ Heebo,wght@100,/Expressive/Childlike,9,
 Heebo,wght@900,/Expressive/Childlike,9,
 Heebo,wght@100,/Expressive/Competent,70,
 Heebo,wght@900,/Expressive/Competent,70,
+Heebo,wght@100,/Expressive/Cute,0,hebrew
+Heebo,wght@900,/Expressive/Cute,0,hebrew
 Heebo,wght@100,/Expressive/Fancy,0,hebrew
 Heebo,wght@900,/Expressive/Fancy,0,hebrew
 Heebo,wght@100,/Expressive/Innovative,55,hebrew
@@ -12475,6 +12498,7 @@ IBM Plex Sans Hebrew,,/Expressive/Artistic,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Business,90,
 IBM Plex Sans Hebrew,,/Expressive/Calm,80,
 IBM Plex Sans Hebrew,,/Expressive/Competent,90,
+IBM Plex Sans Hebrew,,/Expressive/Cute,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Fancy,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Futuristic,5,
 IBM Plex Sans Hebrew,,/Expressive/Innovative,0,hebrew
@@ -14207,6 +14231,7 @@ Karantina,,/Expressive/Active,0,hebrew
 Karantina,,/Expressive/Artistic,0,hebrew
 Karantina,,/Expressive/Awkward,20,
 Karantina,,/Expressive/Business,0,hebrew
+Karantina,,/Expressive/Cute,0,hebrew
 Karantina,,/Expressive/Fancy,0,hebrew
 Karantina,,/Expressive/Futuristic,10,
 Karantina,,/Expressive/Innovative,-2,hebrew
@@ -15494,6 +15519,7 @@ Libertinus Serif,,/Expressive/Artistic,0,hebrew
 Libertinus Serif,,/Expressive/Business,70,
 Libertinus Serif,,/Expressive/Business,0,hebrew
 Libertinus Serif,,/Expressive/Competent,75,
+Libertinus Serif,,/Expressive/Cute,0,hebrew
 Libertinus Serif,,/Expressive/Fancy,0,hebrew
 Libertinus Serif,,/Expressive/Innovative,0,hebrew
 Libertinus Serif,,/Expressive/Loud,1,
@@ -16122,6 +16148,7 @@ Lunasima,,/Expressive/Business,80,
 Lunasima,,/Expressive/Business,50,hebrew
 Lunasima,,/Expressive/Calm,89,
 Lunasima,,/Expressive/Competent,45,
+Lunasima,,/Expressive/Cute,0,hebrew
 Lunasima,,/Expressive/Fancy,0,hebrew
 Lunasima,,/Expressive/Innovative,0,hebrew
 Lunasima,,/Expressive/Loud,1,
@@ -16248,6 +16275,7 @@ M PLUS 1p,,/Expressive/Business,80,
 M PLUS 1p,,/Expressive/Business,0,hebrew
 M PLUS 1p,,/Expressive/Calm,90,
 M PLUS 1p,,/Expressive/Competent,40,
+M PLUS 1p,,/Expressive/Cute,65,hebrew
 M PLUS 1p,,/Expressive/Fancy,0,hebrew
 M PLUS 1p,,/Expressive/Innovative,70,hebrew
 M PLUS 1p,,/Expressive/Loud,1,
@@ -16333,6 +16361,7 @@ M PLUS Rounded 1c,,/Expressive/Business,80,
 M PLUS Rounded 1c,,/Expressive/Business,0,hebrew
 M PLUS Rounded 1c,,/Expressive/Calm,85,
 M PLUS Rounded 1c,,/Expressive/Competent,40,
+M PLUS Rounded 1c,,/Expressive/Cute,65,hebrew
 M PLUS Rounded 1c,,/Expressive/Fancy,0,hebrew
 M PLUS Rounded 1c,,/Expressive/Innovative,70,hebrew
 M PLUS Rounded 1c,,/Expressive/Loud,1,
@@ -17477,6 +17506,8 @@ Miriam Libre,wght@400,/Expressive/Childlike,15,
 Miriam Libre,wght@700,/Expressive/Childlike,21,
 Miriam Libre,wght@400,/Expressive/Competent,43,
 Miriam Libre,wght@700,/Expressive/Competent,38,
+Miriam Libre,wght@400,/Expressive/Cute,50,hebrew
+Miriam Libre,wght@700,/Expressive/Cute,30,hebrew
 Miriam Libre,wght@400,/Expressive/Fancy,0,hebrew
 Miriam Libre,wght@700,/Expressive/Fancy,0,hebrew
 Miriam Libre,wght@400,/Expressive/Futuristic,10,
@@ -19099,6 +19130,8 @@ Noto Rashi Hebrew,wght@100,/Expressive/Childlike,4,
 Noto Rashi Hebrew,wght@900,/Expressive/Childlike,5,
 Noto Rashi Hebrew,wght@100,/Expressive/Competent,88,
 Noto Rashi Hebrew,wght@900,/Expressive/Competent,88,
+Noto Rashi Hebrew,wght@100,/Expressive/Cute,0,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Cute,0,hebrew
 Noto Rashi Hebrew,wght@100,/Expressive/Fancy,0,hebrew
 Noto Rashi Hebrew,wght@900,/Expressive/Fancy,0,hebrew
 Noto Rashi Hebrew,wght@100,/Expressive/Innovative,0,hebrew
@@ -25182,6 +25215,8 @@ Playpen Sans Hebrew,wght@100,/Expressive/Childlike,85,
 Playpen Sans Hebrew,wght@800,/Expressive/Childlike,88,
 Playpen Sans Hebrew,wght@100,/Expressive/Competent,30,
 Playpen Sans Hebrew,wght@800,/Expressive/Competent,30,
+Playpen Sans Hebrew,wght@100,/Expressive/Cute,80,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Cute,90,hebrew
 Playpen Sans Hebrew,wght@100,/Expressive/Excited,20,
 Playpen Sans Hebrew,wght@800,/Expressive/Excited,22,
 Playpen Sans Hebrew,wght@100,/Expressive/Fancy,0,hebrew
@@ -29038,6 +29073,7 @@ Rubik 80s Fade,,/Expressive/Active,0,hebrew
 Rubik 80s Fade,,/Expressive/Artistic,65,hebrew
 Rubik 80s Fade,,/Expressive/Awkward,88,
 Rubik 80s Fade,,/Expressive/Business,5,
+Rubik 80s Fade,,/Expressive/Cute,0,hebrew
 Rubik 80s Fade,,/Expressive/Excited,56,
 Rubik 80s Fade,,/Expressive/Fancy,0,hebrew
 Rubik 80s Fade,,/Expressive/Futuristic,20,
@@ -29078,6 +29114,7 @@ Rubik Broken Fax,,/Expressive/Active,0,hebrew
 Rubik Broken Fax,,/Expressive/Artistic,83,hebrew
 Rubik Broken Fax,,/Expressive/Awkward,88,
 Rubik Broken Fax,,/Expressive/Business,0,hebrew
+Rubik Broken Fax,,/Expressive/Cute,0,hebrew
 Rubik Broken Fax,,/Expressive/Excited,50,
 Rubik Broken Fax,,/Expressive/Fancy,0,hebrew
 Rubik Broken Fax,,/Expressive/Futuristic,20,
@@ -29118,6 +29155,7 @@ Rubik Burned,,/Expressive/Active,55,hebrew
 Rubik Burned,,/Expressive/Artistic,60,hebrew
 Rubik Burned,,/Expressive/Awkward,94,
 Rubik Burned,,/Expressive/Business,0,hebrew
+Rubik Burned,,/Expressive/Cute,0,hebrew
 Rubik Burned,,/Expressive/Excited,10,
 Rubik Burned,,/Expressive/Fancy,0,hebrew
 Rubik Burned,,/Expressive/Innovative,20,
@@ -29137,6 +29175,7 @@ Rubik Dirt,,/Expressive/Active,0,hebrew
 Rubik Dirt,,/Expressive/Artistic,0,hebrew
 Rubik Dirt,,/Expressive/Awkward,50,
 Rubik Dirt,,/Expressive/Business,0,hebrew
+Rubik Dirt,,/Expressive/Cute,0,hebrew
 Rubik Dirt,,/Expressive/Excited,10,
 Rubik Dirt,,/Expressive/Fancy,0,hebrew
 Rubik Dirt,,/Expressive/Innovative,50,
@@ -29156,6 +29195,7 @@ Rubik Distressed,,/Expressive/Active,60,hebrew
 Rubik Distressed,,/Expressive/Artistic,75,hebrew
 Rubik Distressed,,/Expressive/Awkward,90,
 Rubik Distressed,,/Expressive/Business,0,hebrew
+Rubik Distressed,,/Expressive/Cute,0,hebrew
 Rubik Distressed,,/Expressive/Excited,20,
 Rubik Distressed,,/Expressive/Fancy,0,hebrew
 Rubik Distressed,,/Expressive/Innovative,35,
@@ -29176,6 +29216,7 @@ Rubik Doodle Shadow,,/Expressive/Active,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Artistic,80,hebrew
 Rubik Doodle Shadow,,/Expressive/Awkward,65,
 Rubik Doodle Shadow,,/Expressive/Business,0,hebrew
+Rubik Doodle Shadow,,/Expressive/Cute,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Excited,10,
 Rubik Doodle Shadow,,/Expressive/Fancy,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Happy,15,
@@ -29195,6 +29236,7 @@ Rubik Doodle Triangles,,/Expressive/Active,55,hebrew
 Rubik Doodle Triangles,,/Expressive/Artistic,77,hebrew
 Rubik Doodle Triangles,,/Expressive/Awkward,84,
 Rubik Doodle Triangles,,/Expressive/Business,0,hebrew
+Rubik Doodle Triangles,,/Expressive/Cute,0,hebrew
 Rubik Doodle Triangles,,/Expressive/Fancy,0,hebrew
 Rubik Doodle Triangles,,/Expressive/Innovative,40,
 Rubik Doodle Triangles,,/Expressive/Loud,67,
@@ -29232,6 +29274,7 @@ Rubik Glitch Pop,,/Expressive/Active,60,hebrew
 Rubik Glitch Pop,,/Expressive/Artistic,75,hebrew
 Rubik Glitch Pop,,/Expressive/Awkward,95,
 Rubik Glitch Pop,,/Expressive/Business,0,hebrew
+Rubik Glitch Pop,,/Expressive/Cute,0,hebrew
 Rubik Glitch Pop,,/Expressive/Fancy,0,hebrew
 Rubik Glitch Pop,,/Expressive/Innovative,35,
 Rubik Glitch Pop,,/Expressive/Loud,0,hebrew
@@ -29249,6 +29292,7 @@ Rubik Glitch,,/Expressive/Active,78,hebrew
 Rubik Glitch,,/Expressive/Artistic,75,hebrew
 Rubik Glitch,,/Expressive/Awkward,79,
 Rubik Glitch,,/Expressive/Business,0,hebrew
+Rubik Glitch,,/Expressive/Cute,0,hebrew
 Rubik Glitch,,/Expressive/Excited,56,
 Rubik Glitch,,/Expressive/Fancy,0,hebrew
 Rubik Glitch,,/Expressive/Futuristic,10,
@@ -29270,6 +29314,7 @@ Rubik Iso,,/Expressive/Active,55,hebrew
 Rubik Iso,,/Expressive/Artistic,60,hebrew
 Rubik Iso,,/Expressive/Awkward,95,
 Rubik Iso,,/Expressive/Business,0,hebrew
+Rubik Iso,,/Expressive/Cute,0,hebrew
 Rubik Iso,,/Expressive/Excited,55,
 Rubik Iso,,/Expressive/Fancy,0,hebrew
 Rubik Iso,,/Expressive/Futuristic,10,
@@ -29292,6 +29337,7 @@ Rubik Lines,,/Expressive/Active,0,hebrew
 Rubik Lines,,/Expressive/Artistic,0,hebrew
 Rubik Lines,,/Expressive/Awkward,84,
 Rubik Lines,,/Expressive/Business,0,hebrew
+Rubik Lines,,/Expressive/Cute,0,hebrew
 Rubik Lines,,/Expressive/Excited,30,
 Rubik Lines,,/Expressive/Fancy,0,hebrew
 Rubik Lines,,/Expressive/Futuristic,10,
@@ -29310,6 +29356,7 @@ Rubik Maps,,/Expressive/Active,0,hebrew
 Rubik Maps,,/Expressive/Artistic,0,hebrew
 Rubik Maps,,/Expressive/Awkward,90,
 Rubik Maps,,/Expressive/Business,0,hebrew
+Rubik Maps,,/Expressive/Cute,0,hebrew
 Rubik Maps,,/Expressive/Fancy,0,hebrew
 Rubik Maps,,/Expressive/Innovative,50,
 Rubik Maps,,/Expressive/Loud,34,
@@ -29326,6 +29373,7 @@ Rubik Marker Hatch,,/Expressive/Active,0,hebrew
 Rubik Marker Hatch,,/Expressive/Artistic,65,hebrew
 Rubik Marker Hatch,,/Expressive/Awkward,78,
 Rubik Marker Hatch,,/Expressive/Business,0,hebrew
+Rubik Marker Hatch,,/Expressive/Cute,0,hebrew
 Rubik Marker Hatch,,/Expressive/Excited,56,
 Rubik Marker Hatch,,/Expressive/Fancy,0,hebrew
 Rubik Marker Hatch,,/Expressive/Innovative,35,
@@ -29342,6 +29390,7 @@ Rubik Maze,,/Expressive/Active,55,hebrew
 Rubik Maze,,/Expressive/Artistic,77,hebrew
 Rubik Maze,,/Expressive/Awkward,75,
 Rubik Maze,,/Expressive/Business,0,hebrew
+Rubik Maze,,/Expressive/Cute,0,hebrew
 Rubik Maze,,/Expressive/Excited,48,
 Rubik Maze,,/Expressive/Fancy,0,hebrew
 Rubik Maze,,/Expressive/Futuristic,10,
@@ -29359,6 +29408,7 @@ Rubik Microbe,,/Expressive/Active,55,hebrew
 Rubik Microbe,,/Expressive/Artistic,80,hebrew
 Rubik Microbe,,/Expressive/Awkward,79,
 Rubik Microbe,,/Expressive/Business,0,hebrew
+Rubik Microbe,,/Expressive/Cute,0,hebrew
 Rubik Microbe,,/Expressive/Excited,10,
 Rubik Microbe,,/Expressive/Fancy,0,hebrew
 Rubik Microbe,,/Expressive/Innovative,60,
@@ -29407,6 +29457,7 @@ Rubik Pixels,,/Expressive/Active,55,hebrew
 Rubik Pixels,,/Expressive/Artistic,65,hebrew
 Rubik Pixels,,/Expressive/Awkward,79,
 Rubik Pixels,,/Expressive/Business,0,hebrew
+Rubik Pixels,,/Expressive/Cute,0,hebrew
 Rubik Pixels,,/Expressive/Excited,55,
 Rubik Pixels,,/Expressive/Fancy,0,hebrew
 Rubik Pixels,,/Expressive/Innovative,40,
@@ -29425,6 +29476,7 @@ Rubik Puddles,,/Expressive/Active,75,hebrew
 Rubik Puddles,,/Expressive/Artistic,80,hebrew
 Rubik Puddles,,/Expressive/Awkward,79,
 Rubik Puddles,,/Expressive/Business,0,hebrew
+Rubik Puddles,,/Expressive/Cute,0,hebrew
 Rubik Puddles,,/Expressive/Excited,78,
 Rubik Puddles,,/Expressive/Fancy,0,hebrew
 Rubik Puddles,,/Expressive/Happy,15,
@@ -29445,6 +29497,7 @@ Rubik Scribble,,/Expressive/Active,60,hebrew
 Rubik Scribble,,/Expressive/Artistic,0,hebrew
 Rubik Scribble,,/Expressive/Awkward,65,
 Rubik Scribble,,/Expressive/Business,0,hebrew
+Rubik Scribble,,/Expressive/Cute,50,hebrew
 Rubik Scribble,,/Expressive/Fancy,0,hebrew
 Rubik Scribble,,/Expressive/Innovative,0,hebrew
 Rubik Scribble,,/Expressive/Loud,0,hebrew
@@ -29463,6 +29516,7 @@ Rubik Spray Paint,,/Expressive/Active,0,hebrew
 Rubik Spray Paint,,/Expressive/Artistic,0,hebrew
 Rubik Spray Paint,,/Expressive/Awkward,73,
 Rubik Spray Paint,,/Expressive/Business,0,hebrew
+Rubik Spray Paint,,/Expressive/Cute,0,hebrew
 Rubik Spray Paint,,/Expressive/Excited,10,
 Rubik Spray Paint,,/Expressive/Fancy,0,hebrew
 Rubik Spray Paint,,/Expressive/Innovative,20,
@@ -29482,6 +29536,7 @@ Rubik Storm,,/Expressive/Active,55,hebrew
 Rubik Storm,,/Expressive/Artistic,65,hebrew
 Rubik Storm,,/Expressive/Awkward,77,
 Rubik Storm,,/Expressive/Business,0,hebrew
+Rubik Storm,,/Expressive/Cute,0,hebrew
 Rubik Storm,,/Expressive/Excited,10,
 Rubik Storm,,/Expressive/Fancy,0,hebrew
 Rubik Storm,,/Expressive/Innovative,50,
@@ -29501,6 +29556,7 @@ Rubik Vinyl,,/Expressive/Active,0,hebrew
 Rubik Vinyl,,/Expressive/Artistic,60,hebrew
 Rubik Vinyl,,/Expressive/Awkward,88,
 Rubik Vinyl,,/Expressive/Business,0,hebrew
+Rubik Vinyl,,/Expressive/Cute,0,hebrew
 Rubik Vinyl,,/Expressive/Excited,10,
 Rubik Vinyl,,/Expressive/Fancy,0,hebrew
 Rubik Vinyl,,/Expressive/Innovative,50,
@@ -29520,6 +29576,7 @@ Rubik Wet Paint,,/Expressive/Active,66,hebrew
 Rubik Wet Paint,,/Expressive/Artistic,60,hebrew
 Rubik Wet Paint,,/Expressive/Awkward,88,
 Rubik Wet Paint,,/Expressive/Business,0,hebrew
+Rubik Wet Paint,,/Expressive/Cute,0,hebrew
 Rubik Wet Paint,,/Expressive/Excited,10,
 Rubik Wet Paint,,/Expressive/Fancy,0,hebrew
 Rubik Wet Paint,,/Expressive/Innovative,35,
@@ -29552,6 +29609,8 @@ Rubik,wght@300,/Expressive/Childlike,10,
 Rubik,wght@900,/Expressive/Childlike,13,
 Rubik,wght@300,/Expressive/Competent,74,
 Rubik,wght@900,/Expressive/Competent,74,
+Rubik,wght@300,/Expressive/Cute,0,hebrew
+Rubik,wght@900,/Expressive/Cute,0,hebrew
 Rubik,wght@300,/Expressive/Fancy,0,hebrew
 Rubik,wght@900,/Expressive/Fancy,0,hebrew
 Rubik,wght@300,/Expressive/Happy,26,
@@ -30429,6 +30488,7 @@ Secular One,,/Expressive/Active,20,
 Secular One,,/Expressive/Artistic,0,hebrew
 Secular One,,/Expressive/Business,77,hebrew
 Secular One,,/Expressive/Calm,45,
+Secular One,,/Expressive/Cute,0,hebrew
 Secular One,,/Expressive/Fancy,0,hebrew
 Secular One,,/Expressive/Innovative,10,
 Secular One,,/Expressive/Loud,18,
@@ -31405,6 +31465,7 @@ Solitreo,,/Expressive/Awkward,32,
 Solitreo,,/Expressive/Business,0,hebrew
 Solitreo,,/Expressive/Childlike,70,
 Solitreo,,/Expressive/Cute,25,
+Solitreo,,/Expressive/Cute,0,hebrew
 Solitreo,,/Expressive/Excited,50,
 Solitreo,,/Expressive/Fancy,0,hebrew
 Solitreo,,/Expressive/Happy,12,
@@ -32322,6 +32383,7 @@ Sue Ellen Francisco,,/Script/Handwritten,100,
 Suez One,,/Expressive/Active,0,hebrew
 Suez One,,/Expressive/Artistic,0,hebrew
 Suez One,,/Expressive/Business,70,hebrew
+Suez One,,/Expressive/Cute,0,hebrew
 Suez One,,/Expressive/Fancy,0,hebrew
 Suez One,,/Expressive/Innovative,0,hebrew
 Suez One,,/Expressive/Loud,41,
@@ -33032,6 +33094,7 @@ Tinos,,/Expressive/Artistic,0,hebrew
 Tinos,,/Expressive/Business,82,
 Tinos,,/Expressive/Business,0,hebrew
 Tinos,,/Expressive/Competent,70,
+Tinos,,/Expressive/Cute,0,hebrew
 Tinos,,/Expressive/Fancy,0,hebrew
 Tinos,,/Expressive/Innovative,0,hebrew
 Tinos,,/Expressive/Loud,1,

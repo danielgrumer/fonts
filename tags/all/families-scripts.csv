@@ -2747,6 +2747,8 @@ Assistant,wght@200,/Expressive/Playful,1,
 Assistant,wght@800,/Expressive/Playful,1,
 Assistant,wght@200,/Expressive/Rugged,1,
 Assistant,wght@800,/Expressive/Rugged,12,
+Assistant,wght@200,/Expressive/Rugged,1,hebrew
+Assistant,wght@800,/Expressive/Rugged,12,hebrew
 Assistant,wght@200,/Expressive/Sophisticated,0,hebrew
 Assistant,wght@800,/Expressive/Sophisticated,0,hebrew
 Assistant,wght@200,/Expressive/Stiff,1,
@@ -10126,6 +10128,10 @@ Fredoka,"wdth,wght@75,300",/Expressive/Playful,50,
 Fredoka,"wdth,wght@75,700",/Expressive/Playful,68,
 Fredoka,"wdth,wght@125,300",/Expressive/Playful,60,
 Fredoka,"wdth,wght@125,700",/Expressive/Playful,75,
+Fredoka,"wdth,wght@75,300",/Expressive/Rugged,65,hebrew
+Fredoka,"wdth,wght@125,300",/Expressive/Rugged,50,hebrew
+Fredoka,"wdth,wght@75,700",/Expressive/Rugged,85,hebrew
+Fredoka,"wdth,wght@125,700",/Expressive/Rugged,75,hebrew
 Fredoka,wght@300,/Expressive/Sincere,10,
 Fredoka,wght@700,/Expressive/Sincere,10,
 Fredoka,"wdth,wght@75,300",/Expressive/Sophisticated,0,hebrew
@@ -11678,6 +11684,7 @@ Gveret Levin,,/Expressive/Happy,76,
 Gveret Levin,,/Expressive/Innovative,0,hebrew
 Gveret Levin,,/Expressive/Loud,60,hebrew
 Gveret Levin,,/Expressive/Playful,60,
+Gveret Levin,,/Expressive/Rugged,55,hebrew
 Gveret Levin,,/Expressive/Sophisticated,0,hebrew
 Gveret Levin,,/Expressive/Stiff,0,hebrew
 Gveret Levin,,/Quality/Concept,70,
@@ -11998,6 +12005,8 @@ Heebo,wght@100,/Expressive/Playful,1,
 Heebo,wght@900,/Expressive/Playful,1,
 Heebo,wght@100,/Expressive/Rugged,1,
 Heebo,wght@900,/Expressive/Rugged,12,
+Heebo,wght@100,/Expressive/Rugged,15,hebrew
+Heebo,wght@900,/Expressive/Rugged,75,hebrew
 Heebo,wght@100,/Expressive/Sophisticated,0,hebrew
 Heebo,wght@900,/Expressive/Sophisticated,0,hebrew
 Heebo,wght@100,/Expressive/Stiff,12,
@@ -20184,6 +20193,10 @@ Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Loud,12,
 Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Loud,70,
 Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Loud,14,
 Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Loud,72,
+Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Rugged,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Rugged,0,hebrew
+Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Rugged,75,hebrew
+Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Rugged,0,hebrew
 Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Sincere,18,
 Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Sincere,20,
 Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Sincere,22,
@@ -22756,6 +22769,10 @@ Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Loud,12,
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Loud,58,
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Loud,14,
 Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Loud,60,
+Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Rugged,15,hebrew
+Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Rugged,10,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Rugged,50,hebrew
+Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Rugged,55,hebrew
 Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Sincere,18,
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Sincere,20,
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Sincere,22,
@@ -23915,6 +23932,10 @@ Open Sans,"wdth,wght@75,300",/Expressive/Loud,12,
 Open Sans,"wdth,wght@75,800",/Expressive/Loud,74,
 Open Sans,"wdth,wght@100,300",/Expressive/Loud,16,
 Open Sans,"wdth,wght@100,800",/Expressive/Loud,75,
+Open Sans,"wdth,wght@75,300",/Expressive/Rugged,60,hebrew
+Open Sans,"wdth,wght@100,300",/Expressive/Rugged,55,hebrew
+Open Sans,"wdth,wght@75,800",/Expressive/Rugged,80,hebrew
+Open Sans,"wdth,wght@100,800",/Expressive/Rugged,65,hebrew
 Open Sans,"wdth,wght@75,300",/Expressive/Sincere,24,
 Open Sans,"wdth,wght@75,800",/Expressive/Sincere,12,
 Open Sans,"wdth,wght@100,300",/Expressive/Sincere,45,
@@ -29543,6 +29564,8 @@ Rubik,wght@300,/Expressive/Playful,5,
 Rubik,wght@900,/Expressive/Playful,24,
 Rubik,wght@300,/Expressive/Rugged,12,
 Rubik,wght@900,/Expressive/Rugged,45,
+Rubik,wght@300,/Expressive/Rugged,12,hebrew
+Rubik,wght@900,/Expressive/Rugged,75,hebrew
 Rubik,wght@300,/Expressive/Sophisticated,0,hebrew
 Rubik,wght@900,/Expressive/Sophisticated,0,hebrew
 Rubik,wght@300,/Expressive/Stiff,4,

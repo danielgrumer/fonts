@@ -601,7 +601,11 @@ Aldrich,,/Sans/Grotesque,10,
 Aldrich,,/Sans/Superellipse,90,
 Aldrich,,/Theme/Techno,10,
 Alef,,/Expressive/Active,10,
+Alef,,/Expressive/Artistic,0,hebrew
+Alef,,/Expressive/Business,70,hebrew
 Alef,,/Expressive/Calm,68,
+Alef,,/Expressive/Fancy,0,hebrew
+Alef,,/Expressive/Innovative,0,hebrew
 Alef,,/Expressive/Loud,1,
 Alef,,/Expressive/Rugged,45,
 Alef,,/Expressive/Sincere,50,
@@ -824,10 +828,10 @@ Alkalami,,/Quality/Spacing,60,
 Alkalami,,/Quality/Wordspace,100,
 Alkatra,wght@400,/Expressive/Active,51,
 Alkatra,wght@700,/Expressive/Active,55,
-Alkatra,wght@400,/Expressive/Artistic,56,bengali
-Alkatra,wght@700,/Expressive/Artistic,62,bengali
 Alkatra,wght@400,/Expressive/Active,86,bengali
 Alkatra,wght@700,/Expressive/Active,86,bengali
+Alkatra,wght@400,/Expressive/Artistic,56,bengali
+Alkatra,wght@700,/Expressive/Artistic,62,bengali
 Alkatra,wght@400,/Expressive/Awkward,22,
 Alkatra,wght@700,/Expressive/Awkward,25,
 Alkatra,wght@400,/Expressive/Awkward,64,bengali
@@ -870,10 +874,10 @@ Alkatra,,/Expressive/Rugged,30,
 Alkatra,,/Expressive/Rugged,0,bengali
 Alkatra,wght@400,/Expressive/Sincere,80,
 Alkatra,wght@700,/Expressive/Sincere,80,
-Alkatra,wght@400,/Expressive/Sophisticated,0,bengali
-Alkatra,wght@700,/Expressive/Sophisticated,0,bengali
 Alkatra,wght@400,/Expressive/Sincere,12,bengali
 Alkatra,wght@700,/Expressive/Sincere,10,bengali
+Alkatra,wght@400,/Expressive/Sophisticated,0,bengali
+Alkatra,wght@700,/Expressive/Sophisticated,0,bengali
 Alkatra,wght@400,/Expressive/Stiff,1,
 Alkatra,wght@700,/Expressive/Stiff,1,
 Alkatra,wght@400,/Expressive/Vintage,55,
@@ -1208,10 +1212,15 @@ Amarna,,/Quality/Drawing,100,
 Amarna,,/Quality/Spacing,100,
 Amarna,,/Quality/Wordspace,100,
 Amarna,,/Sans/Glyphic,100,
+Amatic SC,,/Expressive/Artistic,65,hebrew
 Amatic SC,,/Expressive/Awkward,41,
+Amatic SC,,/Expressive/Business,0,hebrew
 Amatic SC,,/Expressive/Childlike,20,
 Amatic SC,,/Expressive/Excited,5,
+Amatic SC,,/Expressive/Fancy,0,hebrew
 Amatic SC,,/Expressive/Happy,33,
+Amatic SC,,/Expressive/Innovative,75,hebrew
+Amatic SC,,/Expressive/Loud,0,hebrew
 Amatic SC,,/Expressive/Rugged,6,
 Amatic SC,,/Expressive/Sincere,5,
 Amatic SC,,/Expressive/Vintage,20,
@@ -1447,26 +1456,26 @@ Anek Bangla,"wdth,wght@75,100",/Expressive/Cute,4,
 Anek Bangla,"wdth,wght@75,800",/Expressive/Cute,4,
 Anek Bangla,"wdth,wght@125,100",/Expressive/Cute,4,
 Anek Bangla,"wdth,wght@125,800",/Expressive/Cute,4,
-Anek Bangla,"wdth,wght@75,100",/Expressive/Innovative,78,bengali
-Anek Bangla,"wdth,wght@125,100",/Expressive/Innovative,80,bengali
-Anek Bangla,"wdth,wght@75,800",/Expressive/Innovative,78,bengali
-Anek Bangla,"wdth,wght@125,800",/Expressive/Innovative,80,bengali
-Anek Bangla,"wdth,wght@75,100",/Expressive/Happy,0,bengali
-Anek Bangla,"wdth,wght@125,100",/Expressive/Happy,0,bengali
-Anek Bangla,"wdth,wght@75,800",/Expressive/Happy,0,bengali
-Anek Bangla,"wdth,wght@125,800",/Expressive/Happy,0,bengali
-Anek Bangla,"wdth,wght@75,100",/Expressive/Futuristic,62,bengali
-Anek Bangla,"wdth,wght@125,100",/Expressive/Futuristic,68,bengali
-Anek Bangla,"wdth,wght@75,800",/Expressive/Futuristic,62,bengali
-Anek Bangla,"wdth,wght@125,800",/Expressive/Futuristic,68,bengali
-Anek Bangla,"wdth,wght@75,100",/Expressive/Fancy,0,bengali
-Anek Bangla,"wdth,wght@125,100",/Expressive/Fancy,0,bengali
-Anek Bangla,"wdth,wght@75,800",/Expressive/Fancy,0,bengali
-Anek Bangla,"wdth,wght@125,800",/Expressive/Fancy,0,bengali
 Anek Bangla,"wdth,wght@75,100",/Expressive/Excited,0,bengali
 Anek Bangla,"wdth,wght@125,100",/Expressive/Excited,0,bengali
 Anek Bangla,"wdth,wght@75,800",/Expressive/Excited,0,bengali
 Anek Bangla,"wdth,wght@125,800",/Expressive/Excited,0,bengali
+Anek Bangla,"wdth,wght@75,100",/Expressive/Fancy,0,bengali
+Anek Bangla,"wdth,wght@125,100",/Expressive/Fancy,0,bengali
+Anek Bangla,"wdth,wght@75,800",/Expressive/Fancy,0,bengali
+Anek Bangla,"wdth,wght@125,800",/Expressive/Fancy,0,bengali
+Anek Bangla,"wdth,wght@75,100",/Expressive/Futuristic,62,bengali
+Anek Bangla,"wdth,wght@125,100",/Expressive/Futuristic,68,bengali
+Anek Bangla,"wdth,wght@75,800",/Expressive/Futuristic,62,bengali
+Anek Bangla,"wdth,wght@125,800",/Expressive/Futuristic,68,bengali
+Anek Bangla,"wdth,wght@75,100",/Expressive/Happy,0,bengali
+Anek Bangla,"wdth,wght@125,100",/Expressive/Happy,0,bengali
+Anek Bangla,"wdth,wght@75,800",/Expressive/Happy,0,bengali
+Anek Bangla,"wdth,wght@125,800",/Expressive/Happy,0,bengali
+Anek Bangla,"wdth,wght@75,100",/Expressive/Innovative,78,bengali
+Anek Bangla,"wdth,wght@125,100",/Expressive/Innovative,80,bengali
+Anek Bangla,"wdth,wght@75,800",/Expressive/Innovative,78,bengali
+Anek Bangla,"wdth,wght@125,800",/Expressive/Innovative,80,bengali
 Anek Bangla,"wdth,wght@75,100",/Expressive/Loud,5,
 Anek Bangla,"wdth,wght@75,800",/Expressive/Loud,70,
 Anek Bangla,"wdth,wght@125,100",/Expressive/Loud,5,
@@ -1491,12 +1500,12 @@ Anek Bangla,"wdth,wght@75,800",/Expressive/Sophisticated,0,bengali
 Anek Bangla,"wdth,wght@125,800",/Expressive/Sophisticated,0,bengali
 Anek Bangla,wght@100,/Expressive/Stiff,5,
 Anek Bangla,wght@800,/Expressive/Stiff,5,
+Anek Bangla,wght@100,/Expressive/Stiff,44,bengali
+Anek Bangla,wght@800,/Expressive/Stiff,54,bengali
 Anek Bangla,"wdth,wght@75,100",/Expressive/Vintage,0,bengali
 Anek Bangla,"wdth,wght@125,100",/Expressive/Vintage,0,bengali
 Anek Bangla,"wdth,wght@75,800",/Expressive/Vintage,0,bengali
 Anek Bangla,"wdth,wght@125,800",/Expressive/Vintage,0,bengali
-Anek Bangla,wght@100,/Expressive/Stiff,44,bengali
-Anek Bangla,wght@800,/Expressive/Stiff,54,bengali
 Anek Bangla,,/Quality/Concept,60,
 Anek Bangla,,/Quality/Drawing,70,
 Anek Bangla,,/Quality/Spacing,80,
@@ -1587,30 +1596,30 @@ Anek Gujarati,"wdth,wght@75,100",/Expressive/Cute,4,
 Anek Gujarati,"wdth,wght@75,800",/Expressive/Cute,4,
 Anek Gujarati,"wdth,wght@125,100",/Expressive/Cute,4,
 Anek Gujarati,"wdth,wght@125,800",/Expressive/Cute,4,
-Anek Gujarati,"wdth,wght@75,100",/Expressive/Happy,0,gujarati
-Anek Gujarati,"wdth,wght@125,100",/Expressive/Happy,0,gujarati
-Anek Gujarati,"wdth,wght@75,800",/Expressive/Happy,0,gujarati
-Anek Gujarati,"wdth,wght@125,800",/Expressive/Happy,0,gujarati
-Anek Gujarati,"wdth,wght@75,100",/Expressive/Fancy,0,gujarati
-Anek Gujarati,"wdth,wght@125,100",/Expressive/Fancy,0,gujarati
-Anek Gujarati,"wdth,wght@75,800",/Expressive/Fancy,0,gujarati
-Anek Gujarati,"wdth,wght@125,800",/Expressive/Fancy,0,gujarati
-Anek Gujarati,"wdth,wght@75,100",/Expressive/Excited,0,gujarati
-Anek Gujarati,"wdth,wght@125,100",/Expressive/Excited,0,gujarati
-Anek Gujarati,"wdth,wght@75,800",/Expressive/Excited,0,gujarati
-Anek Gujarati,"wdth,wght@125,800",/Expressive/Excited,0,gujarati
 Anek Gujarati,"wdth,wght@75,100",/Expressive/Cute,0,gujarati
 Anek Gujarati,"wdth,wght@75,800",/Expressive/Cute,0,gujarati
 Anek Gujarati,"wdth,wght@125,100",/Expressive/Cute,0,gujarati
 Anek Gujarati,"wdth,wght@125,800",/Expressive/Cute,0,gujarati
-Anek Gujarati,"wdth,wght@75,100",/Expressive/Innovative,78,gujarati
-Anek Gujarati,"wdth,wght@125,100",/Expressive/Innovative,80,gujarati
-Anek Gujarati,"wdth,wght@75,800",/Expressive/Innovative,78,gujarati
-Anek Gujarati,"wdth,wght@125,800",/Expressive/Innovative,80,gujarati
+Anek Gujarati,"wdth,wght@75,100",/Expressive/Excited,0,gujarati
+Anek Gujarati,"wdth,wght@125,100",/Expressive/Excited,0,gujarati
+Anek Gujarati,"wdth,wght@75,800",/Expressive/Excited,0,gujarati
+Anek Gujarati,"wdth,wght@125,800",/Expressive/Excited,0,gujarati
+Anek Gujarati,"wdth,wght@75,100",/Expressive/Fancy,0,gujarati
+Anek Gujarati,"wdth,wght@125,100",/Expressive/Fancy,0,gujarati
+Anek Gujarati,"wdth,wght@75,800",/Expressive/Fancy,0,gujarati
+Anek Gujarati,"wdth,wght@125,800",/Expressive/Fancy,0,gujarati
 Anek Gujarati,"wdth,wght@75,100",/Expressive/Futuristic,62,gujarati
 Anek Gujarati,"wdth,wght@125,100",/Expressive/Futuristic,68,gujarati
 Anek Gujarati,"wdth,wght@75,800",/Expressive/Futuristic,62,gujarati
 Anek Gujarati,"wdth,wght@125,800",/Expressive/Futuristic,68,gujarati
+Anek Gujarati,"wdth,wght@75,100",/Expressive/Happy,0,gujarati
+Anek Gujarati,"wdth,wght@125,100",/Expressive/Happy,0,gujarati
+Anek Gujarati,"wdth,wght@75,800",/Expressive/Happy,0,gujarati
+Anek Gujarati,"wdth,wght@125,800",/Expressive/Happy,0,gujarati
+Anek Gujarati,"wdth,wght@75,100",/Expressive/Innovative,78,gujarati
+Anek Gujarati,"wdth,wght@125,100",/Expressive/Innovative,80,gujarati
+Anek Gujarati,"wdth,wght@75,800",/Expressive/Innovative,78,gujarati
+Anek Gujarati,"wdth,wght@125,800",/Expressive/Innovative,80,gujarati
 Anek Gujarati,"wdth,wght@75,100",/Expressive/Loud,5,
 Anek Gujarati,"wdth,wght@75,800",/Expressive/Loud,70,
 Anek Gujarati,"wdth,wght@125,100",/Expressive/Loud,5,
@@ -2405,16 +2414,26 @@ Arima,,/Quality/Drawing,75,
 Arima,,/Quality/Spacing,70,
 Arima,,/Quality/Wordspace,80,
 Arima,,/Script/Upright Script,30,
+Arimo,wght@400,/Expressive/Active,0,hebrew
+Arimo,wght@700,/Expressive/Active,0,hebrew
+Arimo,wght@400,/Expressive/Artistic,0,hebrew
+Arimo,wght@700,/Expressive/Artistic,0,hebrew
 Arimo,wght@400,/Expressive/Awkward,5,
 Arimo,wght@700,/Expressive/Awkward,5,
 Arimo,wght@400,/Expressive/Business,80,
 Arimo,wght@700,/Expressive/Business,76,
+Arimo,wght@400,/Expressive/Business,55,hebrew
+Arimo,wght@700,/Expressive/Business,55,hebrew
 Arimo,wght@400,/Expressive/Calm,60,
 Arimo,wght@700,/Expressive/Calm,59,
 Arimo,wght@400,/Expressive/Childlike,4,
 Arimo,wght@700,/Expressive/Childlike,3,
 Arimo,wght@400,/Expressive/Competent,85,
 Arimo,wght@700,/Expressive/Competent,85,
+Arimo,wght@400,/Expressive/Fancy,0,hebrew
+Arimo,wght@700,/Expressive/Fancy,0,hebrew
+Arimo,wght@400,/Expressive/Innovative,0,hebrew
+Arimo,wght@700,/Expressive/Innovative,0,hebrew
 Arimo,,/Expressive/Loud,1,
 Arimo,wght@400,/Expressive/Playful,1,
 Arimo,wght@700,/Expressive/Playful,1,
@@ -2693,20 +2712,31 @@ Asset,,/Seasonal/Christmas,87,
 Asset,,/Seasonal/Halloween,90,
 Asset,,/Serif/Fat Face,100,
 Asset,,/Theme/Woodtype,90,
+Assistant,wght@200,/Expressive/Active,0,hebrew
+Assistant,wght@800,/Expressive/Active,0,hebrew
+Assistant,wght@200,/Expressive/Artistic,0,hebrew
+Assistant,wght@800,/Expressive/Artistic,0,hebrew
 Assistant,wght@200,/Expressive/Awkward,5,
 Assistant,wght@400,/Expressive/Awkward,5,
 Assistant,wght@800,/Expressive/Awkward,5,
 Assistant,wght@200,/Expressive/Business,25,
 Assistant,wght@400,/Expressive/Business,45,
 Assistant,wght@800,/Expressive/Business,26,
+Assistant,wght@200,/Expressive/Business,50,hebrew
+Assistant,wght@400,/Expressive/Business,90,hebrew
+Assistant,wght@800,/Expressive/Business,80,hebrew
 Assistant,wght@200,/Expressive/Calm,70,
 Assistant,wght@800,/Expressive/Calm,68,
 Assistant,wght@200,/Expressive/Childlike,2,
 Assistant,wght@800,/Expressive/Childlike,7,
 Assistant,wght@200,/Expressive/Competent,70,
 Assistant,wght@800,/Expressive/Competent,70,
+Assistant,wght@200,/Expressive/Fancy,0,hebrew
+Assistant,wght@800,/Expressive/Fancy,0,hebrew
 Assistant,wght@200,/Expressive/Happy,6,
 Assistant,wght@800,/Expressive/Happy,12,
+Assistant,wght@200,/Expressive/Innovative,0,hebrew
+Assistant,wght@800,/Expressive/Innovative,0,hebrew
 Assistant,,/Expressive/Loud,1,
 Assistant,wght@200,/Expressive/Playful,1,
 Assistant,wght@800,/Expressive/Playful,1,
@@ -2849,29 +2879,29 @@ Atkinson Hyperlegible,,/Quality/Drawing,68,
 Atkinson Hyperlegible,,/Quality/Spacing,80,
 Atkinson Hyperlegible,,/Quality/Wordspace,90,
 Atkinson Hyperlegible,,/Sans/Grotesque,70,
-Atma,,/Expressive/Artistic,84,bengali
 Atma,,/Expressive/Active,74,bengali
+Atma,,/Expressive/Artistic,84,bengali
 Atma,,/Expressive/Awkward,10,
 Atma,,/Expressive/Awkward,94,bengali
-Atma,,/Expressive/Competent,0,bengali
-Atma,,/Expressive/Childlike,84,bengali
-Atma,,/Expressive/Calm,0,bengali
 Atma,,/Expressive/Business,0,bengali
+Atma,,/Expressive/Calm,0,bengali
+Atma,,/Expressive/Childlike,84,bengali
+Atma,,/Expressive/Competent,0,bengali
 Atma,,/Expressive/Cute,70,
 Atma,,/Expressive/Cute,85,bengali
 Atma,,/Expressive/Excited,76,
-Atma,,/Expressive/Futuristic,0,bengali
 Atma,,/Expressive/Fancy,8,bengali
+Atma,,/Expressive/Futuristic,0,bengali
 Atma,,/Expressive/Happy,91,
-Atma,,/Expressive/Innovative,22,bengali
 Atma,,/Expressive/Happy,42,bengali
+Atma,,/Expressive/Innovative,22,bengali
 Atma,,/Expressive/Loud,1,
 Atma,,/Expressive/Playful,75,
 Atma,,/Expressive/Rugged,20,
-Atma,,/Expressive/Stiff,0,bengali
-Atma,,/Expressive/Sophisticated,0,bengali
-Atma,,/Expressive/Sincere,20,bengali
 Atma,,/Expressive/Rugged,0,bengali
+Atma,,/Expressive/Sincere,20,bengali
+Atma,,/Expressive/Sophisticated,0,bengali
+Atma,,/Expressive/Stiff,0,bengali
 Atma,,/Expressive/Vintage,65,
 Atma,,/Quality/Concept,60,
 Atma,,/Quality/Drawing,60,
@@ -3362,12 +3392,12 @@ Baloo Bhai 2,wght@400,/Expressive/Childlike,32,gujarati
 Baloo Bhai 2,wght@800,/Expressive/Childlike,38,gujarati
 Baloo Bhai 2,wght@400,/Expressive/Competent,62,
 Baloo Bhai 2,wght@800,/Expressive/Competent,62,
-Baloo Bhai 2,wght@400,/Expressive/Fancy,0,gujarati
-Baloo Bhai 2,wght@800,/Expressive/Fancy,0,gujarati
-Baloo Bhai 2,wght@400,/Expressive/Excited,8,gujarati
-Baloo Bhai 2,wght@800,/Expressive/Excited,12,gujarati
 Baloo Bhai 2,wght@400,/Expressive/Cute,18,gujarati
 Baloo Bhai 2,wght@800,/Expressive/Cute,22,gujarati
+Baloo Bhai 2,wght@400,/Expressive/Excited,8,gujarati
+Baloo Bhai 2,wght@800,/Expressive/Excited,12,gujarati
+Baloo Bhai 2,wght@400,/Expressive/Fancy,0,gujarati
+Baloo Bhai 2,wght@800,/Expressive/Fancy,0,gujarati
 Baloo Bhai 2,wght@400,/Expressive/Futuristic,10,
 Baloo Bhai 2,wght@800,/Expressive/Futuristic,15,
 Baloo Bhai 2,wght@400,/Expressive/Futuristic,4,gujarati
@@ -3464,10 +3494,10 @@ Baloo Chettan 2,,/Quality/Drawing,75,
 Baloo Chettan 2,,/Quality/Spacing,70,
 Baloo Chettan 2,,/Quality/Wordspace,100,
 Baloo Chettan 2,,/Sans/Rounded,100,
-Baloo Da 2,wght@400,/Expressive/Artistic,14,bengali
-Baloo Da 2,wght@800,/Expressive/Artistic,18,bengali
 Baloo Da 2,wght@400,/Expressive/Active,28,bengali
 Baloo Da 2,wght@800,/Expressive/Active,28,bengali
+Baloo Da 2,wght@400,/Expressive/Artistic,14,bengali
+Baloo Da 2,wght@800,/Expressive/Artistic,18,bengali
 Baloo Da 2,wght@400,/Expressive/Awkward,5,
 Baloo Da 2,wght@800,/Expressive/Awkward,5,
 Baloo Da 2,wght@400,/Expressive/Business,70,
@@ -3482,12 +3512,12 @@ Baloo Da 2,wght@400,/Expressive/Childlike,32,bengali
 Baloo Da 2,wght@800,/Expressive/Childlike,38,bengali
 Baloo Da 2,wght@400,/Expressive/Competent,60,
 Baloo Da 2,wght@800,/Expressive/Competent,60,
-Baloo Da 2,wght@400,/Expressive/Fancy,0,bengali
-Baloo Da 2,wght@800,/Expressive/Fancy,0,bengali
-Baloo Da 2,wght@400,/Expressive/Excited,8,bengali
-Baloo Da 2,wght@800,/Expressive/Excited,12,bengali
 Baloo Da 2,wght@400,/Expressive/Cute,18,bengali
 Baloo Da 2,wght@800,/Expressive/Cute,22,bengali
+Baloo Da 2,wght@400,/Expressive/Excited,8,bengali
+Baloo Da 2,wght@800,/Expressive/Excited,12,bengali
+Baloo Da 2,wght@400,/Expressive/Fancy,0,bengali
+Baloo Da 2,wght@800,/Expressive/Fancy,0,bengali
 Baloo Da 2,wght@400,/Expressive/Futuristic,10,
 Baloo Da 2,wght@800,/Expressive/Futuristic,15,
 Baloo Da 2,wght@400,/Expressive/Futuristic,4,bengali
@@ -3502,11 +3532,11 @@ Baloo Da 2,wght@800,/Expressive/Playful,30,
 Baloo Da 2,wght@400,/Expressive/Playful,8,bengali
 Baloo Da 2,wght@800,/Expressive/Playful,16,bengali
 Baloo Da 2,,/Expressive/Rugged,30,
-Baloo Da 2,wght@400,/Expressive/Sophisticated,0,bengali
-Baloo Da 2,wght@800,/Expressive/Sophisticated,0,bengali
+Baloo Da 2,,/Expressive/Rugged,12,bengali
 Baloo Da 2,wght@400,/Expressive/Sincere,28,bengali
 Baloo Da 2,wght@800,/Expressive/Sincere,34,bengali
-Baloo Da 2,,/Expressive/Rugged,12,bengali
+Baloo Da 2,wght@400,/Expressive/Sophisticated,0,bengali
+Baloo Da 2,wght@800,/Expressive/Sophisticated,0,bengali
 Baloo Da 2,wght@400,/Expressive/Stiff,20,
 Baloo Da 2,wght@800,/Expressive/Stiff,20,
 Baloo Da 2,wght@400,/Expressive/Stiff,0,bengali
@@ -3924,8 +3954,12 @@ Belgrano,,/Quality/Concept,60,
 Belgrano,,/Quality/Drawing,70,
 Belgrano,,/Quality/Spacing,60,
 Belgrano,,/Quality/Wordspace,80,
+Bellefair,,/Expressive/Artistic,55,hebrew
 Bellefair,,/Expressive/Business,50,
 Bellefair,,/Expressive/Competent,40,
+Bellefair,,/Expressive/Fancy,0,hebrew
+Bellefair,,/Expressive/Innovative,0,hebrew
+Bellefair,,/Expressive/Loud,0,hebrew
 Bellefair,,/Expressive/Rugged,20,
 Bellefair,,/Expressive/Sincere,60,
 Bellefair,,/Expressive/Vintage,70,
@@ -4943,8 +4977,13 @@ Boldonse,,/Quality/Drawing,60,
 Boldonse,,/Quality/Spacing,70,
 Boldonse,,/Quality/Wordspace,80,
 Boldonse,,/Sans/Grotesque,100,
+Bona Nova SC,,/Expressive/Active,0,hebrew
+Bona Nova SC,,/Expressive/Artistic,0,hebrew
 Bona Nova SC,,/Expressive/Business,65,
+Bona Nova SC,,/Expressive/Business,0,hebrew
 Bona Nova SC,,/Expressive/Calm,20,
+Bona Nova SC,,/Expressive/Fancy,65,hebrew
+Bona Nova SC,,/Expressive/Innovative,0,hebrew
 Bona Nova SC,,/Expressive/Loud,1,
 Bona Nova SC,,/Expressive/Rugged,50,
 Bona Nova SC,,/Expressive/Sincere,60,
@@ -4954,9 +4993,14 @@ Bona Nova SC,,/Quality/Drawing,72,
 Bona Nova SC,,/Quality/Spacing,80,
 Bona Nova SC,,/Quality/Wordspace,60,
 Bona Nova SC,,/Serif/Humanist Venetian,100,
+Bona Nova,,/Expressive/Active,0,hebrew
+Bona Nova,,/Expressive/Artistic,60,hebrew
 Bona Nova,,/Expressive/Business,67,
+Bona Nova,,/Expressive/Business,0,hebrew
 Bona Nova,,/Expressive/Calm,20,
 Bona Nova,,/Expressive/Competent,50,
+Bona Nova,,/Expressive/Fancy,65,hebrew
+Bona Nova,,/Expressive/Innovative,0,hebrew
 Bona Nova,,/Expressive/Loud,1,
 Bona Nova,,/Expressive/Rugged,30,
 Bona Nova,,/Expressive/Sincere,60,
@@ -5903,8 +5947,13 @@ Carattere,,/Quality/Spacing,70,
 Carattere,,/Quality/Wordspace,90,
 Carattere,,/Script/Formal,80,
 Carattere,,/Script/Handwritten,20,
+Cardo,,/Expressive/Active,0,hebrew
+Cardo,,/Expressive/Artistic,0,hebrew
 Cardo,,/Expressive/Business,55,
+Cardo,,/Expressive/Business,0,hebrew
 Cardo,,/Expressive/Competent,40,
+Cardo,,/Expressive/Fancy,0,hebrew
+Cardo,,/Expressive/Innovative,0,hebrew
 Cardo,,/Expressive/Loud,1,
 Cardo,,/Expressive/Rugged,30,
 Cardo,,/Expressive/Sincere,70,
@@ -5981,18 +6030,28 @@ Carter One,,/Sans/Glyphic,40,
 Carter One,,/Sans/Humanist,80,
 Carter One,,/Script/Handwritten,30,
 Carter One,,/Seasonal/Hanukkah,95,
+Cascadia Code,wght@200,/Expressive/Active,0,hebrew
+Cascadia Code,wght@700,/Expressive/Active,0,hebrew
+Cascadia Code,wght@200,/Expressive/Artistic,0,hebrew
+Cascadia Code,wght@700,/Expressive/Artistic,0,hebrew
 Cascadia Code,wght@200,/Expressive/Awkward,5,
 Cascadia Code,wght@400,/Expressive/Awkward,5,
 Cascadia Code,wght@700,/Expressive/Awkward,5,
+Cascadia Code,wght@200,/Expressive/Business,0,hebrew
+Cascadia Code,wght@700,/Expressive/Business,0,hebrew
 Cascadia Code,wght@200,/Expressive/Calm,45,
 Cascadia Code,wght@700,/Expressive/Calm,43,
 Cascadia Code,wght@200,/Expressive/Childlike,1,
 Cascadia Code,wght@700,/Expressive/Childlike,3,
 Cascadia Code,wght@200,/Expressive/Competent,64,
 Cascadia Code,wght@700,/Expressive/Competent,64,
+Cascadia Code,wght@200,/Expressive/Fancy,0,hebrew
+Cascadia Code,wght@700,/Expressive/Fancy,0,hebrew
 Cascadia Code,wght@200,/Expressive/Futuristic,22,
 Cascadia Code,wght@400,/Expressive/Futuristic,25,
 Cascadia Code,wght@700,/Expressive/Futuristic,28,
+Cascadia Code,wght@200,/Expressive/Innovative,68,hebrew
+Cascadia Code,wght@700,/Expressive/Innovative,55,hebrew
 Cascadia Code,,/Expressive/Loud,4,
 Cascadia Code,wght@200,/Expressive/Playful,1,
 Cascadia Code,wght@700,/Expressive/Playful,1,
@@ -6006,18 +6065,28 @@ Cascadia Code,,/Quality/Drawing,70,
 Cascadia Code,,/Quality/Spacing,90,
 Cascadia Code,,/Quality/Wordspace,100,
 Cascadia Code,,/Sans/Humanist,70,
+Cascadia Mono,wght@200,/Expressive/Active,0,hebrew
+Cascadia Mono,wght@700,/Expressive/Active,0,hebrew
+Cascadia Mono,wght@200,/Expressive/Artistic,0,hebrew
+Cascadia Mono,wght@700,/Expressive/Artistic,0,hebrew
 Cascadia Mono,wght@200,/Expressive/Awkward,5,
 Cascadia Mono,wght@400,/Expressive/Awkward,5,
 Cascadia Mono,wght@700,/Expressive/Awkward,5,
+Cascadia Mono,wght@200,/Expressive/Business,0,hebrew
+Cascadia Mono,wght@700,/Expressive/Business,0,hebrew
 Cascadia Mono,wght@200,/Expressive/Calm,40,
 Cascadia Mono,wght@700,/Expressive/Calm,34,
 Cascadia Mono,wght@200,/Expressive/Childlike,1,
 Cascadia Mono,wght@700,/Expressive/Childlike,9,
 Cascadia Mono,wght@200,/Expressive/Competent,62,
 Cascadia Mono,wght@700,/Expressive/Competent,62,
+Cascadia Mono,wght@200,/Expressive/Fancy,0,hebrew
+Cascadia Mono,wght@700,/Expressive/Fancy,0,hebrew
 Cascadia Mono,wght@200,/Expressive/Futuristic,24,
 Cascadia Mono,wght@400,/Expressive/Futuristic,25,
 Cascadia Mono,wght@700,/Expressive/Futuristic,26,
+Cascadia Mono,wght@200,/Expressive/Innovative,68,hebrew
+Cascadia Mono,wght@700,/Expressive/Innovative,55,hebrew
 Cascadia Mono,,/Expressive/Loud,4,
 Cascadia Mono,wght@200,/Expressive/Playful,1,
 Cascadia Mono,wght@700,/Expressive/Playful,1,
@@ -7274,9 +7343,13 @@ Courier Prime,,/Quality/Drawing,70,
 Courier Prime,,/Quality/Spacing,90,
 Courier Prime,,/Quality/Wordspace,100,
 Courier Prime,,/Slab/Clarendon,70,
+Cousine,,/Expressive/Active,0,hebrew
+Cousine,,/Expressive/Artistic,0,hebrew
 Cousine,,/Expressive/Business,10,
 Cousine,,/Expressive/Calm,60,
+Cousine,,/Expressive/Fancy,0,hebrew
 Cousine,,/Expressive/Futuristic,25,
+Cousine,,/Expressive/Innovative,0,hebrew
 Cousine,,/Expressive/Loud,1,
 Cousine,,/Expressive/Rugged,50,
 Cousine,,/Expressive/Stiff,18,
@@ -7695,6 +7768,11 @@ Datatype,,/Quality/Spacing,90,
 Datatype,,/Quality/Wordspace,100,
 Datatype,,/Sans/Neo Grotesque,80,
 Datatype,,/Special use/Symbols,100,
+David Libre,,/Expressive/Active,0,hebrew
+David Libre,,/Expressive/Artistic,0,hebrew
+David Libre,,/Expressive/Business,60,hebrew
+David Libre,,/Expressive/Fancy,75,hebrew
+David Libre,,/Expressive/Innovative,0,hebrew
 David Libre,,/Expressive/Loud,1,
 David Libre,,/Expressive/Rugged,30,
 David Libre,,/Expressive/Vintage,20,
@@ -9344,21 +9422,21 @@ Farro,,/Quality/Wordspace,70,
 Farro,,/Sans/Glyphic,100,
 Farro,,/Sans/Humanist,80,
 Farsan,,/Expressive/Active,45,
-Farsan,,/Expressive/Calm,0,gujarati
-Farsan,,/Expressive/Business,0,gujarati
-Farsan,,/Expressive/Awkward,22,gujarati
 Farsan,,/Expressive/Active,84,gujarati
+Farsan,,/Expressive/Awkward,22,gujarati
+Farsan,,/Expressive/Business,0,gujarati
+Farsan,,/Expressive/Calm,0,gujarati
 Farsan,,/Expressive/Childlike,85,
+Farsan,,/Expressive/Childlike,58,gujarati
 Farsan,,/Expressive/Competent,0,gujarati
 Farsan,,/Expressive/Cute,4,gujarati
-Farsan,,/Expressive/Childlike,58,gujarati
 Farsan,,/Expressive/Excited,10,
-Farsan,,/Expressive/Futuristic,0,gujarati
-Farsan,,/Expressive/Fancy,20,gujarati
 Farsan,,/Expressive/Excited,54,gujarati
+Farsan,,/Expressive/Fancy,20,gujarati
+Farsan,,/Expressive/Futuristic,0,gujarati
 Farsan,,/Expressive/Happy,20,
-Farsan,,/Expressive/Innovative,84,gujarati
 Farsan,,/Expressive/Happy,48,gujarati
+Farsan,,/Expressive/Innovative,84,gujarati
 Farsan,,/Expressive/Loud,1,
 Farsan,,/Expressive/Loud,0,gujarati
 Farsan,,/Expressive/Playful,10,
@@ -9870,6 +9948,10 @@ Francois One,,/Quality/Wordspace,80,
 Francois One,,/Sans/Grotesque,20,
 Francois One,,/Sans/Humanist,10,
 Francois One,,/Sans/Neo Grotesque,80,
+Frank Ruhl Libre,wght@300,/Expressive/Active,0,hebrew
+Frank Ruhl Libre,wght@900,/Expressive/Active,0,hebrew
+Frank Ruhl Libre,wght@300,/Expressive/Artistic,0,hebrew
+Frank Ruhl Libre,wght@900,/Expressive/Artistic,0,hebrew
 Frank Ruhl Libre,wght@300,/Expressive/Awkward,5,
 Frank Ruhl Libre,wght@400,/Expressive/Awkward,5,
 Frank Ruhl Libre,wght@900,/Expressive/Awkward,5,
@@ -9884,6 +9966,8 @@ Frank Ruhl Libre,wght@300,/Expressive/Competent,62,
 Frank Ruhl Libre,wght@900,/Expressive/Competent,58,
 Frank Ruhl Libre,wght@300,/Expressive/Fancy,12,
 Frank Ruhl Libre,wght@900,/Expressive/Fancy,14,
+Frank Ruhl Libre,wght@300,/Expressive/Innovative,0,hebrew
+Frank Ruhl Libre,wght@900,/Expressive/Innovative,0,hebrew
 Frank Ruhl Libre,wght@600,/Expressive/Loud,41,
 Frank Ruhl Libre,wght@900,/Expressive/Loud,64,
 Frank Ruhl Libre,wght@300,/Expressive/Playful,1,
@@ -9996,10 +10080,18 @@ Fredoka,"wdth,wght@75,300",/Expressive/Excited,1,
 Fredoka,"wdth,wght@75,700",/Expressive/Excited,5,
 Fredoka,"wdth,wght@125,300",/Expressive/Excited,5,
 Fredoka,"wdth,wght@125,700",/Expressive/Excited,8,
+Fredoka,"wdth,wght@75,300",/Expressive/Fancy,0,hebrew
+Fredoka,"wdth,wght@125,300",/Expressive/Fancy,0,hebrew
+Fredoka,"wdth,wght@75,700",/Expressive/Fancy,0,hebrew
+Fredoka,"wdth,wght@125,700",/Expressive/Fancy,0,hebrew
 Fredoka,"wdth,wght@75,300",/Expressive/Happy,50,
 Fredoka,"wdth,wght@75,700",/Expressive/Happy,55,
 Fredoka,"wdth,wght@125,300",/Expressive/Happy,54,
 Fredoka,"wdth,wght@125,700",/Expressive/Happy,58,
+Fredoka,"wdth,wght@75,300",/Expressive/Innovative,55,hebrew
+Fredoka,"wdth,wght@125,300",/Expressive/Innovative,65,hebrew
+Fredoka,"wdth,wght@75,700",/Expressive/Innovative,20,hebrew
+Fredoka,"wdth,wght@125,700",/Expressive/Innovative,30,hebrew
 Fredoka,"wdth,wght@75,300",/Expressive/Loud,42,
 Fredoka,"wdth,wght@75,700",/Expressive/Loud,75,
 Fredoka,"wdth,wght@125,300",/Expressive/Loud,52,
@@ -10344,31 +10436,31 @@ Gajraj One,,/Quality/Wordspace,100,
 Galada,,/Expressive/Active,20,
 Galada,,/Expressive/Active,76,bengali
 Galada,,/Expressive/Artistic,75,
-Galada,,/Expressive/Competent,0,bengali
-Galada,,/Expressive/Childlike,16,bengali
-Galada,,/Expressive/Calm,8,bengali
+Galada,,/Expressive/Artistic,50,bengali
 Galada,,/Expressive/Awkward,24,bengali
 Galada,,/Expressive/Business,0,bengali
-Galada,,/Expressive/Artistic,50,bengali
+Galada,,/Expressive/Calm,8,bengali
+Galada,,/Expressive/Childlike,16,bengali
+Galada,,/Expressive/Competent,0,bengali
 Galada,,/Expressive/Cute,35,
 Galada,,/Expressive/Cute,8,bengali
 Galada,,/Expressive/Excited,50,
 Galada,,/Expressive/Excited,24,bengali
 Galada,,/Expressive/Fancy,92,
-Galada,,/Expressive/Futuristic,0,bengali
 Galada,,/Expressive/Fancy,4,bengali
+Galada,,/Expressive/Futuristic,0,bengali
 Galada,,/Expressive/Happy,36,
-Galada,,/Expressive/Innovative,52,bengali
 Galada,,/Expressive/Happy,4,bengali
+Galada,,/Expressive/Innovative,52,bengali
 Galada,,/Expressive/Loud,50,
 Galada,,/Expressive/Playful,51,
 Galada,,/Expressive/Playful,36,bengali
 Galada,,/Expressive/Rugged,40,
 Galada,,/Expressive/Rugged,0,bengali
 Galada,,/Expressive/Sincere,78,
-Galada,,/Expressive/Stiff,0,bengali
-Galada,,/Expressive/Sophisticated,40,bengali
 Galada,,/Expressive/Sincere,66,bengali
+Galada,,/Expressive/Sophisticated,40,bengali
+Galada,,/Expressive/Stiff,0,bengali
 Galada,,/Expressive/Vintage,65,
 Galada,,/Expressive/Vintage,28,bengali
 Galada,,/Quality/Concept,70,
@@ -11124,12 +11216,12 @@ Google Sans Flex,,/Quality/Spacing,100,
 Google Sans Flex,,/Quality/Wordspace,100,
 Google Sans Flex,,/Sans/Geometric,85,
 Google Sans Flex,,/Sans/Grotesque,20,
-Google Sans,wght@400,/Expressive/Artistic,0,bengali
-Google Sans,wght@700,/Expressive/Artistic,0,bengali
 Google Sans,wght@400,/Expressive/Active,0,bengali
 Google Sans,wght@700,/Expressive/Active,0,bengali
 Google Sans,wght@400,/Expressive/Active,0,gujarati
 Google Sans,wght@700,/Expressive/Active,0,gujarati
+Google Sans,wght@400,/Expressive/Artistic,0,bengali
+Google Sans,wght@700,/Expressive/Artistic,0,bengali
 Google Sans,wght@400,/Expressive/Awkward,5,
 Google Sans,wght@700,/Expressive/Awkward,5,
 Google Sans,wght@400,/Expressive/Awkward,0,gujarati
@@ -11137,57 +11229,59 @@ Google Sans,wght@700,/Expressive/Awkward,0,gujarati
 Google Sans,wght@400,/Expressive/Business,92,
 Google Sans,wght@700,/Expressive/Business,89,
 Google Sans,,/Expressive/Calm,80,
+Google Sans,,/Expressive/Calm,99,bengali
+Google Sans,,/Expressive/Calm,99,gujarati
 Google Sans,wght@400,/Expressive/Childlike,0,bengali
 Google Sans,wght@700,/Expressive/Childlike,0,bengali
-Google Sans,,/Expressive/Calm,99,bengali
 Google Sans,wght@400,/Expressive/Childlike,0,gujarati
 Google Sans,wght@700,/Expressive/Childlike,0,gujarati
-Google Sans,,/Expressive/Calm,99,gujarati
 Google Sans,,/Expressive/Competent,100,
-Google Sans,wght@400,/Expressive/Happy,0,bengali
-Google Sans,wght@700,/Expressive/Happy,0,bengali
-Google Sans,wght@400,/Expressive/Futuristic,0,bengali
-Google Sans,wght@700,/Expressive/Futuristic,0,bengali
-Google Sans,wght@400,/Expressive/Fancy,0,bengali
-Google Sans,wght@700,/Expressive/Fancy,0,bengali
-Google Sans,wght@400,/Expressive/Excited,0,bengali
-Google Sans,wght@700,/Expressive/Excited,0,bengali
 Google Sans,wght@400,/Expressive/Cute,0,bengali
 Google Sans,wght@700,/Expressive/Cute,0,bengali
-Google Sans,wght@400,/Expressive/Happy,0,gujarati
-Google Sans,wght@700,/Expressive/Happy,0,gujarati
-Google Sans,wght@400,/Expressive/Futuristic,0,gujarati
-Google Sans,wght@700,/Expressive/Futuristic,0,gujarati
-Google Sans,wght@400,/Expressive/Fancy,0,gujarati
-Google Sans,wght@700,/Expressive/Fancy,0,gujarati
-Google Sans,wght@400,/Expressive/Excited,0,gujarati
-Google Sans,wght@700,/Expressive/Excited,0,gujarati
 Google Sans,wght@400,/Expressive/Cute,0,gujarati
 Google Sans,wght@700,/Expressive/Cute,0,gujarati
+Google Sans,wght@400,/Expressive/Excited,0,bengali
+Google Sans,wght@700,/Expressive/Excited,0,bengali
+Google Sans,wght@400,/Expressive/Excited,0,gujarati
+Google Sans,wght@700,/Expressive/Excited,0,gujarati
+Google Sans,wght@400,/Expressive/Fancy,0,bengali
+Google Sans,wght@700,/Expressive/Fancy,0,bengali
+Google Sans,wght@400,/Expressive/Fancy,0,gujarati
+Google Sans,wght@700,/Expressive/Fancy,0,gujarati
+Google Sans,wght@400,/Expressive/Futuristic,0,bengali
+Google Sans,wght@700,/Expressive/Futuristic,0,bengali
+Google Sans,wght@400,/Expressive/Futuristic,0,gujarati
+Google Sans,wght@700,/Expressive/Futuristic,0,gujarati
+Google Sans,wght@400,/Expressive/Happy,0,bengali
+Google Sans,wght@700,/Expressive/Happy,0,bengali
+Google Sans,wght@400,/Expressive/Happy,0,gujarati
+Google Sans,wght@700,/Expressive/Happy,0,gujarati
 Google Sans,wght@400,/Expressive/Innovative,40,
 Google Sans,wght@700,/Expressive/Innovative,42,
-Google Sans,wght@400,/Expressive/Loud,0,bengali
-Google Sans,wght@700,/Expressive/Loud,0,bengali
 Google Sans,wght@400,/Expressive/Innovative,10,bengali
 Google Sans,wght@700,/Expressive/Innovative,10,bengali
 Google Sans,wght@400,/Expressive/Innovative,10,gujarati
 Google Sans,wght@700,/Expressive/Innovative,10,gujarati
+Google Sans,wght@400,/Expressive/Innovative,30,hebrew
+Google Sans,wght@700,/Expressive/Innovative,30,hebrew
+Google Sans,wght@400,/Expressive/Loud,0,bengali
+Google Sans,wght@700,/Expressive/Loud,0,bengali
 Google Sans,wght@400,/Expressive/Loud,0,gujarati
 Google Sans,wght@700,/Expressive/Loud,0,gujarati
 Google Sans,wght@400,/Expressive/Playful,1,
 Google Sans,wght@700,/Expressive/Playful,1,
 Google Sans,wght@400,/Expressive/Rugged,2,
 Google Sans,wght@700,/Expressive/Rugged,12,
-Google Sans,wght@400,/Expressive/Vintage,0,bengali
-Google Sans,wght@700,/Expressive/Vintage,0,bengali
-Google Sans,wght@400,/Expressive/Stiff,0,bengali
-Google Sans,wght@700,/Expressive/Stiff,0,bengali
-Google Sans,wght@400,/Expressive/Sophisticated,0,bengali
-Google Sans,wght@700,/Expressive/Sophisticated,0,bengali
-Google Sans,wght@400,/Expressive/Sincere,50,bengali
-Google Sans,wght@700,/Expressive/Sincere,50,bengali
 Google Sans,wght@400,/Expressive/Rugged,0,bengali
 Google Sans,wght@700,/Expressive/Rugged,0,bengali
+Google Sans,wght@400,/Expressive/Sincere,50,bengali
+Google Sans,wght@700,/Expressive/Sincere,50,bengali
+Google Sans,wght@400,/Expressive/Sophisticated,0,bengali
+Google Sans,wght@700,/Expressive/Sophisticated,0,bengali
+Google Sans,wght@400,/Expressive/Stiff,0,bengali
+Google Sans,wght@700,/Expressive/Stiff,0,bengali
+Google Sans,wght@400,/Expressive/Vintage,0,bengali
+Google Sans,wght@700,/Expressive/Vintage,0,bengali
 Google Sans,,/Quality/Concept,100,
 Google Sans,,/Quality/Drawing,100,
 Google Sans,,/Quality/Spacing,100,
@@ -11545,10 +11639,14 @@ Gurajada,,/Seasonal/Holi,98,
 Gveret Levin,,/Expressive/Active,80,
 Gveret Levin,,/Expressive/Artistic,80,
 Gveret Levin,,/Expressive/Awkward,12,
+Gveret Levin,,/Expressive/Business,0,hebrew
 Gveret Levin,,/Expressive/Childlike,40,
 Gveret Levin,,/Expressive/Cute,30,
 Gveret Levin,,/Expressive/Excited,50,
+Gveret Levin,,/Expressive/Fancy,0,hebrew
 Gveret Levin,,/Expressive/Happy,76,
+Gveret Levin,,/Expressive/Innovative,0,hebrew
+Gveret Levin,,/Expressive/Loud,60,hebrew
 Gveret Levin,,/Expressive/Playful,60,
 Gveret Levin,,/Quality/Concept,70,
 Gveret Levin,,/Quality/Drawing,70,
@@ -11679,7 +11777,15 @@ Hanalei,,/Quality/Spacing,40,
 Hanalei,,/Quality/Wordspace,90,
 Hanalei,,/Sans/Glyphic,50,
 Hanalei,,/Theme/Wacky,20,
+Handjet,wght@100,/Expressive/Active,0,hebrew
+Handjet,wght@900,/Expressive/Active,0,hebrew
+Handjet,wght@100,/Expressive/Artistic,75,hebrew
+Handjet,wght@900,/Expressive/Artistic,60,hebrew
 Handjet,,/Expressive/Awkward,50,
+Handjet,wght@100,/Expressive/Business,0,hebrew
+Handjet,wght@900,/Expressive/Business,0,hebrew
+Handjet,wght@100,/Expressive/Fancy,0,hebrew
+Handjet,wght@900,/Expressive/Fancy,0,hebrew
 Handjet,wght@100,/Expressive/Futuristic,20,
 Handjet,wght@400,/Expressive/Futuristic,77,
 Handjet,wght@900,/Expressive/Futuristic,80,
@@ -11831,15 +11937,27 @@ Hedvig Letters Serif,,/Quality/Drawing,75,
 Hedvig Letters Serif,,/Quality/Spacing,80,
 Hedvig Letters Serif,,/Quality/Wordspace,100,
 Hedvig Letters Serif,,/Serif/Old Style Garalde,70,
+Heebo,wght@100,/Expressive/Active,0,hebrew
+Heebo,wght@900,/Expressive/Active,0,hebrew
+Heebo,wght@100,/Expressive/Artistic,0,hebrew
+Heebo,wght@900,/Expressive/Artistic,0,hebrew
 Heebo,wght@100,/Expressive/Awkward,5,
 Heebo,wght@400,/Expressive/Awkward,5,
 Heebo,wght@900,/Expressive/Awkward,5,
+Heebo,wght@100,/Expressive/Business,50,hebrew
+Heebo,wght@400,/Expressive/Business,85,hebrew
+Heebo,wght@700,/Expressive/Business,82,hebrew
+Heebo,wght@900,/Expressive/Business,55,hebrew
 Heebo,wght@100,/Expressive/Calm,85,
 Heebo,wght@900,/Expressive/Calm,78,
 Heebo,wght@100,/Expressive/Childlike,9,
 Heebo,wght@900,/Expressive/Childlike,9,
 Heebo,wght@100,/Expressive/Competent,70,
 Heebo,wght@900,/Expressive/Competent,70,
+Heebo,wght@100,/Expressive/Fancy,0,hebrew
+Heebo,wght@900,/Expressive/Fancy,0,hebrew
+Heebo,wght@100,/Expressive/Innovative,55,hebrew
+Heebo,wght@900,/Expressive/Innovative,0,hebrew
 Heebo,wght@600,/Expressive/Loud,40,
 Heebo,wght@900,/Expressive/Loud,78,
 Heebo,wght@100,/Expressive/Playful,1,
@@ -11992,29 +12110,29 @@ Hind Mysuru,,/Quality/Drawing,70,
 Hind Mysuru,,/Quality/Spacing,80,
 Hind Mysuru,,/Quality/Wordspace,70,
 Hind Mysuru,,/Sans/Humanist,100,
-Hind Siliguri,,/Expressive/Awkward,0,bengali
-Hind Siliguri,,/Expressive/Artistic,8,bengali
 Hind Siliguri,,/Expressive/Active,18,bengali
+Hind Siliguri,,/Expressive/Artistic,8,bengali
+Hind Siliguri,,/Expressive/Awkward,0,bengali
 Hind Siliguri,,/Expressive/Business,70,
 Hind Siliguri,,/Expressive/Business,81,bengali
 Hind Siliguri,,/Expressive/Calm,51,
-Hind Siliguri,,/Expressive/Childlike,0,bengali
 Hind Siliguri,,/Expressive/Calm,91,bengali
+Hind Siliguri,,/Expressive/Childlike,0,bengali
 Hind Siliguri,,/Expressive/Competent,50,
-Hind Siliguri,,/Expressive/Innovative,16,bengali
-Hind Siliguri,,/Expressive/Happy,0,bengali
-Hind Siliguri,,/Expressive/Futuristic,0,bengali
-Hind Siliguri,,/Expressive/Fancy,0,bengali
-Hind Siliguri,,/Expressive/Excited,0,bengali
-Hind Siliguri,,/Expressive/Cute,0,bengali
 Hind Siliguri,,/Expressive/Competent,81,bengali
+Hind Siliguri,,/Expressive/Cute,0,bengali
+Hind Siliguri,,/Expressive/Excited,0,bengali
+Hind Siliguri,,/Expressive/Fancy,0,bengali
+Hind Siliguri,,/Expressive/Futuristic,0,bengali
+Hind Siliguri,,/Expressive/Happy,0,bengali
+Hind Siliguri,,/Expressive/Innovative,16,bengali
 Hind Siliguri,,/Expressive/Loud,1,
 Hind Siliguri,,/Expressive/Playful,0,bengali
 Hind Siliguri,,/Expressive/Rugged,40,
 Hind Siliguri,,/Expressive/Rugged,0,bengali
 Hind Siliguri,,/Expressive/Sincere,70,
-Hind Siliguri,,/Expressive/Sophisticated,0,bengali
 Hind Siliguri,,/Expressive/Sincere,40,bengali
+Hind Siliguri,,/Expressive/Sophisticated,0,bengali
 Hind Siliguri,,/Expressive/Stiff,5,
 Hind Siliguri,,/Expressive/Vintage,25,
 Hind Siliguri,,/Expressive/Vintage,0,bengali
@@ -12023,21 +12141,21 @@ Hind Siliguri,,/Quality/Drawing,70,
 Hind Siliguri,,/Quality/Spacing,80,
 Hind Siliguri,,/Quality/Wordspace,90,
 Hind Siliguri,,/Sans/Humanist,100,
-Hind Vadodara,,/Expressive/Awkward,0,gujarati
 Hind Vadodara,,/Expressive/Active,0,gujarati
+Hind Vadodara,,/Expressive/Awkward,0,gujarati
 Hind Vadodara,,/Expressive/Business,70,
 Hind Vadodara,,/Expressive/Business,81,gujarati
 Hind Vadodara,,/Expressive/Calm,51,
-Hind Vadodara,,/Expressive/Childlike,0,gujarati
 Hind Vadodara,,/Expressive/Calm,91,gujarati
+Hind Vadodara,,/Expressive/Childlike,0,gujarati
 Hind Vadodara,,/Expressive/Competent,50,
-Hind Vadodara,,/Expressive/Happy,0,gujarati
-Hind Vadodara,,/Expressive/Futuristic,0,gujarati
-Hind Vadodara,,/Expressive/Fancy,0,gujarati
-Hind Vadodara,,/Expressive/Excited,0,gujarati
-Hind Vadodara,,/Expressive/Cute,0,gujarati
-Hind Vadodara,,/Expressive/Innovative,16,gujarati
 Hind Vadodara,,/Expressive/Competent,81,gujarati
+Hind Vadodara,,/Expressive/Cute,0,gujarati
+Hind Vadodara,,/Expressive/Excited,0,gujarati
+Hind Vadodara,,/Expressive/Fancy,0,gujarati
+Hind Vadodara,,/Expressive/Futuristic,0,gujarati
+Hind Vadodara,,/Expressive/Happy,0,gujarati
+Hind Vadodara,,/Expressive/Innovative,16,gujarati
 Hind Vadodara,,/Expressive/Loud,1,
 Hind Vadodara,,/Expressive/Rugged,40,
 Hind Vadodara,,/Expressive/Sincere,70,
@@ -12305,10 +12423,14 @@ IBM Plex Sans Devanagari,,/Quality/Spacing,70,
 IBM Plex Sans Devanagari,,/Quality/Wordspace,100,
 IBM Plex Sans Devanagari,,/Sans/Neo Grotesque,100,
 IBM Plex Sans Devanagari,,/Sans/Superellipse,10,
+IBM Plex Sans Hebrew,,/Expressive/Active,0,hebrew
+IBM Plex Sans Hebrew,,/Expressive/Artistic,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Business,90,
 IBM Plex Sans Hebrew,,/Expressive/Calm,80,
 IBM Plex Sans Hebrew,,/Expressive/Competent,90,
+IBM Plex Sans Hebrew,,/Expressive/Fancy,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Futuristic,5,
+IBM Plex Sans Hebrew,,/Expressive/Innovative,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Loud,1,
 IBM Plex Sans Hebrew,,/Expressive/Rugged,50,
 IBM Plex Sans Hebrew,,/Expressive/Sincere,70,
@@ -14033,8 +14155,13 @@ Kapakana,,/Quality/Drawing,60,
 Kapakana,,/Quality/Spacing,70,
 Kapakana,,/Quality/Wordspace,70,
 Kapakana,,/Script/Formal,100,
+Karantina,,/Expressive/Active,0,hebrew
+Karantina,,/Expressive/Artistic,0,hebrew
 Karantina,,/Expressive/Awkward,20,
+Karantina,,/Expressive/Business,0,hebrew
+Karantina,,/Expressive/Fancy,0,hebrew
 Karantina,,/Expressive/Futuristic,10,
+Karantina,,/Expressive/Innovative,-2,hebrew
 Karantina,,/Expressive/Loud,54,
 Karantina,,/Expressive/Rugged,70,
 Karantina,,/Expressive/Stiff,68,
@@ -14636,17 +14763,17 @@ Kulim Park,,/Sans/Geometric,30,
 Kulim Park,,/Sans/Humanist,30,
 Kumar One Outline,,/Expressive/Active,0,gujarati
 Kumar One Outline,,/Expressive/Awkward,80,
-Kumar One Outline,,/Expressive/Cute,0,gujarati
-Kumar One Outline,,/Expressive/Competent,0,gujarati
-Kumar One Outline,,/Expressive/Calm,0,gujarati
-Kumar One Outline,,/Expressive/Business,0,gujarati
-Kumar One Outline,,/Expressive/Childlike,14,gujarati
 Kumar One Outline,,/Expressive/Awkward,26,gujarati
+Kumar One Outline,,/Expressive/Business,0,gujarati
+Kumar One Outline,,/Expressive/Calm,0,gujarati
+Kumar One Outline,,/Expressive/Childlike,14,gujarati
+Kumar One Outline,,/Expressive/Competent,0,gujarati
+Kumar One Outline,,/Expressive/Cute,0,gujarati
 Kumar One Outline,,/Expressive/Excited,10,
 Kumar One Outline,,/Expressive/Fancy,24,gujarati
 Kumar One Outline,,/Expressive/Futuristic,20,
-Kumar One Outline,,/Expressive/Happy,62,gujarati
 Kumar One Outline,,/Expressive/Futuristic,62,gujarati
+Kumar One Outline,,/Expressive/Happy,62,gujarati
 Kumar One Outline,,/Expressive/Innovative,20,
 Kumar One Outline,,/Expressive/Innovative,50,gujarati
 Kumar One Outline,,/Expressive/Loud,92,gujarati
@@ -14665,17 +14792,17 @@ Kumar One Outline,,/Slab/Geometric,10,
 Kumar One Outline,,/Theme/Inline,50,
 Kumar One,,/Expressive/Active,0,gujarati
 Kumar One,,/Expressive/Awkward,45,
-Kumar One,,/Expressive/Cute,0,gujarati
-Kumar One,,/Expressive/Competent,0,gujarati
+Kumar One,,/Expressive/Awkward,24,gujarati
+Kumar One,,/Expressive/Business,4,gujarati
 Kumar One,,/Expressive/Calm,0,gujarati
 Kumar One,,/Expressive/Childlike,8,gujarati
-Kumar One,,/Expressive/Business,4,gujarati
-Kumar One,,/Expressive/Awkward,24,gujarati
+Kumar One,,/Expressive/Competent,0,gujarati
+Kumar One,,/Expressive/Cute,0,gujarati
 Kumar One,,/Expressive/Excited,5,
 Kumar One,,/Expressive/Fancy,20,gujarati
 Kumar One,,/Expressive/Futuristic,20,
-Kumar One,,/Expressive/Happy,54,gujarati
 Kumar One,,/Expressive/Futuristic,42,gujarati
+Kumar One,,/Expressive/Happy,54,gujarati
 Kumar One,,/Expressive/Innovative,10,
 Kumar One,,/Expressive/Innovative,30,gujarati
 Kumar One,,/Expressive/Loud,46,
@@ -15312,8 +15439,13 @@ Libertinus Serif Display,,/Quality/Drawing,80,
 Libertinus Serif Display,,/Quality/Spacing,80,
 Libertinus Serif Display,,/Quality/Wordspace,90,
 Libertinus Serif Display,,/Serif/Transitional,100,
+Libertinus Serif,,/Expressive/Active,0,hebrew
+Libertinus Serif,,/Expressive/Artistic,0,hebrew
 Libertinus Serif,,/Expressive/Business,70,
+Libertinus Serif,,/Expressive/Business,0,hebrew
 Libertinus Serif,,/Expressive/Competent,75,
+Libertinus Serif,,/Expressive/Fancy,0,hebrew
+Libertinus Serif,,/Expressive/Innovative,0,hebrew
 Libertinus Serif,,/Expressive/Loud,1,
 Libertinus Serif,,/Expressive/Rugged,30,
 Libertinus Serif,,/Expressive/Sincere,80,
@@ -15932,9 +16064,14 @@ Lumanosimo,,/Quality/Drawing,50,
 Lumanosimo,,/Quality/Spacing,70,
 Lumanosimo,,/Quality/Wordspace,65,
 Lumanosimo,,/Script/Informal,50,
+Lunasima,,/Expressive/Active,0,hebrew
+Lunasima,,/Expressive/Artistic,0,hebrew
 Lunasima,,/Expressive/Business,80,
+Lunasima,,/Expressive/Business,50,hebrew
 Lunasima,,/Expressive/Calm,89,
 Lunasima,,/Expressive/Competent,45,
+Lunasima,,/Expressive/Fancy,0,hebrew
+Lunasima,,/Expressive/Innovative,0,hebrew
 Lunasima,,/Expressive/Loud,1,
 Lunasima,,/Expressive/Rugged,50,
 Lunasima,,/Expressive/Sincere,60,
@@ -16052,9 +16189,14 @@ M PLUS 1,,/Quality/Spacing,70,
 M PLUS 1,,/Quality/Wordspace,80,
 M PLUS 1,,/Sans/Geometric,50,
 M PLUS 1,,/Sans/Humanist,50,
+M PLUS 1p,,/Expressive/Active,0,hebrew
+M PLUS 1p,,/Expressive/Artistic,0,hebrew
 M PLUS 1p,,/Expressive/Business,80,
+M PLUS 1p,,/Expressive/Business,0,hebrew
 M PLUS 1p,,/Expressive/Calm,90,
 M PLUS 1p,,/Expressive/Competent,40,
+M PLUS 1p,,/Expressive/Fancy,0,hebrew
+M PLUS 1p,,/Expressive/Innovative,70,hebrew
 M PLUS 1p,,/Expressive/Loud,1,
 M PLUS 1p,,/Expressive/Rugged,50,
 M PLUS 1p,,/Expressive/Sincere,60,
@@ -16131,9 +16273,14 @@ M PLUS Code Latin,,/Quality/Concept,70,
 M PLUS Code Latin,,/Quality/Drawing,72,
 M PLUS Code Latin,,/Quality/Spacing,70,
 M PLUS Code Latin,,/Quality/Wordspace,100,
+M PLUS Rounded 1c,,/Expressive/Active,0,hebrew
+M PLUS Rounded 1c,,/Expressive/Artistic,0,hebrew
 M PLUS Rounded 1c,,/Expressive/Business,80,
+M PLUS Rounded 1c,,/Expressive/Business,0,hebrew
 M PLUS Rounded 1c,,/Expressive/Calm,85,
 M PLUS Rounded 1c,,/Expressive/Competent,40,
+M PLUS Rounded 1c,,/Expressive/Fancy,0,hebrew
+M PLUS Rounded 1c,,/Expressive/Innovative,70,hebrew
 M PLUS Rounded 1c,,/Expressive/Loud,1,
 M PLUS Rounded 1c,,/Expressive/Rugged,30,
 M PLUS Rounded 1c,,/Expressive/Sincere,60,
@@ -17181,27 +17328,27 @@ Miltonian,,/Seasonal/Kwanzaa,69,
 Miltonian,,/Serif/Modern,40,
 Miltonian,,/Theme/Brush,10,
 Miltonian,,/Theme/Inline,100,
+Mina,,/Expressive/Active,32,bengali
+Mina,,/Expressive/Artistic,22,bengali
 Mina,,/Expressive/Awkward,22,bengali
 Mina,,/Expressive/Business,8,bengali
-Mina,,/Expressive/Artistic,22,bengali
-Mina,,/Expressive/Active,32,bengali
 Mina,,/Expressive/Calm,15,
-Mina,,/Expressive/Fancy,0,bengali
-Mina,,/Expressive/Excited,6,bengali
-Mina,,/Expressive/Cute,0,bengali
-Mina,,/Expressive/Competent,30,bengali
 Mina,,/Expressive/Childlike,20,bengali
+Mina,,/Expressive/Competent,30,bengali
+Mina,,/Expressive/Cute,0,bengali
+Mina,,/Expressive/Excited,6,bengali
+Mina,,/Expressive/Fancy,0,bengali
 Mina,,/Expressive/Futuristic,72,
-Mina,,/Expressive/Innovative,32,bengali
-Mina,,/Expressive/Happy,4,bengali
 Mina,,/Expressive/Futuristic,61,bengali
+Mina,,/Expressive/Happy,4,bengali
+Mina,,/Expressive/Innovative,32,bengali
 Mina,,/Expressive/Loud,1,
-Mina,,/Expressive/Playful,4,bengali
 Mina,,/Expressive/Loud,12,bengali
+Mina,,/Expressive/Playful,4,bengali
 Mina,,/Expressive/Rugged,50,
-Mina,,/Expressive/Sophisticated,0,bengali
-Mina,,/Expressive/Sincere,20,bengali
 Mina,,/Expressive/Rugged,0,bengali
+Mina,,/Expressive/Sincere,20,bengali
+Mina,,/Expressive/Sophisticated,0,bengali
 Mina,,/Expressive/Stiff,67,
 Mina,,/Expressive/Stiff,28,bengali
 Mina,,/Expressive/Vintage,20,
@@ -17261,16 +17408,26 @@ Miranda Sans,,/Quality/Drawing,75,
 Miranda Sans,,/Quality/Spacing,80,
 Miranda Sans,,/Quality/Wordspace,90,
 Miranda Sans,,/Sans/Neo Grotesque,100,
+Miriam Libre,wght@400,/Expressive/Active,0,hebrew
+Miriam Libre,wght@700,/Expressive/Active,0,hebrew
+Miriam Libre,wght@400,/Expressive/Artistic,0,hebrew
+Miriam Libre,wght@700,/Expressive/Artistic,0,hebrew
 Miriam Libre,wght@400,/Expressive/Awkward,5,
 Miriam Libre,wght@700,/Expressive/Awkward,5,
+Miriam Libre,wght@400,/Expressive/Business,65,hebrew
+Miriam Libre,wght@700,/Expressive/Business,65,hebrew
 Miriam Libre,wght@400,/Expressive/Calm,52,
 Miriam Libre,wght@700,/Expressive/Calm,48,
 Miriam Libre,wght@400,/Expressive/Childlike,15,
 Miriam Libre,wght@700,/Expressive/Childlike,21,
 Miriam Libre,wght@400,/Expressive/Competent,43,
 Miriam Libre,wght@700,/Expressive/Competent,38,
+Miriam Libre,wght@400,/Expressive/Fancy,0,hebrew
+Miriam Libre,wght@700,/Expressive/Fancy,0,hebrew
 Miriam Libre,wght@400,/Expressive/Futuristic,10,
 Miriam Libre,wght@700,/Expressive/Futuristic,10,
+Miriam Libre,wght@400,/Expressive/Innovative,0,hebrew
+Miriam Libre,wght@700,/Expressive/Innovative,0,hebrew
 Miriam Libre,,/Expressive/Loud,1,
 Miriam Libre,wght@400,/Expressive/Playful,20,
 Miriam Libre,wght@700,/Expressive/Playful,22,
@@ -17411,17 +17568,17 @@ Moderustic,,/Sans/Humanist,100,
 Mogra,,/Expressive/Active,72,
 Mogra,,/Expressive/Active,92,gujarati
 Mogra,,/Expressive/Awkward,45,
-Mogra,,/Expressive/Calm,0,gujarati
-Mogra,,/Expressive/Business,0,gujarati
 Mogra,,/Expressive/Awkward,28,gujarati
+Mogra,,/Expressive/Business,0,gujarati
+Mogra,,/Expressive/Calm,0,gujarati
 Mogra,,/Expressive/Childlike,20,
-Mogra,,/Expressive/Competent,0,gujarati
 Mogra,,/Expressive/Childlike,78,gujarati
+Mogra,,/Expressive/Competent,0,gujarati
 Mogra,,/Expressive/Cute,35,
 Mogra,,/Expressive/Cute,20,gujarati
 Mogra,,/Expressive/Excited,87,
-Mogra,,/Expressive/Futuristic,34,gujarati
 Mogra,,/Expressive/Fancy,38,gujarati
+Mogra,,/Expressive/Futuristic,34,gujarati
 Mogra,,/Expressive/Happy,20,
 Mogra,,/Expressive/Happy,68,gujarati
 Mogra,,/Expressive/Innovative,50,
@@ -18160,19 +18317,19 @@ Mukta Malar,,/Quality/Drawing,70,
 Mukta Malar,,/Quality/Spacing,80,
 Mukta Malar,,/Quality/Wordspace,90,
 Mukta Malar,,/Sans/Humanist,100,
-Mukta Vaani,,/Expressive/Awkward,0,gujarati
 Mukta Vaani,,/Expressive/Active,0,gujarati
+Mukta Vaani,,/Expressive/Awkward,0,gujarati
 Mukta Vaani,,/Expressive/Business,80,
 Mukta Vaani,,/Expressive/Calm,94,
 Mukta Vaani,,/Expressive/Childlike,0,gujarati
 Mukta Vaani,,/Expressive/Competent,60,
-Mukta Vaani,,/Expressive/Happy,0,gujarati
-Mukta Vaani,,/Expressive/Futuristic,0,gujarati
-Mukta Vaani,,/Expressive/Fancy,0,gujarati
-Mukta Vaani,,/Expressive/Excited,0,gujarati
-Mukta Vaani,,/Expressive/Cute,0,gujarati
-Mukta Vaani,,/Expressive/Innovative,10,gujarati
 Mukta Vaani,,/Expressive/Competent,96,gujarati
+Mukta Vaani,,/Expressive/Cute,0,gujarati
+Mukta Vaani,,/Expressive/Excited,0,gujarati
+Mukta Vaani,,/Expressive/Fancy,0,gujarati
+Mukta Vaani,,/Expressive/Futuristic,0,gujarati
+Mukta Vaani,,/Expressive/Happy,0,gujarati
+Mukta Vaani,,/Expressive/Innovative,10,gujarati
 Mukta Vaani,,/Expressive/Loud,1,
 Mukta Vaani,,/Expressive/Rugged,40,
 Mukta Vaani,,/Expressive/Sincere,45,
@@ -18864,18 +19021,29 @@ Noto Nastaliq Urdu,,/Quality/Drawing,75,
 Noto Nastaliq Urdu,,/Quality/Spacing,70,
 Noto Nastaliq Urdu,,/Quality/Wordspace,90,
 Noto Nastaliq Urdu,,/Serif/Transitional,100,
+Noto Rashi Hebrew,wght@100,/Expressive/Active,60,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Active,66,hebrew
+Noto Rashi Hebrew,wght@100,/Expressive/Artistic,75,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Artistic,70,hebrew
 Noto Rashi Hebrew,wght@100,/Expressive/Awkward,5,
 Noto Rashi Hebrew,wght@400,/Expressive/Awkward,5,
 Noto Rashi Hebrew,wght@900,/Expressive/Awkward,5,
 Noto Rashi Hebrew,wght@100,/Expressive/Business,60,
 Noto Rashi Hebrew,wght@400,/Expressive/Business,90,
 Noto Rashi Hebrew,wght@900,/Expressive/Business,80,
+Noto Rashi Hebrew,wght@100,/Expressive/Business,0,hebrew
+Noto Rashi Hebrew,wght@400,/Expressive/Business,0,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Business,0,hebrew
 Noto Rashi Hebrew,wght@100,/Expressive/Calm,60,
 Noto Rashi Hebrew,wght@900,/Expressive/Calm,58,
 Noto Rashi Hebrew,wght@100,/Expressive/Childlike,4,
 Noto Rashi Hebrew,wght@900,/Expressive/Childlike,5,
 Noto Rashi Hebrew,wght@100,/Expressive/Competent,88,
 Noto Rashi Hebrew,wght@900,/Expressive/Competent,88,
+Noto Rashi Hebrew,wght@100,/Expressive/Fancy,0,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Fancy,0,hebrew
+Noto Rashi Hebrew,wght@100,/Expressive/Innovative,0,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Innovative,0,hebrew
 Noto Rashi Hebrew,wght@600,/Expressive/Loud,35,
 Noto Rashi Hebrew,wght@900,/Expressive/Loud,68,
 Noto Rashi Hebrew,wght@100,/Expressive/Playful,1,
@@ -19162,54 +19330,54 @@ Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Cute,4,
 Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Cute,4,
 Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Cute,4,
 Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Cute,4,
-Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Innovative,0,bengali
-Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Innovative,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Innovative,0,bengali
-Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Innovative,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Happy,0,bengali
-Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Happy,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Happy,0,bengali
-Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Happy,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Futuristic,0,bengali
-Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Futuristic,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Futuristic,0,bengali
-Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Futuristic,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Fancy,0,bengali
-Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Fancy,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Fancy,0,bengali
-Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Fancy,0,bengali
 Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Excited,0,bengali
 Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Excited,0,bengali
 Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Excited,0,bengali
 Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Excited,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Fancy,0,bengali
+Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Fancy,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Fancy,0,bengali
+Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Fancy,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Futuristic,0,bengali
+Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Futuristic,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Futuristic,0,bengali
+Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Futuristic,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Happy,0,bengali
+Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Happy,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Happy,0,bengali
+Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Happy,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Innovative,0,bengali
+Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Innovative,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Innovative,0,bengali
+Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Innovative,0,bengali
 Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Loud,12,
 Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Loud,70,
 Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Loud,14,
 Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Loud,72,
-Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Rugged,0,bengali
-Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Rugged,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Rugged,44,bengali
-Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Rugged,46,bengali
-Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Playful,0,bengali
-Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Playful,0,bengali
-Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Playful,0,bengali
-Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Playful,0,bengali
 Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Loud,0,bengali
 Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Loud,70,bengali
 Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Loud,0,bengali
 Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Loud,72,bengali
+Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Playful,0,bengali
+Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Playful,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Playful,0,bengali
+Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Playful,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Rugged,0,bengali
+Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Rugged,0,bengali
+Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Rugged,44,bengali
+Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Rugged,46,bengali
 Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Sincere,18,
 Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Sincere,20,
 Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Sincere,22,
 Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Sincere,22,
-Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Sophisticated,6,bengali
-Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Sophisticated,10,bengali
-Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Sophisticated,0,bengali
-Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Sophisticated,0,bengali
 Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Sincere,50,bengali
 Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Sincere,40,bengali
 Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Sincere,50,bengali
 Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Sincere,40,bengali
+Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Sophisticated,6,bengali
+Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Sophisticated,10,bengali
+Noto Sans Bengali,"wdth,wght@62.5,900",/Expressive/Sophisticated,0,bengali
+Noto Sans Bengali,"wdth,wght@100,900",/Expressive/Sophisticated,0,bengali
 Noto Sans Bengali,,/Expressive/Stiff,10,
 Noto Sans Bengali,"wdth,wght@62.5,100",/Expressive/Vintage,0,bengali
 Noto Sans Bengali,"wdth,wght@100,100",/Expressive/Vintage,0,bengali
@@ -19749,30 +19917,30 @@ Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Cute,4,
 Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Cute,4,
 Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Cute,4,
 Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Cute,4,
-Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Innovative,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Innovative,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Innovative,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Innovative,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Happy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Happy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Happy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Happy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Futuristic,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Futuristic,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Futuristic,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Futuristic,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Fancy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Fancy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Fancy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Fancy,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Excited,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Excited,0,gujarati
-Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Excited,0,gujarati
-Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Excited,0,gujarati
 Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Cute,0,gujarati
 Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Cute,0,gujarati
 Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Cute,0,gujarati
 Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Cute,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Excited,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Excited,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Excited,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Excited,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Fancy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Fancy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Fancy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Fancy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Futuristic,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Futuristic,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Futuristic,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Futuristic,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Happy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Happy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Happy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Happy,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Innovative,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Innovative,0,gujarati
+Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Innovative,0,gujarati
+Noto Sans Gujarati,"wdth,wght@100,900",/Expressive/Innovative,0,gujarati
 Noto Sans Gujarati,"wdth,wght@62.5,100",/Expressive/Loud,12,
 Noto Sans Gujarati,"wdth,wght@62.5,900",/Expressive/Loud,70,
 Noto Sans Gujarati,"wdth,wght@100,100",/Expressive/Loud,14,
@@ -19950,6 +20118,14 @@ Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Cute,4,
 Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Cute,4,
 Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Cute,4,
 Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Cute,4,
+Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Fancy,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Fancy,0,hebrew
+Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Fancy,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Fancy,0,hebrew
+Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Innovative,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Innovative,0,hebrew
+Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Innovative,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Innovative,0,hebrew
 Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Loud,12,
 Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Loud,70,
 Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Loud,14,
@@ -22102,14 +22278,14 @@ Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Calm,85,
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Calm,85,
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Calm,87,
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Calm,87,
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Childlike,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Childlike,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Childlike,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Childlike,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Calm,74,bengali
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Calm,12,bengali
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Calm,76,bengali
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Calm,12,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Childlike,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Childlike,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Childlike,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Childlike,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Competent,80,
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Competent,80,
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Competent,82,
@@ -22118,62 +22294,62 @@ Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Cute,2,
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Cute,2,
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Cute,2,
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Cute,2,
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Innovative,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Innovative,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Innovative,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Innovative,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Happy,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Happy,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Happy,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Happy,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Futuristic,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Futuristic,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Futuristic,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Futuristic,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Fancy,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Fancy,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Fancy,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Fancy,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Excited,0,bengali
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Excited,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Excited,0,bengali
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Excited,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Fancy,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Fancy,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Fancy,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Fancy,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Futuristic,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Futuristic,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Futuristic,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Futuristic,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Happy,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Happy,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Happy,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Happy,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Innovative,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Innovative,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Innovative,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Innovative,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Loud,12,
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Loud,58,
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Loud,14,
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Loud,60,
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Rugged,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Rugged,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Rugged,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Rugged,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Playful,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Playful,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Playful,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Playful,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Loud,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Loud,58,bengali
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Loud,0,bengali
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Loud,60,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Playful,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Playful,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Playful,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Playful,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Rugged,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Rugged,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Rugged,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Rugged,0,bengali
 Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Sincere,18,
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Sincere,20,
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Sincere,22,
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Sincere,22,
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Vintage,28,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Vintage,28,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Vintage,84,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Vintage,84,bengali
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Stiff,0,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Stiff,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Stiff,0,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Stiff,0,bengali
-Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Sophisticated,10,bengali
-Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Sophisticated,10,bengali
-Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Sophisticated,20,bengali
-Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Sophisticated,20,bengali
 Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Sincere,72,bengali
 Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Sincere,72,bengali
 Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Sincere,72,bengali
 Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Sincere,72,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Sophisticated,10,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Sophisticated,10,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Sophisticated,20,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Sophisticated,20,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Stiff,0,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Stiff,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Stiff,0,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Stiff,0,bengali
+Noto Serif Bengali,"wdth,wght@62.5,100",/Expressive/Vintage,28,bengali
+Noto Serif Bengali,"wdth,wght@100,100",/Expressive/Vintage,28,bengali
+Noto Serif Bengali,"wdth,wght@62.5,900",/Expressive/Vintage,84,bengali
+Noto Serif Bengali,"wdth,wght@100,900",/Expressive/Vintage,84,bengali
 Noto Serif Bengali,,/Quality/Concept,70,
 Noto Serif Bengali,,/Quality/Drawing,70,
 Noto Serif Bengali,,/Quality/Spacing,80,
@@ -22406,18 +22582,18 @@ Noto Serif Gujarati,wght@100,/Expressive/Childlike,0,gujarati
 Noto Serif Gujarati,wght@900,/Expressive/Childlike,0,gujarati
 Noto Serif Gujarati,wght@100,/Expressive/Competent,88,
 Noto Serif Gujarati,wght@900,/Expressive/Competent,88,
-Noto Serif Gujarati,wght@100,/Expressive/Innovative,0,gujarati
-Noto Serif Gujarati,wght@900,/Expressive/Innovative,0,gujarati
-Noto Serif Gujarati,wght@100,/Expressive/Happy,0,gujarati
-Noto Serif Gujarati,wght@900,/Expressive/Happy,0,gujarati
-Noto Serif Gujarati,wght@100,/Expressive/Futuristic,0,gujarati
-Noto Serif Gujarati,wght@900,/Expressive/Futuristic,0,gujarati
-Noto Serif Gujarati,wght@100,/Expressive/Fancy,0,gujarati
-Noto Serif Gujarati,wght@900,/Expressive/Fancy,0,gujarati
-Noto Serif Gujarati,wght@100,/Expressive/Excited,0,gujarati
-Noto Serif Gujarati,wght@900,/Expressive/Excited,0,gujarati
 Noto Serif Gujarati,wght@100,/Expressive/Cute,0,gujarati
 Noto Serif Gujarati,wght@900,/Expressive/Cute,0,gujarati
+Noto Serif Gujarati,wght@100,/Expressive/Excited,0,gujarati
+Noto Serif Gujarati,wght@900,/Expressive/Excited,0,gujarati
+Noto Serif Gujarati,wght@100,/Expressive/Fancy,0,gujarati
+Noto Serif Gujarati,wght@900,/Expressive/Fancy,0,gujarati
+Noto Serif Gujarati,wght@100,/Expressive/Futuristic,0,gujarati
+Noto Serif Gujarati,wght@900,/Expressive/Futuristic,0,gujarati
+Noto Serif Gujarati,wght@100,/Expressive/Happy,0,gujarati
+Noto Serif Gujarati,wght@900,/Expressive/Happy,0,gujarati
+Noto Serif Gujarati,wght@100,/Expressive/Innovative,0,gujarati
+Noto Serif Gujarati,wght@900,/Expressive/Innovative,0,gujarati
 Noto Serif Gujarati,wght@600,/Expressive/Loud,35,
 Noto Serif Gujarati,wght@900,/Expressive/Loud,68,
 Noto Serif Gujarati,wght@600,/Expressive/Loud,0,gujarati
@@ -22494,10 +22670,10 @@ Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Awkward,5,
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Awkward,5,
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Awkward,5,
 Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Awkward,5,
-Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Business,82,
-Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Business,84,
-Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Business,84,
-Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Business,86,
+Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Business,0,
+Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Business,0,
+Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Business,0,
+Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Business,0,
 Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Calm,85,
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Calm,85,
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Calm,87,
@@ -22510,6 +22686,14 @@ Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Cute,2,
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Cute,2,
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Cute,2,
 Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Cute,2,
+Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Fancy,50,hebrew
+Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Fancy,60,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Fancy,0,hebrew
+Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Fancy,0,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Innovative,0,hebrew
+Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Innovative,0,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Innovative,0,hebrew
+Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Innovative,0,hebrew
 Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Loud,12,
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Loud,58,
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Loud,14,
@@ -23653,6 +23837,14 @@ Open Sans,"wdth,wght@75,300",/Expressive/Cute,5,
 Open Sans,"wdth,wght@75,800",/Expressive/Cute,5,
 Open Sans,"wdth,wght@100,300",/Expressive/Cute,5,
 Open Sans,"wdth,wght@100,800",/Expressive/Cute,5,
+Open Sans,"wdth,wght@75,300",/Expressive/Fancy,0,hebrew
+Open Sans,"wdth,wght@100,300",/Expressive/Fancy,0,hebrew
+Open Sans,"wdth,wght@75,800",/Expressive/Fancy,0,hebrew
+Open Sans,"wdth,wght@100,800",/Expressive/Fancy,0,hebrew
+Open Sans,"wdth,wght@75,300",/Expressive/Innovative,0,hebrew
+Open Sans,"wdth,wght@100,300",/Expressive/Innovative,0,hebrew
+Open Sans,"wdth,wght@75,800",/Expressive/Innovative,0,hebrew
+Open Sans,"wdth,wght@100,800",/Expressive/Innovative,0,hebrew
 Open Sans,"wdth,wght@75,300",/Expressive/Loud,12,
 Open Sans,"wdth,wght@75,800",/Expressive/Loud,74,
 Open Sans,"wdth,wght@100,300",/Expressive/Loud,16,
@@ -24884,9 +25076,15 @@ Playpen Sans Deva,,/Quality/Spacing,80,
 Playpen Sans Deva,,/Quality/Wordspace,100,
 Playpen Sans Deva,,/Script/Handwritten,100,
 Playpen Sans Deva,,/Script/Informal,100,
+Playpen Sans Hebrew,wght@100,/Expressive/Active,60,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Active,62,hebrew
+Playpen Sans Hebrew,wght@100,/Expressive/Artistic,0,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Artistic,0,hebrew
 Playpen Sans Hebrew,wght@100,/Expressive/Awkward,20,
 Playpen Sans Hebrew,wght@400,/Expressive/Awkward,20,
 Playpen Sans Hebrew,wght@800,/Expressive/Awkward,20,
+Playpen Sans Hebrew,wght@100,/Expressive/Business,0,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Business,0,hebrew
 Playpen Sans Hebrew,wght@100,/Expressive/Calm,8,
 Playpen Sans Hebrew,wght@800,/Expressive/Calm,6,
 Playpen Sans Hebrew,wght@100,/Expressive/Childlike,85,
@@ -24895,8 +25093,12 @@ Playpen Sans Hebrew,wght@100,/Expressive/Competent,30,
 Playpen Sans Hebrew,wght@800,/Expressive/Competent,30,
 Playpen Sans Hebrew,wght@100,/Expressive/Excited,20,
 Playpen Sans Hebrew,wght@800,/Expressive/Excited,22,
+Playpen Sans Hebrew,wght@100,/Expressive/Fancy,0,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Fancy,0,hebrew
 Playpen Sans Hebrew,wght@100,/Expressive/Happy,52,
 Playpen Sans Hebrew,wght@800,/Expressive/Happy,58,
+Playpen Sans Hebrew,wght@100,/Expressive/Innovative,0,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Innovative,0,hebrew
 Playpen Sans Hebrew,,/Expressive/Loud,1,
 Playpen Sans Hebrew,,/Expressive/Playful,22,
 Playpen Sans Hebrew,,/Expressive/Rugged,10,
@@ -27822,26 +28024,26 @@ Rasa,wght@400,/Expressive/Business,96,gujarati
 Rasa,wght@700,/Expressive/Business,96,gujarati
 Rasa,wght@300,/Expressive/Calm,58,
 Rasa,wght@700,/Expressive/Calm,48,
-Rasa,wght@300,/Expressive/Childlike,0,gujarati
-Rasa,wght@700,/Expressive/Childlike,0,gujarati
 Rasa,wght@300,/Expressive/Calm,78,gujarati
 Rasa,wght@700,/Expressive/Calm,22,gujarati
+Rasa,wght@300,/Expressive/Childlike,0,gujarati
+Rasa,wght@700,/Expressive/Childlike,0,gujarati
 Rasa,wght@300,/Expressive/Competent,56,
 Rasa,wght@700,/Expressive/Competent,56,
-Rasa,wght@300,/Expressive/Innovative,0,gujarati
-Rasa,wght@700,/Expressive/Innovative,0,gujarati
-Rasa,wght@300,/Expressive/Happy,0,gujarati
-Rasa,wght@700,/Expressive/Happy,0,gujarati
-Rasa,wght@300,/Expressive/Futuristic,0,gujarati
-Rasa,wght@700,/Expressive/Futuristic,0,gujarati
-Rasa,wght@300,/Expressive/Fancy,0,gujarati
-Rasa,wght@700,/Expressive/Fancy,0,gujarati
-Rasa,wght@300,/Expressive/Excited,0,gujarati
-Rasa,wght@700,/Expressive/Excited,0,gujarati
-Rasa,wght@300,/Expressive/Cute,0,gujarati
-Rasa,wght@700,/Expressive/Cute,0,gujarati
 Rasa,wght@300,/Expressive/Competent,94,gujarati
 Rasa,wght@700,/Expressive/Competent,94,gujarati
+Rasa,wght@300,/Expressive/Cute,0,gujarati
+Rasa,wght@700,/Expressive/Cute,0,gujarati
+Rasa,wght@300,/Expressive/Excited,0,gujarati
+Rasa,wght@700,/Expressive/Excited,0,gujarati
+Rasa,wght@300,/Expressive/Fancy,0,gujarati
+Rasa,wght@700,/Expressive/Fancy,0,gujarati
+Rasa,wght@300,/Expressive/Futuristic,0,gujarati
+Rasa,wght@700,/Expressive/Futuristic,0,gujarati
+Rasa,wght@300,/Expressive/Happy,0,gujarati
+Rasa,wght@700,/Expressive/Happy,0,gujarati
+Rasa,wght@300,/Expressive/Innovative,0,gujarati
+Rasa,wght@700,/Expressive/Innovative,0,gujarati
 Rasa,,/Expressive/Loud,1,
 Rasa,wght@300,/Expressive/Playful,1,
 Rasa,wght@700,/Expressive/Playful,1,
@@ -28737,9 +28939,12 @@ Rozha One,,/Seasonal/Diwali,92,
 Rozha One,,/Seasonal/Holi,99,
 Rozha One,,/Serif/Didone,100,
 Rozha One,,/Serif/Fat Face,20,
+Rubik 80s Fade,,/Expressive/Active,0,hebrew
+Rubik 80s Fade,,/Expressive/Artistic,65,hebrew
 Rubik 80s Fade,,/Expressive/Awkward,88,
 Rubik 80s Fade,,/Expressive/Business,5,
 Rubik 80s Fade,,/Expressive/Excited,56,
+Rubik 80s Fade,,/Expressive/Fancy,0,hebrew
 Rubik 80s Fade,,/Expressive/Futuristic,20,
 Rubik 80s Fade,,/Expressive/Innovative,50,
 Rubik 80s Fade,,/Expressive/Loud,50,
@@ -28751,9 +28956,13 @@ Rubik 80s Fade,,/Quality/Spacing,70,
 Rubik 80s Fade,,/Quality/Wordspace,100,
 Rubik 80s Fade,,/Theme/Distressed,30,
 Rubik 80s Fade,,/Theme/Techno,100,
+Rubik Beastly,,/Expressive/Active,60,hebrew
+Rubik Beastly,,/Expressive/Artistic,80,hebrew
 Rubik Beastly,,/Expressive/Awkward,95,
+Rubik Beastly,,/Expressive/Business,0,hebrew
 Rubik Beastly,,/Expressive/Cute,5,
 Rubik Beastly,,/Expressive/Excited,74,
+Rubik Beastly,,/Expressive/Fancy,0,hebrew
 Rubik Beastly,,/Expressive/Innovative,60,
 Rubik Beastly,,/Expressive/Loud,67,
 Rubik Beastly,,/Expressive/Playful,80,
@@ -28767,8 +28976,12 @@ Rubik Beastly,,/Quality/Wordspace,100,
 Rubik Beastly,,/Seasonal/Halloween,90,
 Rubik Beastly,,/Theme/Distressed,80,
 Rubik Beastly,,/Theme/Wacky,80,
+Rubik Broken Fax,,/Expressive/Active,0,hebrew
+Rubik Broken Fax,,/Expressive/Artistic,83,hebrew
 Rubik Broken Fax,,/Expressive/Awkward,88,
+Rubik Broken Fax,,/Expressive/Business,0,hebrew
 Rubik Broken Fax,,/Expressive/Excited,50,
+Rubik Broken Fax,,/Expressive/Fancy,0,hebrew
 Rubik Broken Fax,,/Expressive/Futuristic,20,
 Rubik Broken Fax,,/Expressive/Innovative,50,
 Rubik Broken Fax,,/Expressive/Loud,67,
@@ -28780,9 +28993,13 @@ Rubik Broken Fax,,/Quality/Spacing,80,
 Rubik Broken Fax,,/Quality/Wordspace,100,
 Rubik Broken Fax,,/Theme/Pixel,20,
 Rubik Broken Fax,,/Theme/Techno,40,
+Rubik Bubbles,,/Expressive/Active,0,hebrew
+Rubik Bubbles,,/Expressive/Artistic,0,hebrew
 Rubik Bubbles,,/Expressive/Awkward,73,
+Rubik Bubbles,,/Expressive/Business,0,hebrew
 Rubik Bubbles,,/Expressive/Cute,30,
 Rubik Bubbles,,/Expressive/Excited,62,
+Rubik Bubbles,,/Expressive/Fancy,0,hebrew
 Rubik Bubbles,,/Expressive/Innovative,35,
 Rubik Bubbles,,/Expressive/Loud,55,
 Rubik Bubbles,,/Expressive/Playful,92,
@@ -28795,9 +29012,14 @@ Rubik Bubbles,,/Quality/Wordspace,100,
 Rubik Bubbles,,/Theme/Distressed,50,
 Rubik Bubbles,,/Theme/Wacky,30,
 Rubik Bubbles,,/Theme/Woodtype,10,
+Rubik Burned,,/Expressive/Active,55,hebrew
+Rubik Burned,,/Expressive/Artistic,60,hebrew
 Rubik Burned,,/Expressive/Awkward,94,
+Rubik Burned,,/Expressive/Business,0,hebrew
 Rubik Burned,,/Expressive/Excited,10,
+Rubik Burned,,/Expressive/Fancy,0,hebrew
 Rubik Burned,,/Expressive/Innovative,20,
+Rubik Burned,,/Expressive/Loud,70,hebrew
 Rubik Burned,,/Expressive/Rugged,80,
 Rubik Burned,,/Expressive/Vintage,70,
 Rubik Burned,,/Quality/Concept,40,
@@ -28807,8 +29029,12 @@ Rubik Burned,,/Quality/Wordspace,100,
 Rubik Burned,,/Seasonal/Halloween,90,
 Rubik Burned,,/Theme/Distressed,90,
 Rubik Burned,,/Theme/Wacky,50,
+Rubik Dirt,,/Expressive/Active,0,hebrew
+Rubik Dirt,,/Expressive/Artistic,0,hebrew
 Rubik Dirt,,/Expressive/Awkward,50,
+Rubik Dirt,,/Expressive/Business,0,hebrew
 Rubik Dirt,,/Expressive/Excited,10,
+Rubik Dirt,,/Expressive/Fancy,0,hebrew
 Rubik Dirt,,/Expressive/Innovative,50,
 Rubik Dirt,,/Expressive/Loud,55,
 Rubik Dirt,,/Expressive/Playful,85,
@@ -28820,10 +29046,15 @@ Rubik Dirt,,/Quality/Spacing,80,
 Rubik Dirt,,/Quality/Wordspace,100,
 Rubik Dirt,,/Theme/Distressed,100,
 Rubik Dirt,,/Theme/Woodtype,100,
+Rubik Distressed,,/Expressive/Active,60,hebrew
+Rubik Distressed,,/Expressive/Artistic,75,hebrew
 Rubik Distressed,,/Expressive/Awkward,90,
+Rubik Distressed,,/Expressive/Business,0,hebrew
 Rubik Distressed,,/Expressive/Excited,20,
+Rubik Distressed,,/Expressive/Fancy,0,hebrew
 Rubik Distressed,,/Expressive/Innovative,35,
 Rubik Distressed,,/Expressive/Loud,42,
+Rubik Distressed,,/Expressive/Loud,80,hebrew
 Rubik Distressed,,/Expressive/Playful,92,
 Rubik Distressed,,/Expressive/Rugged,92,
 Rubik Distressed,,/Expressive/Stiff,9,
@@ -28834,10 +29065,15 @@ Rubik Distressed,,/Quality/Spacing,80,
 Rubik Distressed,,/Quality/Wordspace,100,
 Rubik Distressed,,/Seasonal/Halloween,90,
 Rubik Distressed,,/Theme/Distressed,100,
+Rubik Doodle Shadow,,/Expressive/Active,0,hebrew
+Rubik Doodle Shadow,,/Expressive/Artistic,80,hebrew
 Rubik Doodle Shadow,,/Expressive/Awkward,65,
+Rubik Doodle Shadow,,/Expressive/Business,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Excited,10,
+Rubik Doodle Shadow,,/Expressive/Fancy,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Happy,15,
 Rubik Doodle Shadow,,/Expressive/Innovative,20,
+Rubik Doodle Shadow,,/Expressive/Loud,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Playful,79,
 Rubik Doodle Shadow,,/Expressive/Rugged,65,
 Rubik Doodle Shadow,,/Expressive/Vintage,55,
@@ -28846,7 +29082,11 @@ Rubik Doodle Shadow,,/Quality/Drawing,55,
 Rubik Doodle Shadow,,/Quality/Spacing,80,
 Rubik Doodle Shadow,,/Quality/Wordspace,100,
 Rubik Doodle Shadow,,/Theme/Shaded,100,
+Rubik Doodle Triangles,,/Expressive/Active,55,hebrew
+Rubik Doodle Triangles,,/Expressive/Artistic,77,hebrew
 Rubik Doodle Triangles,,/Expressive/Awkward,84,
+Rubik Doodle Triangles,,/Expressive/Business,0,hebrew
+Rubik Doodle Triangles,,/Expressive/Fancy,0,hebrew
 Rubik Doodle Triangles,,/Expressive/Innovative,40,
 Rubik Doodle Triangles,,/Expressive/Loud,67,
 Rubik Doodle Triangles,,/Expressive/Rugged,80,
@@ -28856,9 +29096,13 @@ Rubik Doodle Triangles,,/Quality/Drawing,50,
 Rubik Doodle Triangles,,/Quality/Spacing,80,
 Rubik Doodle Triangles,,/Quality/Wordspace,100,
 Rubik Doodle Triangles,,/Theme/Techno,100,
+Rubik Gemstones,,/Expressive/Active,65,hebrew
+Rubik Gemstones,,/Expressive/Artistic,83,hebrew
 Rubik Gemstones,,/Expressive/Awkward,90,
+Rubik Gemstones,,/Expressive/Business,0,hebrew
 Rubik Gemstones,,/Expressive/Cute,10,
 Rubik Gemstones,,/Expressive/Excited,60,
+Rubik Gemstones,,/Expressive/Fancy,0,hebrew
 Rubik Gemstones,,/Expressive/Innovative,71,
 Rubik Gemstones,,/Expressive/Loud,42,
 Rubik Gemstones,,/Expressive/Playful,92,
@@ -28871,8 +29115,13 @@ Rubik Gemstones,,/Quality/Wordspace,100,
 Rubik Gemstones,,/Seasonal/Christmas,70,
 Rubik Gemstones,,/Seasonal/Halloween,90,
 Rubik Gemstones,,/Theme/Distressed,100,
+Rubik Glitch Pop,,/Expressive/Active,60,hebrew
+Rubik Glitch Pop,,/Expressive/Artistic,75,hebrew
 Rubik Glitch Pop,,/Expressive/Awkward,95,
+Rubik Glitch Pop,,/Expressive/Business,0,hebrew
+Rubik Glitch Pop,,/Expressive/Fancy,0,hebrew
 Rubik Glitch Pop,,/Expressive/Innovative,35,
+Rubik Glitch Pop,,/Expressive/Loud,0,hebrew
 Rubik Glitch Pop,,/Expressive/Rugged,80,
 Rubik Glitch Pop,,/Expressive/Vintage,55,
 Rubik Glitch Pop,,/Quality/Concept,15,
@@ -28881,8 +29130,12 @@ Rubik Glitch Pop,,/Quality/Spacing,80,
 Rubik Glitch Pop,,/Quality/Wordspace,100,
 Rubik Glitch Pop,,/Seasonal/Holi,71,
 Rubik Glitch Pop,,/Theme/Distressed,100,
+Rubik Glitch,,/Expressive/Active,78,hebrew
+Rubik Glitch,,/Expressive/Artistic,75,hebrew
 Rubik Glitch,,/Expressive/Awkward,79,
+Rubik Glitch,,/Expressive/Business,0,hebrew
 Rubik Glitch,,/Expressive/Excited,56,
+Rubik Glitch,,/Expressive/Fancy,0,hebrew
 Rubik Glitch,,/Expressive/Futuristic,10,
 Rubik Glitch,,/Expressive/Innovative,50,
 Rubik Glitch,,/Expressive/Loud,34,
@@ -28896,10 +29149,15 @@ Rubik Glitch,,/Quality/Wordspace,100,
 Rubik Glitch,,/Theme/Distressed,90,
 Rubik Glitch,,/Theme/Techno,40,
 Rubik Glitch,,/Theme/Wacky,40,
+Rubik Iso,,/Expressive/Active,55,hebrew
+Rubik Iso,,/Expressive/Artistic,60,hebrew
 Rubik Iso,,/Expressive/Awkward,95,
+Rubik Iso,,/Expressive/Business,0,hebrew
 Rubik Iso,,/Expressive/Excited,55,
+Rubik Iso,,/Expressive/Fancy,0,hebrew
 Rubik Iso,,/Expressive/Futuristic,10,
 Rubik Iso,,/Expressive/Innovative,35,
+Rubik Iso,,/Expressive/Loud,55,hebrew
 Rubik Iso,,/Expressive/Playful,95,
 Rubik Iso,,/Expressive/Rugged,68,
 Rubik Iso,,/Expressive/Stiff,5,
@@ -28912,8 +29170,12 @@ Rubik Iso,,/Theme/Distressed,100,
 Rubik Iso,,/Theme/Pixel,30,
 Rubik Iso,,/Theme/Techno,80,
 Rubik Iso,,/Theme/Wacky,40,
+Rubik Lines,,/Expressive/Active,0,hebrew
+Rubik Lines,,/Expressive/Artistic,0,hebrew
 Rubik Lines,,/Expressive/Awkward,84,
+Rubik Lines,,/Expressive/Business,0,hebrew
 Rubik Lines,,/Expressive/Excited,30,
+Rubik Lines,,/Expressive/Fancy,0,hebrew
 Rubik Lines,,/Expressive/Futuristic,10,
 Rubik Lines,,/Expressive/Innovative,50,
 Rubik Lines,,/Expressive/Loud,34,
@@ -28924,7 +29186,11 @@ Rubik Lines,,/Quality/Drawing,60,
 Rubik Lines,,/Quality/Spacing,80,
 Rubik Lines,,/Quality/Wordspace,100,
 Rubik Lines,,/Theme/Distressed,100,
+Rubik Maps,,/Expressive/Active,0,hebrew
+Rubik Maps,,/Expressive/Artistic,0,hebrew
 Rubik Maps,,/Expressive/Awkward,90,
+Rubik Maps,,/Expressive/Business,0,hebrew
+Rubik Maps,,/Expressive/Fancy,0,hebrew
 Rubik Maps,,/Expressive/Innovative,50,
 Rubik Maps,,/Expressive/Loud,34,
 Rubik Maps,,/Expressive/Rugged,77,
@@ -28934,8 +29200,12 @@ Rubik Maps,,/Quality/Drawing,60,
 Rubik Maps,,/Quality/Spacing,80,
 Rubik Maps,,/Quality/Wordspace,100,
 Rubik Maps,,/Theme/Blobby,50,
+Rubik Marker Hatch,,/Expressive/Active,0,hebrew
+Rubik Marker Hatch,,/Expressive/Artistic,65,hebrew
 Rubik Marker Hatch,,/Expressive/Awkward,78,
+Rubik Marker Hatch,,/Expressive/Business,0,hebrew
 Rubik Marker Hatch,,/Expressive/Excited,56,
+Rubik Marker Hatch,,/Expressive/Fancy,0,hebrew
 Rubik Marker Hatch,,/Expressive/Innovative,35,
 Rubik Marker Hatch,,/Expressive/Loud,34,
 Rubik Marker Hatch,,/Expressive/Rugged,90,
@@ -28944,10 +29214,15 @@ Rubik Marker Hatch,,/Quality/Concept,60,
 Rubik Marker Hatch,,/Quality/Drawing,60,
 Rubik Marker Hatch,,/Quality/Spacing,80,
 Rubik Marker Hatch,,/Quality/Wordspace,100,
+Rubik Maze,,/Expressive/Active,55,hebrew
+Rubik Maze,,/Expressive/Artistic,77,hebrew
 Rubik Maze,,/Expressive/Awkward,75,
+Rubik Maze,,/Expressive/Business,0,hebrew
 Rubik Maze,,/Expressive/Excited,48,
+Rubik Maze,,/Expressive/Fancy,0,hebrew
 Rubik Maze,,/Expressive/Futuristic,10,
 Rubik Maze,,/Expressive/Innovative,50,
+Rubik Maze,,/Expressive/Loud,0,hebrew
 Rubik Maze,,/Expressive/Rugged,80,
 Rubik Maze,,/Expressive/Stiff,20,
 Rubik Maze,,/Expressive/Vintage,10,
@@ -28955,9 +29230,14 @@ Rubik Maze,,/Quality/Concept,60,
 Rubik Maze,,/Quality/Drawing,60,
 Rubik Maze,,/Quality/Spacing,80,
 Rubik Maze,,/Quality/Wordspace,100,
+Rubik Microbe,,/Expressive/Active,55,hebrew
+Rubik Microbe,,/Expressive/Artistic,80,hebrew
 Rubik Microbe,,/Expressive/Awkward,79,
+Rubik Microbe,,/Expressive/Business,0,hebrew
 Rubik Microbe,,/Expressive/Excited,10,
+Rubik Microbe,,/Expressive/Fancy,0,hebrew
 Rubik Microbe,,/Expressive/Innovative,60,
+Rubik Microbe,,/Expressive/Loud,0,hebrew
 Rubik Microbe,,/Expressive/Playful,76,
 Rubik Microbe,,/Expressive/Rugged,90,
 Rubik Microbe,,/Expressive/Vintage,10,
@@ -28977,9 +29257,13 @@ Rubik Mono One,,/Quality/Drawing,65,
 Rubik Mono One,,/Quality/Spacing,90,
 Rubik Mono One,,/Quality/Wordspace,100,
 Rubik Mono One,,/Sans/Neo Grotesque,100,
+Rubik Moonrocks,,/Expressive/Active,55,hebrew
+Rubik Moonrocks,,/Expressive/Artistic,70,hebrew
 Rubik Moonrocks,,/Expressive/Awkward,78,
+Rubik Moonrocks,,/Expressive/Business,0,hebrew
 Rubik Moonrocks,,/Expressive/Cute,10,
 Rubik Moonrocks,,/Expressive/Excited,25,
+Rubik Moonrocks,,/Expressive/Fancy,0,hebrew
 Rubik Moonrocks,,/Expressive/Innovative,62,
 Rubik Moonrocks,,/Expressive/Loud,42,
 Rubik Moonrocks,,/Expressive/Playful,92,
@@ -28990,8 +29274,12 @@ Rubik Moonrocks,,/Quality/Drawing,65,
 Rubik Moonrocks,,/Quality/Spacing,80,
 Rubik Moonrocks,,/Quality/Wordspace,100,
 Rubik Moonrocks,,/Seasonal/Christmas,71,
+Rubik Pixels,,/Expressive/Active,55,hebrew
+Rubik Pixels,,/Expressive/Artistic,65,hebrew
 Rubik Pixels,,/Expressive/Awkward,79,
+Rubik Pixels,,/Expressive/Business,0,hebrew
 Rubik Pixels,,/Expressive/Excited,55,
+Rubik Pixels,,/Expressive/Fancy,0,hebrew
 Rubik Pixels,,/Expressive/Innovative,40,
 Rubik Pixels,,/Expressive/Loud,16,
 Rubik Pixels,,/Expressive/Rugged,90,
@@ -29003,10 +29291,15 @@ Rubik Pixels,,/Quality/Spacing,70,
 Rubik Pixels,,/Quality/Wordspace,100,
 Rubik Pixels,,/Theme/Pixel,90,
 Rubik Pixels,,/Theme/Techno,90,
+Rubik Puddles,,/Expressive/Active,75,hebrew
+Rubik Puddles,,/Expressive/Artistic,80,hebrew
 Rubik Puddles,,/Expressive/Awkward,79,
+Rubik Puddles,,/Expressive/Business,0,hebrew
 Rubik Puddles,,/Expressive/Excited,78,
+Rubik Puddles,,/Expressive/Fancy,0,hebrew
 Rubik Puddles,,/Expressive/Happy,15,
 Rubik Puddles,,/Expressive/Innovative,62,
+Rubik Puddles,,/Expressive/Loud,65,hebrew
 Rubik Puddles,,/Expressive/Playful,94,
 Rubik Puddles,,/Expressive/Rugged,82,
 Rubik Puddles,,/Quality/Concept,40,
@@ -29016,7 +29309,13 @@ Rubik Puddles,,/Quality/Wordspace,100,
 Rubik Puddles,,/Seasonal/Halloween,90,
 Rubik Puddles,,/Seasonal/Holi,70,
 Rubik Puddles,,/Theme/Wacky,90,
+Rubik Scribble,,/Expressive/Active,60,hebrew
+Rubik Scribble,,/Expressive/Artistic,0,hebrew
 Rubik Scribble,,/Expressive/Awkward,65,
+Rubik Scribble,,/Expressive/Business,0,hebrew
+Rubik Scribble,,/Expressive/Fancy,0,hebrew
+Rubik Scribble,,/Expressive/Innovative,0,hebrew
+Rubik Scribble,,/Expressive/Loud,0,hebrew
 Rubik Scribble,,/Expressive/Playful,40,
 Rubik Scribble,,/Expressive/Rugged,68,
 Rubik Scribble,,/Expressive/Vintage,30,
@@ -29026,8 +29325,12 @@ Rubik Scribble,,/Quality/Spacing,80,
 Rubik Scribble,,/Quality/Wordspace,100,
 Rubik Scribble,,/Theme/Distressed,90,
 Rubik Scribble,,/Theme/Shaded,10,
+Rubik Spray Paint,,/Expressive/Active,0,hebrew
+Rubik Spray Paint,,/Expressive/Artistic,0,hebrew
 Rubik Spray Paint,,/Expressive/Awkward,73,
+Rubik Spray Paint,,/Expressive/Business,0,hebrew
 Rubik Spray Paint,,/Expressive/Excited,10,
+Rubik Spray Paint,,/Expressive/Fancy,0,hebrew
 Rubik Spray Paint,,/Expressive/Innovative,20,
 Rubik Spray Paint,,/Expressive/Loud,84,
 Rubik Spray Paint,,/Expressive/Playful,98,
@@ -29039,8 +29342,12 @@ Rubik Spray Paint,,/Quality/Spacing,70,
 Rubik Spray Paint,,/Quality/Wordspace,100,
 Rubik Spray Paint,,/Theme/Distressed,70,
 Rubik Spray Paint,,/Theme/Wacky,10,
+Rubik Storm,,/Expressive/Active,55,hebrew
+Rubik Storm,,/Expressive/Artistic,65,hebrew
 Rubik Storm,,/Expressive/Awkward,77,
+Rubik Storm,,/Expressive/Business,0,hebrew
 Rubik Storm,,/Expressive/Excited,10,
+Rubik Storm,,/Expressive/Fancy,0,hebrew
 Rubik Storm,,/Expressive/Innovative,50,
 Rubik Storm,,/Expressive/Loud,67,
 Rubik Storm,,/Expressive/Rugged,90,
@@ -29052,9 +29359,14 @@ Rubik Storm,,/Quality/Wordspace,100,
 Rubik Storm,,/Theme/Distressed,70,
 Rubik Storm,,/Theme/Techno,100,
 Rubik Storm,,/Theme/Wacky,40,
+Rubik Vinyl,,/Expressive/Active,0,hebrew
+Rubik Vinyl,,/Expressive/Artistic,60,hebrew
 Rubik Vinyl,,/Expressive/Awkward,88,
+Rubik Vinyl,,/Expressive/Business,0,hebrew
 Rubik Vinyl,,/Expressive/Excited,10,
+Rubik Vinyl,,/Expressive/Fancy,0,hebrew
 Rubik Vinyl,,/Expressive/Innovative,50,
+Rubik Vinyl,,/Expressive/Loud,0,hebrew
 Rubik Vinyl,,/Expressive/Playful,60,
 Rubik Vinyl,,/Expressive/Rugged,85,
 Rubik Vinyl,,/Expressive/Vintage,65,
@@ -29064,8 +29376,12 @@ Rubik Vinyl,,/Quality/Spacing,70,
 Rubik Vinyl,,/Quality/Wordspace,100,
 Rubik Vinyl,,/Theme/Distressed,90,
 Rubik Vinyl,,/Theme/Wacky,20,
+Rubik Wet Paint,,/Expressive/Active,66,hebrew
+Rubik Wet Paint,,/Expressive/Artistic,60,hebrew
 Rubik Wet Paint,,/Expressive/Awkward,88,
+Rubik Wet Paint,,/Expressive/Business,0,hebrew
 Rubik Wet Paint,,/Expressive/Excited,10,
+Rubik Wet Paint,,/Expressive/Fancy,0,hebrew
 Rubik Wet Paint,,/Expressive/Innovative,35,
 Rubik Wet Paint,,/Expressive/Loud,54,
 Rubik Wet Paint,,/Expressive/Playful,60,
@@ -29078,6 +29394,10 @@ Rubik Wet Paint,,/Quality/Wordspace,100,
 Rubik Wet Paint,,/Seasonal/Halloween,100,
 Rubik Wet Paint,,/Seasonal/Holi,76,
 Rubik Wet Paint,,/Theme/Distressed,80,
+Rubik,wght@300,/Expressive/Active,0,hebrew
+Rubik,wght@900,/Expressive/Active,0,hebrew
+Rubik,wght@300,/Expressive/Artistic,0,hebrew
+Rubik,wght@900,/Expressive/Artistic,0,hebrew
 Rubik,wght@300,/Expressive/Awkward,5,
 Rubik,wght@400,/Expressive/Awkward,5,
 Rubik,wght@900,/Expressive/Awkward,5,
@@ -29090,8 +29410,12 @@ Rubik,wght@300,/Expressive/Childlike,10,
 Rubik,wght@900,/Expressive/Childlike,13,
 Rubik,wght@300,/Expressive/Competent,74,
 Rubik,wght@900,/Expressive/Competent,74,
+Rubik,wght@300,/Expressive/Fancy,0,hebrew
+Rubik,wght@900,/Expressive/Fancy,0,hebrew
 Rubik,wght@300,/Expressive/Happy,26,
 Rubik,wght@900,/Expressive/Happy,30,
+Rubik,wght@300,/Expressive/Innovative,0,hebrew
+Rubik,wght@900,/Expressive/Innovative,0,hebrew
 Rubik,wght@600,/Expressive/Loud,45,
 Rubik,wght@900,/Expressive/Loud,89,
 Rubik,wght@300,/Expressive/Playful,5,
@@ -29956,7 +30280,10 @@ Seaweed Script,,/Quality/Wordspace,60,
 Seaweed Script,,/Script/Handwritten,20,
 Seaweed Script,,/Theme/Brush,20,
 Secular One,,/Expressive/Active,20,
+Secular One,,/Expressive/Artistic,0,hebrew
+Secular One,,/Expressive/Business,77,hebrew
 Secular One,,/Expressive/Calm,45,
+Secular One,,/Expressive/Fancy,0,hebrew
 Secular One,,/Expressive/Innovative,10,
 Secular One,,/Expressive/Loud,18,
 Secular One,,/Expressive/Rugged,60,
@@ -30323,20 +30650,20 @@ Short Stack,,/Quality/Wordspace,60,
 Short Stack,,/Script/Handwritten,100,
 Short Stack,,/Seasonal/Christmas,81,
 Shrikhand,,/Expressive/Active,75,
-Shrikhand,,/Expressive/Competent,0,gujarati
-Shrikhand,,/Expressive/Calm,0,gujarati
-Shrikhand,,/Expressive/Business,0,gujarati
-Shrikhand,,/Expressive/Childlike,58,gujarati
-Shrikhand,,/Expressive/Awkward,23,gujarati
 Shrikhand,,/Expressive/Active,88,gujarati
+Shrikhand,,/Expressive/Awkward,23,gujarati
+Shrikhand,,/Expressive/Business,0,gujarati
+Shrikhand,,/Expressive/Calm,0,gujarati
+Shrikhand,,/Expressive/Childlike,58,gujarati
+Shrikhand,,/Expressive/Competent,0,gujarati
 Shrikhand,,/Expressive/Cute,52,
-Shrikhand,,/Expressive/Futuristic,18,gujarati
-Shrikhand,,/Expressive/Fancy,38,gujarati
-Shrikhand,,/Expressive/Excited,32,gujarati
 Shrikhand,,/Expressive/Cute,66,gujarati
+Shrikhand,,/Expressive/Excited,32,gujarati
+Shrikhand,,/Expressive/Fancy,38,gujarati
+Shrikhand,,/Expressive/Futuristic,18,gujarati
 Shrikhand,,/Expressive/Happy,20,
-Shrikhand,,/Expressive/Innovative,50,gujarati
 Shrikhand,,/Expressive/Happy,80,gujarati
+Shrikhand,,/Expressive/Innovative,50,gujarati
 Shrikhand,,/Expressive/Loud,84,
 Shrikhand,,/Expressive/Playful,25,
 Shrikhand,,/Expressive/Rugged,65,
@@ -30924,13 +31251,17 @@ Sofia,,/Quality/Drawing,50,
 Sofia,,/Quality/Spacing,60,
 Sofia,,/Quality/Wordspace,60,
 Sofia,,/Script/Upright Script,100,
-Solitreo,,/Expressive/Active,78,
+Solitreo,,/Expressive/Active,79,
 Solitreo,,/Expressive/Artistic,42,
+Solitreo,,/Expressive/Artistic,80,hebrew
 Solitreo,,/Expressive/Awkward,32,
+Solitreo,,/Expressive/Business,0,hebrew
 Solitreo,,/Expressive/Childlike,70,
 Solitreo,,/Expressive/Cute,25,
 Solitreo,,/Expressive/Excited,50,
+Solitreo,,/Expressive/Fancy,0,hebrew
 Solitreo,,/Expressive/Happy,12,
+Solitreo,,/Expressive/Innovative,0,hebrew
 Solitreo,,/Expressive/Loud,1,
 Solitreo,,/Expressive/Playful,15,
 Solitreo,,/Expressive/Rugged,35,
@@ -31839,6 +32170,11 @@ Sue Ellen Francisco,,/Quality/Drawing,40,
 Sue Ellen Francisco,,/Quality/Spacing,70,
 Sue Ellen Francisco,,/Quality/Wordspace,60,
 Sue Ellen Francisco,,/Script/Handwritten,100,
+Suez One,,/Expressive/Active,0,hebrew
+Suez One,,/Expressive/Artistic,0,hebrew
+Suez One,,/Expressive/Business,70,hebrew
+Suez One,,/Expressive/Fancy,0,hebrew
+Suez One,,/Expressive/Innovative,0,hebrew
 Suez One,,/Expressive/Loud,41,
 Suez One,,/Expressive/Rugged,75,
 Suez One,,/Expressive/Vintage,41,
@@ -32540,8 +32876,13 @@ Timmana,,/Quality/Drawing,50,
 Timmana,,/Quality/Spacing,30,
 Timmana,,/Quality/Wordspace,100,
 Timmana,,/Sans/Humanist,100,
+Tinos,,/Expressive/Active,0,hebrew
+Tinos,,/Expressive/Artistic,0,hebrew
 Tinos,,/Expressive/Business,82,
+Tinos,,/Expressive/Business,0,hebrew
 Tinos,,/Expressive/Competent,70,
+Tinos,,/Expressive/Fancy,0,hebrew
+Tinos,,/Expressive/Innovative,0,hebrew
 Tinos,,/Expressive/Loud,1,
 Tinos,,/Expressive/Rugged,45,
 Tinos,,/Expressive/Sincere,70,
@@ -32564,28 +32905,28 @@ Tiny5,,/Quality/Drawing,70,
 Tiny5,,/Quality/Spacing,90,
 Tiny5,,/Quality/Wordspace,100,
 Tiny5,,/Theme/Pixel,100,
-Tiro Bangla,,/Expressive/Awkward,0,bengali
-Tiro Bangla,,/Expressive/Artistic,0,bengali
 Tiro Bangla,,/Expressive/Active,0,bengali
+Tiro Bangla,,/Expressive/Artistic,0,bengali
+Tiro Bangla,,/Expressive/Awkward,0,bengali
 Tiro Bangla,,/Expressive/Business,80,
-Tiro Bangla,,/Expressive/Childlike,0,bengali
-Tiro Bangla,,/Expressive/Calm,10,bengali
 Tiro Bangla,,/Expressive/Business,94,bengali
+Tiro Bangla,,/Expressive/Calm,10,bengali
+Tiro Bangla,,/Expressive/Childlike,0,bengali
 Tiro Bangla,,/Expressive/Competent,80,
-Tiro Bangla,,/Expressive/Innovative,0,bengali
-Tiro Bangla,,/Expressive/Happy,0,bengali
-Tiro Bangla,,/Expressive/Futuristic,0,bengali
-Tiro Bangla,,/Expressive/Fancy,0,bengali
-Tiro Bangla,,/Expressive/Excited,0,bengali
-Tiro Bangla,,/Expressive/Cute,0,bengali
 Tiro Bangla,,/Expressive/Competent,92,bengali
+Tiro Bangla,,/Expressive/Cute,0,bengali
+Tiro Bangla,,/Expressive/Excited,0,bengali
+Tiro Bangla,,/Expressive/Fancy,0,bengali
+Tiro Bangla,,/Expressive/Futuristic,0,bengali
+Tiro Bangla,,/Expressive/Happy,0,bengali
+Tiro Bangla,,/Expressive/Innovative,0,bengali
 Tiro Bangla,,/Expressive/Loud,3,
 Tiro Bangla,,/Expressive/Playful,0,bengali
 Tiro Bangla,,/Expressive/Rugged,40,
 Tiro Bangla,,/Expressive/Rugged,0,bengali
 Tiro Bangla,,/Expressive/Sincere,70,
-Tiro Bangla,,/Expressive/Stiff,0,bengali
 Tiro Bangla,,/Expressive/Sophisticated,30,bengali
+Tiro Bangla,,/Expressive/Stiff,0,bengali
 Tiro Bangla,,/Expressive/Vintage,40,
 Tiro Bangla,,/Expressive/Vintage,86,bengali
 Tiro Bangla,,/Quality/Concept,70,
@@ -33428,10 +33769,14 @@ Vampiro One,,/Quality/Spacing,70,
 Vampiro One,,/Quality/Wordspace,80,
 Vampiro One,,/Script/Informal,50,
 Vampiro One,,/Theme/Brush,20,
+Varela Round,,/Expressive/Active,58,hebrew
+Varela Round,,/Expressive/Artistic,0,hebrew
 Varela Round,,/Expressive/Business,41,
 Varela Round,,/Expressive/Calm,85,
 Varela Round,,/Expressive/Competent,35,
 Varela Round,,/Expressive/Cute,10,
+Varela Round,,/Expressive/Fancy,0,hebrew
+Varela Round,,/Expressive/Innovative,0,hebrew
 Varela Round,,/Expressive/Loud,1,
 Varela Round,,/Expressive/Rugged,35,
 Varela Round,,/Expressive/Sincere,50,

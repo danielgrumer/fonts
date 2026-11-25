@@ -609,6 +609,7 @@ Alef,,/Expressive/Innovative,0,hebrew
 Alef,,/Expressive/Loud,1,
 Alef,,/Expressive/Rugged,45,
 Alef,,/Expressive/Sincere,50,
+Alef,,/Expressive/Sophisticated,0,hebrew
 Alef,,/Expressive/Stiff,20,
 Alef,,/Expressive/Vintage,20,
 Alef,,/Quality/Concept,70,
@@ -1223,6 +1224,8 @@ Amatic SC,,/Expressive/Innovative,75,hebrew
 Amatic SC,,/Expressive/Loud,0,hebrew
 Amatic SC,,/Expressive/Rugged,6,
 Amatic SC,,/Expressive/Sincere,5,
+Amatic SC,,/Expressive/Sophisticated,0,hebrew
+Amatic SC,,/Expressive/Stiff,0,hebrew
 Amatic SC,,/Expressive/Vintage,20,
 Amatic SC,,/Quality/Concept,60,
 Amatic SC,,/Quality/Drawing,55,
@@ -2441,6 +2444,8 @@ Arimo,wght@400,/Expressive/Rugged,1,
 Arimo,wght@700,/Expressive/Rugged,23,
 Arimo,wght@400,/Expressive/Sincere,50,
 Arimo,wght@700,/Expressive/Sincere,50,
+Arimo,wght@400,/Expressive/Sophisticated,0,hebrew
+Arimo,wght@700,/Expressive/Sophisticated,0,hebrew
 Arimo,wght@400,/Expressive/Stiff,5,
 Arimo,wght@700,/Expressive/Stiff,5,
 Arimo,,/Expressive/Vintage,20,
@@ -2742,6 +2747,8 @@ Assistant,wght@200,/Expressive/Playful,1,
 Assistant,wght@800,/Expressive/Playful,1,
 Assistant,wght@200,/Expressive/Rugged,1,
 Assistant,wght@800,/Expressive/Rugged,12,
+Assistant,wght@200,/Expressive/Sophisticated,0,hebrew
+Assistant,wght@800,/Expressive/Sophisticated,0,hebrew
 Assistant,wght@200,/Expressive/Stiff,1,
 Assistant,wght@800,/Expressive/Stiff,1,
 Assistant,,/Expressive/Vintage,20,
@@ -3962,6 +3969,8 @@ Bellefair,,/Expressive/Innovative,0,hebrew
 Bellefair,,/Expressive/Loud,0,hebrew
 Bellefair,,/Expressive/Rugged,20,
 Bellefair,,/Expressive/Sincere,60,
+Bellefair,,/Expressive/Sophisticated,0,hebrew
+Bellefair,,/Expressive/Stiff,0,hebrew
 Bellefair,,/Expressive/Vintage,70,
 Bellefair,,/Quality/Concept,70,
 Bellefair,,/Quality/Drawing,75,
@@ -4987,6 +4996,8 @@ Bona Nova SC,,/Expressive/Innovative,0,hebrew
 Bona Nova SC,,/Expressive/Loud,1,
 Bona Nova SC,,/Expressive/Rugged,50,
 Bona Nova SC,,/Expressive/Sincere,60,
+Bona Nova SC,,/Expressive/Sophisticated,0,hebrew
+Bona Nova SC,,/Expressive/Stiff,0,hebrew
 Bona Nova SC,,/Expressive/Vintage,60,
 Bona Nova SC,,/Quality/Concept,70,
 Bona Nova SC,,/Quality/Drawing,72,
@@ -5004,6 +5015,8 @@ Bona Nova,,/Expressive/Innovative,0,hebrew
 Bona Nova,,/Expressive/Loud,1,
 Bona Nova,,/Expressive/Rugged,30,
 Bona Nova,,/Expressive/Sincere,60,
+Bona Nova,,/Expressive/Sophisticated,0,hebrew
+Bona Nova,,/Expressive/Stiff,0,hebrew
 Bona Nova,,/Expressive/Vintage,75,
 Bona Nova,,/Quality/Concept,70,
 Bona Nova,,/Quality/Drawing,72,
@@ -5957,6 +5970,8 @@ Cardo,,/Expressive/Innovative,0,hebrew
 Cardo,,/Expressive/Loud,1,
 Cardo,,/Expressive/Rugged,30,
 Cardo,,/Expressive/Sincere,70,
+Cardo,,/Expressive/Sophisticated,0,hebrew
+Cardo,,/Expressive/Stiff,0,hebrew
 Cardo,,/Expressive/Vintage,78,
 Cardo,,/Quality/Concept,65,
 Cardo,,/Quality/Drawing,70,
@@ -6056,6 +6071,8 @@ Cascadia Code,,/Expressive/Loud,4,
 Cascadia Code,wght@200,/Expressive/Playful,1,
 Cascadia Code,wght@700,/Expressive/Playful,1,
 Cascadia Code,,/Expressive/Rugged,50,
+Cascadia Code,wght@200,/Expressive/Sophisticated,0,hebrew
+Cascadia Code,wght@700,/Expressive/Sophisticated,0,hebrew
 Cascadia Code,wght@200,/Expressive/Stiff,55,
 Cascadia Code,wght@700,/Expressive/Stiff,56,
 Cascadia Code,,/Expressive/Vintage,30,
@@ -6091,6 +6108,8 @@ Cascadia Mono,,/Expressive/Loud,4,
 Cascadia Mono,wght@200,/Expressive/Playful,1,
 Cascadia Mono,wght@700,/Expressive/Playful,1,
 Cascadia Mono,,/Expressive/Rugged,50,
+Cascadia Mono,wght@200,/Expressive/Sophisticated,0,hebrew
+Cascadia Mono,wght@700,/Expressive/Sophisticated,0,hebrew
 Cascadia Mono,wght@200,/Expressive/Stiff,55,
 Cascadia Mono,wght@700,/Expressive/Stiff,56,
 Cascadia Mono,,/Expressive/Vintage,35,
@@ -7352,6 +7371,7 @@ Cousine,,/Expressive/Futuristic,25,
 Cousine,,/Expressive/Innovative,0,hebrew
 Cousine,,/Expressive/Loud,1,
 Cousine,,/Expressive/Rugged,50,
+Cousine,,/Expressive/Sophisticated,0,hebrew
 Cousine,,/Expressive/Stiff,18,
 Cousine,,/Expressive/Vintage,30,
 Cousine,,/Monospace/Monospace,100,
@@ -7775,6 +7795,8 @@ David Libre,,/Expressive/Fancy,75,hebrew
 David Libre,,/Expressive/Innovative,0,hebrew
 David Libre,,/Expressive/Loud,1,
 David Libre,,/Expressive/Rugged,30,
+David Libre,,/Expressive/Sophisticated,0,hebrew
+David Libre,,/Expressive/Stiff,0,hebrew
 David Libre,,/Expressive/Vintage,20,
 David Libre,,/Quality/Concept,80,
 David Libre,,/Quality/Drawing,70,
@@ -9975,6 +9997,10 @@ Frank Ruhl Libre,wght@900,/Expressive/Playful,1,
 Frank Ruhl Libre,,/Expressive/Rugged,35,
 Frank Ruhl Libre,wght@300,/Expressive/Sincere,45,
 Frank Ruhl Libre,wght@900,/Expressive/Sincere,44,
+Frank Ruhl Libre,wght@300,/Expressive/Sophisticated,0,hebrew
+Frank Ruhl Libre,wght@900,/Expressive/Sophisticated,0,hebrew
+Frank Ruhl Libre,wght@300,/Expressive/Stiff,0,hebrew
+Frank Ruhl Libre,wght@900,/Expressive/Stiff,0,hebrew
 Frank Ruhl Libre,wght@300,/Expressive/Vintage,54,
 Frank Ruhl Libre,wght@900,/Expressive/Vintage,56,
 Frank Ruhl Libre,,/Quality/Concept,70,
@@ -10102,6 +10128,10 @@ Fredoka,"wdth,wght@125,300",/Expressive/Playful,60,
 Fredoka,"wdth,wght@125,700",/Expressive/Playful,75,
 Fredoka,wght@300,/Expressive/Sincere,10,
 Fredoka,wght@700,/Expressive/Sincere,10,
+Fredoka,"wdth,wght@75,300",/Expressive/Sophisticated,0,hebrew
+Fredoka,"wdth,wght@125,300",/Expressive/Sophisticated,0,hebrew
+Fredoka,"wdth,wght@75,700",/Expressive/Sophisticated,0,hebrew
+Fredoka,"wdth,wght@125,700",/Expressive/Sophisticated,0,hebrew
 Fredoka,"wdth,wght@75,300",/Expressive/Stiff,12,
 Fredoka,"wdth,wght@75,700",/Expressive/Stiff,4,
 Fredoka,"wdth,wght@125,300",/Expressive/Stiff,6,
@@ -11648,6 +11678,8 @@ Gveret Levin,,/Expressive/Happy,76,
 Gveret Levin,,/Expressive/Innovative,0,hebrew
 Gveret Levin,,/Expressive/Loud,60,hebrew
 Gveret Levin,,/Expressive/Playful,60,
+Gveret Levin,,/Expressive/Sophisticated,0,hebrew
+Gveret Levin,,/Expressive/Stiff,0,hebrew
 Gveret Levin,,/Quality/Concept,70,
 Gveret Levin,,/Quality/Drawing,70,
 Gveret Levin,,/Quality/Spacing,80,
@@ -11798,6 +11830,8 @@ Handjet,wght@100,/Expressive/Playful,1,
 Handjet,wght@900,/Expressive/Playful,1,
 Handjet,wght@100,/Expressive/Rugged,5,
 Handjet,wght@900,/Expressive/Rugged,70,
+Handjet,wght@100,/Expressive/Sophisticated,0,hebrew
+Handjet,wght@900,/Expressive/Sophisticated,0,hebrew
 Handjet,wght@100,/Expressive/Stiff,80,
 Handjet,wght@900,/Expressive/Stiff,84,
 Handjet,wght@100,/Expressive/Vintage,55,
@@ -11964,8 +11998,12 @@ Heebo,wght@100,/Expressive/Playful,1,
 Heebo,wght@900,/Expressive/Playful,1,
 Heebo,wght@100,/Expressive/Rugged,1,
 Heebo,wght@900,/Expressive/Rugged,12,
+Heebo,wght@100,/Expressive/Sophisticated,0,hebrew
+Heebo,wght@900,/Expressive/Sophisticated,0,hebrew
 Heebo,wght@100,/Expressive/Stiff,12,
 Heebo,wght@900,/Expressive/Stiff,14,
+Heebo,wght@100,/Expressive/Stiff,50,hebrew
+Heebo,wght@900,/Expressive/Stiff,60,hebrew
 Heebo,,/Expressive/Vintage,20,
 Heebo,,/Quality/Concept,70,
 Heebo,,/Quality/Drawing,65,
@@ -12434,6 +12472,7 @@ IBM Plex Sans Hebrew,,/Expressive/Innovative,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Loud,1,
 IBM Plex Sans Hebrew,,/Expressive/Rugged,50,
 IBM Plex Sans Hebrew,,/Expressive/Sincere,70,
+IBM Plex Sans Hebrew,,/Expressive/Sophisticated,0,hebrew
 IBM Plex Sans Hebrew,,/Expressive/Stiff,20,
 IBM Plex Sans Hebrew,,/Expressive/Vintage,20,
 IBM Plex Sans Hebrew,,/Quality/Concept,70,
@@ -14164,7 +14203,9 @@ Karantina,,/Expressive/Futuristic,10,
 Karantina,,/Expressive/Innovative,-2,hebrew
 Karantina,,/Expressive/Loud,54,
 Karantina,,/Expressive/Rugged,70,
+Karantina,,/Expressive/Sophisticated,0,hebrew
 Karantina,,/Expressive/Stiff,68,
+Karantina,,/Expressive/Stiff,90,hebrew
 Karantina,,/Expressive/Vintage,50,
 Karantina,,/Quality/Concept,70,
 Karantina,,/Quality/Drawing,50,
@@ -15449,6 +15490,8 @@ Libertinus Serif,,/Expressive/Innovative,0,hebrew
 Libertinus Serif,,/Expressive/Loud,1,
 Libertinus Serif,,/Expressive/Rugged,30,
 Libertinus Serif,,/Expressive/Sincere,80,
+Libertinus Serif,,/Expressive/Sophisticated,0,hebrew
+Libertinus Serif,,/Expressive/Stiff,0,hebrew
 Libertinus Serif,,/Expressive/Vintage,45,
 Libertinus Serif,,/Quality/Concept,70,
 Libertinus Serif,,/Quality/Drawing,80,
@@ -16075,6 +16118,7 @@ Lunasima,,/Expressive/Innovative,0,hebrew
 Lunasima,,/Expressive/Loud,1,
 Lunasima,,/Expressive/Rugged,50,
 Lunasima,,/Expressive/Sincere,60,
+Lunasima,,/Expressive/Sophisticated,0,hebrew
 Lunasima,,/Expressive/Stiff,18,
 Lunasima,,/Expressive/Vintage,20,
 Lunasima,,/Quality/Concept,60,
@@ -16200,6 +16244,7 @@ M PLUS 1p,,/Expressive/Innovative,70,hebrew
 M PLUS 1p,,/Expressive/Loud,1,
 M PLUS 1p,,/Expressive/Rugged,50,
 M PLUS 1p,,/Expressive/Sincere,60,
+M PLUS 1p,,/Expressive/Sophisticated,0,hebrew
 M PLUS 1p,,/Expressive/Stiff,20,
 M PLUS 1p,,/Expressive/Vintage,20,
 M PLUS 1p,,/Quality/Concept,70,
@@ -16284,6 +16329,7 @@ M PLUS Rounded 1c,,/Expressive/Innovative,70,hebrew
 M PLUS Rounded 1c,,/Expressive/Loud,1,
 M PLUS Rounded 1c,,/Expressive/Rugged,30,
 M PLUS Rounded 1c,,/Expressive/Sincere,60,
+M PLUS Rounded 1c,,/Expressive/Sophisticated,0,hebrew
 M PLUS Rounded 1c,,/Expressive/Stiff,20,
 M PLUS Rounded 1c,,/Expressive/Vintage,20,
 M PLUS Rounded 1c,,/Quality/Concept,70,
@@ -17433,8 +17479,12 @@ Miriam Libre,wght@400,/Expressive/Playful,20,
 Miriam Libre,wght@700,/Expressive/Playful,22,
 Miriam Libre,wght@400,/Expressive/Rugged,5,
 Miriam Libre,wght@700,/Expressive/Rugged,18,
+Miriam Libre,wght@400,/Expressive/Sophisticated,0,hebrew
+Miriam Libre,wght@700,/Expressive/Sophisticated,0,hebrew
 Miriam Libre,wght@400,/Expressive/Stiff,55,
 Miriam Libre,wght@700,/Expressive/Stiff,60,
+Miriam Libre,wght@400,/Expressive/Stiff,70,hebrew
+Miriam Libre,wght@700,/Expressive/Stiff,80,hebrew
 Miriam Libre,,/Expressive/Vintage,30,
 Miriam Libre,,/Quality/Concept,60,
 Miriam Libre,,/Quality/Drawing,70,
@@ -19051,6 +19101,10 @@ Noto Rashi Hebrew,wght@900,/Expressive/Playful,1,
 Noto Rashi Hebrew,,/Expressive/Rugged,40,
 Noto Rashi Hebrew,wght@100,/Expressive/Sincere,75,
 Noto Rashi Hebrew,wght@900,/Expressive/Sincere,75,
+Noto Rashi Hebrew,wght@100,/Expressive/Sophisticated,0,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Sophisticated,0,hebrew
+Noto Rashi Hebrew,wght@100,/Expressive/Stiff,0,hebrew
+Noto Rashi Hebrew,wght@900,/Expressive/Stiff,0,hebrew
 Noto Rashi Hebrew,,/Expressive/Vintage,40,
 Noto Rashi Hebrew,,/Quality/Concept,70,
 Noto Rashi Hebrew,,/Quality/Drawing,70,
@@ -20134,6 +20188,10 @@ Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Sincere,18,
 Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Sincere,20,
 Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Sincere,22,
 Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Sincere,22,
+Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Sophisticated,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Sophisticated,0,hebrew
+Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Sophisticated,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Sophisticated,0,hebrew
 Noto Sans Hebrew,,/Expressive/Stiff,10,
 Noto Sans Hebrew,,/Quality/Concept,70,
 Noto Sans Hebrew,,/Quality/Drawing,70,
@@ -22702,6 +22760,14 @@ Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Sincere,18,
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Sincere,20,
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Sincere,22,
 Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Sincere,22,
+Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Sophisticated,0,hebrew
+Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Sophisticated,0,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Sophisticated,0,hebrew
+Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Sophisticated,0,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Stiff,0,hebrew
+Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Stiff,0,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Stiff,0,hebrew
+Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Stiff,0,hebrew
 Noto Serif Hebrew,,/Quality/Concept,70,
 Noto Serif Hebrew,,/Quality/Drawing,70,
 Noto Serif Hebrew,,/Quality/Spacing,80,
@@ -23853,6 +23919,10 @@ Open Sans,"wdth,wght@75,300",/Expressive/Sincere,24,
 Open Sans,"wdth,wght@75,800",/Expressive/Sincere,12,
 Open Sans,"wdth,wght@100,300",/Expressive/Sincere,45,
 Open Sans,"wdth,wght@100,800",/Expressive/Sincere,14,
+Open Sans,"wdth,wght@75,300",/Expressive/Sophisticated,0,hebrew
+Open Sans,"wdth,wght@100,300",/Expressive/Sophisticated,0,hebrew
+Open Sans,"wdth,wght@75,800",/Expressive/Sophisticated,0,hebrew
+Open Sans,"wdth,wght@100,800",/Expressive/Sophisticated,0,hebrew
 Open Sans,,/Expressive/Stiff,10,
 Open Sans,,/Quality/Concept,70,
 Open Sans,,/Quality/Drawing,70,
@@ -25104,6 +25174,10 @@ Playpen Sans Hebrew,,/Expressive/Playful,22,
 Playpen Sans Hebrew,,/Expressive/Rugged,10,
 Playpen Sans Hebrew,wght@100,/Expressive/Sincere,76,
 Playpen Sans Hebrew,wght@800,/Expressive/Sincere,70,
+Playpen Sans Hebrew,wght@100,/Expressive/Sophisticated,0,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Sophisticated,0,hebrew
+Playpen Sans Hebrew,wght@100,/Expressive/Stiff,0,hebrew
+Playpen Sans Hebrew,wght@800,/Expressive/Stiff,0,hebrew
 Playpen Sans Hebrew,,/Expressive/Vintage,35,
 Playpen Sans Hebrew,,/Quality/Concept,80,
 Playpen Sans Hebrew,,/Quality/Drawing,70,
@@ -28949,6 +29023,8 @@ Rubik 80s Fade,,/Expressive/Futuristic,20,
 Rubik 80s Fade,,/Expressive/Innovative,50,
 Rubik 80s Fade,,/Expressive/Loud,50,
 Rubik 80s Fade,,/Expressive/Rugged,70,
+Rubik 80s Fade,,/Expressive/Sophisticated,0,hebrew
+Rubik 80s Fade,,/Expressive/Stiff,0,hebrew
 Rubik 80s Fade,,/Expressive/Vintage,85,
 Rubik 80s Fade,,/Quality/Concept,70,
 Rubik 80s Fade,,/Quality/Drawing,70,
@@ -28967,6 +29043,7 @@ Rubik Beastly,,/Expressive/Innovative,60,
 Rubik Beastly,,/Expressive/Loud,67,
 Rubik Beastly,,/Expressive/Playful,80,
 Rubik Beastly,,/Expressive/Rugged,90,
+Rubik Beastly,,/Expressive/Sophisticated,0,hebrew
 Rubik Beastly,,/Expressive/Stiff,20,
 Rubik Beastly,,/Expressive/Vintage,10,
 Rubik Beastly,,/Quality/Concept,75,
@@ -28986,6 +29063,8 @@ Rubik Broken Fax,,/Expressive/Futuristic,20,
 Rubik Broken Fax,,/Expressive/Innovative,50,
 Rubik Broken Fax,,/Expressive/Loud,67,
 Rubik Broken Fax,,/Expressive/Rugged,68,
+Rubik Broken Fax,,/Expressive/Sophisticated,0,hebrew
+Rubik Broken Fax,,/Expressive/Stiff,0,hebrew
 Rubik Broken Fax,,/Expressive/Vintage,65,
 Rubik Broken Fax,,/Quality/Concept,65,
 Rubik Broken Fax,,/Quality/Drawing,40,
@@ -29004,6 +29083,8 @@ Rubik Bubbles,,/Expressive/Innovative,35,
 Rubik Bubbles,,/Expressive/Loud,55,
 Rubik Bubbles,,/Expressive/Playful,92,
 Rubik Bubbles,,/Expressive/Rugged,70,
+Rubik Bubbles,,/Expressive/Sophisticated,0,hebrew
+Rubik Bubbles,,/Expressive/Stiff,0,hebrew
 Rubik Bubbles,,/Expressive/Vintage,10,
 Rubik Bubbles,,/Quality/Concept,60,
 Rubik Bubbles,,/Quality/Drawing,60,
@@ -29021,6 +29102,8 @@ Rubik Burned,,/Expressive/Fancy,0,hebrew
 Rubik Burned,,/Expressive/Innovative,20,
 Rubik Burned,,/Expressive/Loud,70,hebrew
 Rubik Burned,,/Expressive/Rugged,80,
+Rubik Burned,,/Expressive/Sophisticated,0,hebrew
+Rubik Burned,,/Expressive/Stiff,0,hebrew
 Rubik Burned,,/Expressive/Vintage,70,
 Rubik Burned,,/Quality/Concept,40,
 Rubik Burned,,/Quality/Drawing,40,
@@ -29039,6 +29122,8 @@ Rubik Dirt,,/Expressive/Innovative,50,
 Rubik Dirt,,/Expressive/Loud,55,
 Rubik Dirt,,/Expressive/Playful,85,
 Rubik Dirt,,/Expressive/Rugged,92,
+Rubik Dirt,,/Expressive/Sophisticated,0,hebrew
+Rubik Dirt,,/Expressive/Stiff,0,hebrew
 Rubik Dirt,,/Expressive/Vintage,55,
 Rubik Dirt,,/Quality/Concept,40,
 Rubik Dirt,,/Quality/Drawing,70,
@@ -29057,6 +29142,7 @@ Rubik Distressed,,/Expressive/Loud,42,
 Rubik Distressed,,/Expressive/Loud,80,hebrew
 Rubik Distressed,,/Expressive/Playful,92,
 Rubik Distressed,,/Expressive/Rugged,92,
+Rubik Distressed,,/Expressive/Sophisticated,0,hebrew
 Rubik Distressed,,/Expressive/Stiff,9,
 Rubik Distressed,,/Expressive/Vintage,80,
 Rubik Distressed,,/Quality/Concept,50,
@@ -29076,6 +29162,8 @@ Rubik Doodle Shadow,,/Expressive/Innovative,20,
 Rubik Doodle Shadow,,/Expressive/Loud,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Playful,79,
 Rubik Doodle Shadow,,/Expressive/Rugged,65,
+Rubik Doodle Shadow,,/Expressive/Sophisticated,0,hebrew
+Rubik Doodle Shadow,,/Expressive/Stiff,0,hebrew
 Rubik Doodle Shadow,,/Expressive/Vintage,55,
 Rubik Doodle Shadow,,/Quality/Concept,55,
 Rubik Doodle Shadow,,/Quality/Drawing,55,
@@ -29090,6 +29178,8 @@ Rubik Doodle Triangles,,/Expressive/Fancy,0,hebrew
 Rubik Doodle Triangles,,/Expressive/Innovative,40,
 Rubik Doodle Triangles,,/Expressive/Loud,67,
 Rubik Doodle Triangles,,/Expressive/Rugged,80,
+Rubik Doodle Triangles,,/Expressive/Sophisticated,0,hebrew
+Rubik Doodle Triangles,,/Expressive/Stiff,0,hebrew
 Rubik Doodle Triangles,,/Expressive/Vintage,10,
 Rubik Doodle Triangles,,/Quality/Concept,55,
 Rubik Doodle Triangles,,/Quality/Drawing,50,
@@ -29107,6 +29197,8 @@ Rubik Gemstones,,/Expressive/Innovative,71,
 Rubik Gemstones,,/Expressive/Loud,42,
 Rubik Gemstones,,/Expressive/Playful,92,
 Rubik Gemstones,,/Expressive/Rugged,70,
+Rubik Gemstones,,/Expressive/Sophisticated,0,hebrew
+Rubik Gemstones,,/Expressive/Stiff,0,hebrew
 Rubik Gemstones,,/Expressive/Vintage,10,
 Rubik Gemstones,,/Quality/Concept,70,
 Rubik Gemstones,,/Quality/Drawing,65,
@@ -29123,6 +29215,8 @@ Rubik Glitch Pop,,/Expressive/Fancy,0,hebrew
 Rubik Glitch Pop,,/Expressive/Innovative,35,
 Rubik Glitch Pop,,/Expressive/Loud,0,hebrew
 Rubik Glitch Pop,,/Expressive/Rugged,80,
+Rubik Glitch Pop,,/Expressive/Sophisticated,0,hebrew
+Rubik Glitch Pop,,/Expressive/Stiff,0,hebrew
 Rubik Glitch Pop,,/Expressive/Vintage,55,
 Rubik Glitch Pop,,/Quality/Concept,15,
 Rubik Glitch Pop,,/Quality/Drawing,30,
@@ -29141,6 +29235,8 @@ Rubik Glitch,,/Expressive/Innovative,50,
 Rubik Glitch,,/Expressive/Loud,34,
 Rubik Glitch,,/Expressive/Playful,82,
 Rubik Glitch,,/Expressive/Rugged,90,
+Rubik Glitch,,/Expressive/Sophisticated,0,hebrew
+Rubik Glitch,,/Expressive/Stiff,0,hebrew
 Rubik Glitch,,/Expressive/Vintage,40,
 Rubik Glitch,,/Quality/Concept,60,
 Rubik Glitch,,/Quality/Drawing,40,
@@ -29160,6 +29256,7 @@ Rubik Iso,,/Expressive/Innovative,35,
 Rubik Iso,,/Expressive/Loud,55,hebrew
 Rubik Iso,,/Expressive/Playful,95,
 Rubik Iso,,/Expressive/Rugged,68,
+Rubik Iso,,/Expressive/Sophisticated,0,hebrew
 Rubik Iso,,/Expressive/Stiff,5,
 Rubik Iso,,/Expressive/Vintage,10,
 Rubik Iso,,/Quality/Concept,30,
@@ -29180,6 +29277,8 @@ Rubik Lines,,/Expressive/Futuristic,10,
 Rubik Lines,,/Expressive/Innovative,50,
 Rubik Lines,,/Expressive/Loud,34,
 Rubik Lines,,/Expressive/Rugged,80,
+Rubik Lines,,/Expressive/Sophisticated,0,hebrew
+Rubik Lines,,/Expressive/Stiff,0,hebrew
 Rubik Lines,,/Expressive/Vintage,10,
 Rubik Lines,,/Quality/Concept,40,
 Rubik Lines,,/Quality/Drawing,60,
@@ -29194,6 +29293,8 @@ Rubik Maps,,/Expressive/Fancy,0,hebrew
 Rubik Maps,,/Expressive/Innovative,50,
 Rubik Maps,,/Expressive/Loud,34,
 Rubik Maps,,/Expressive/Rugged,77,
+Rubik Maps,,/Expressive/Sophisticated,0,hebrew
+Rubik Maps,,/Expressive/Stiff,0,hebrew
 Rubik Maps,,/Expressive/Vintage,10,
 Rubik Maps,,/Quality/Concept,60,
 Rubik Maps,,/Quality/Drawing,60,
@@ -29209,6 +29310,8 @@ Rubik Marker Hatch,,/Expressive/Fancy,0,hebrew
 Rubik Marker Hatch,,/Expressive/Innovative,35,
 Rubik Marker Hatch,,/Expressive/Loud,34,
 Rubik Marker Hatch,,/Expressive/Rugged,90,
+Rubik Marker Hatch,,/Expressive/Sophisticated,0,hebrew
+Rubik Marker Hatch,,/Expressive/Stiff,0,hebrew
 Rubik Marker Hatch,,/Expressive/Vintage,30,
 Rubik Marker Hatch,,/Quality/Concept,60,
 Rubik Marker Hatch,,/Quality/Drawing,60,
@@ -29224,6 +29327,7 @@ Rubik Maze,,/Expressive/Futuristic,10,
 Rubik Maze,,/Expressive/Innovative,50,
 Rubik Maze,,/Expressive/Loud,0,hebrew
 Rubik Maze,,/Expressive/Rugged,80,
+Rubik Maze,,/Expressive/Sophisticated,0,hebrew
 Rubik Maze,,/Expressive/Stiff,20,
 Rubik Maze,,/Expressive/Vintage,10,
 Rubik Maze,,/Quality/Concept,60,
@@ -29240,6 +29344,8 @@ Rubik Microbe,,/Expressive/Innovative,60,
 Rubik Microbe,,/Expressive/Loud,0,hebrew
 Rubik Microbe,,/Expressive/Playful,76,
 Rubik Microbe,,/Expressive/Rugged,90,
+Rubik Microbe,,/Expressive/Sophisticated,0,hebrew
+Rubik Microbe,,/Expressive/Stiff,0,hebrew
 Rubik Microbe,,/Expressive/Vintage,10,
 Rubik Microbe,,/Quality/Concept,75,
 Rubik Microbe,,/Quality/Drawing,65,
@@ -29268,6 +29374,8 @@ Rubik Moonrocks,,/Expressive/Innovative,62,
 Rubik Moonrocks,,/Expressive/Loud,42,
 Rubik Moonrocks,,/Expressive/Playful,92,
 Rubik Moonrocks,,/Expressive/Rugged,80,
+Rubik Moonrocks,,/Expressive/Sophisticated,0,hebrew
+Rubik Moonrocks,,/Expressive/Stiff,0,hebrew
 Rubik Moonrocks,,/Expressive/Vintage,20,
 Rubik Moonrocks,,/Quality/Concept,65,
 Rubik Moonrocks,,/Quality/Drawing,65,
@@ -29283,6 +29391,7 @@ Rubik Pixels,,/Expressive/Fancy,0,hebrew
 Rubik Pixels,,/Expressive/Innovative,40,
 Rubik Pixels,,/Expressive/Loud,16,
 Rubik Pixels,,/Expressive/Rugged,90,
+Rubik Pixels,,/Expressive/Sophisticated,0,hebrew
 Rubik Pixels,,/Expressive/Stiff,20,
 Rubik Pixels,,/Expressive/Vintage,40,
 Rubik Pixels,,/Quality/Concept,50,
@@ -29302,6 +29411,8 @@ Rubik Puddles,,/Expressive/Innovative,62,
 Rubik Puddles,,/Expressive/Loud,65,hebrew
 Rubik Puddles,,/Expressive/Playful,94,
 Rubik Puddles,,/Expressive/Rugged,82,
+Rubik Puddles,,/Expressive/Sophisticated,0,hebrew
+Rubik Puddles,,/Expressive/Stiff,0,hebrew
 Rubik Puddles,,/Quality/Concept,40,
 Rubik Puddles,,/Quality/Drawing,55,
 Rubik Puddles,,/Quality/Spacing,80,
@@ -29318,6 +29429,8 @@ Rubik Scribble,,/Expressive/Innovative,0,hebrew
 Rubik Scribble,,/Expressive/Loud,0,hebrew
 Rubik Scribble,,/Expressive/Playful,40,
 Rubik Scribble,,/Expressive/Rugged,68,
+Rubik Scribble,,/Expressive/Sophisticated,0,hebrew
+Rubik Scribble,,/Expressive/Stiff,0,hebrew
 Rubik Scribble,,/Expressive/Vintage,30,
 Rubik Scribble,,/Quality/Concept,50,
 Rubik Scribble,,/Quality/Drawing,55,
@@ -29335,6 +29448,8 @@ Rubik Spray Paint,,/Expressive/Innovative,20,
 Rubik Spray Paint,,/Expressive/Loud,84,
 Rubik Spray Paint,,/Expressive/Playful,98,
 Rubik Spray Paint,,/Expressive/Rugged,70,
+Rubik Spray Paint,,/Expressive/Sophisticated,0,hebrew
+Rubik Spray Paint,,/Expressive/Stiff,0,hebrew
 Rubik Spray Paint,,/Expressive/Vintage,65,
 Rubik Spray Paint,,/Quality/Concept,40,
 Rubik Spray Paint,,/Quality/Drawing,55,
@@ -29351,6 +29466,8 @@ Rubik Storm,,/Expressive/Fancy,0,hebrew
 Rubik Storm,,/Expressive/Innovative,50,
 Rubik Storm,,/Expressive/Loud,67,
 Rubik Storm,,/Expressive/Rugged,90,
+Rubik Storm,,/Expressive/Sophisticated,0,hebrew
+Rubik Storm,,/Expressive/Stiff,0,hebrew
 Rubik Storm,,/Expressive/Vintage,20,
 Rubik Storm,,/Quality/Concept,40,
 Rubik Storm,,/Quality/Drawing,55,
@@ -29369,6 +29486,8 @@ Rubik Vinyl,,/Expressive/Innovative,50,
 Rubik Vinyl,,/Expressive/Loud,0,hebrew
 Rubik Vinyl,,/Expressive/Playful,60,
 Rubik Vinyl,,/Expressive/Rugged,85,
+Rubik Vinyl,,/Expressive/Sophisticated,0,hebrew
+Rubik Vinyl,,/Expressive/Stiff,0,hebrew
 Rubik Vinyl,,/Expressive/Vintage,65,
 Rubik Vinyl,,/Quality/Concept,40,
 Rubik Vinyl,,/Quality/Drawing,45,
@@ -29386,6 +29505,8 @@ Rubik Wet Paint,,/Expressive/Innovative,35,
 Rubik Wet Paint,,/Expressive/Loud,54,
 Rubik Wet Paint,,/Expressive/Playful,60,
 Rubik Wet Paint,,/Expressive/Rugged,70,
+Rubik Wet Paint,,/Expressive/Sophisticated,0,hebrew
+Rubik Wet Paint,,/Expressive/Stiff,0,hebrew
 Rubik Wet Paint,,/Expressive/Vintage,60,
 Rubik Wet Paint,,/Quality/Concept,50,
 Rubik Wet Paint,,/Quality/Drawing,55,
@@ -29422,6 +29543,8 @@ Rubik,wght@300,/Expressive/Playful,5,
 Rubik,wght@900,/Expressive/Playful,24,
 Rubik,wght@300,/Expressive/Rugged,12,
 Rubik,wght@900,/Expressive/Rugged,45,
+Rubik,wght@300,/Expressive/Sophisticated,0,hebrew
+Rubik,wght@900,/Expressive/Sophisticated,0,hebrew
 Rubik,wght@300,/Expressive/Stiff,4,
 Rubik,wght@900,/Expressive/Stiff,6,
 Rubik,,/Expressive/Vintage,20,
@@ -30288,6 +30411,7 @@ Secular One,,/Expressive/Innovative,10,
 Secular One,,/Expressive/Loud,18,
 Secular One,,/Expressive/Rugged,60,
 Secular One,,/Expressive/Sincere,50,
+Secular One,,/Expressive/Sophisticated,0,hebrew
 Secular One,,/Expressive/Stiff,30,
 Secular One,,/Expressive/Vintage,25,
 Secular One,,/Quality/Concept,75,
@@ -31266,6 +31390,8 @@ Solitreo,,/Expressive/Loud,1,
 Solitreo,,/Expressive/Playful,15,
 Solitreo,,/Expressive/Rugged,35,
 Solitreo,,/Expressive/Sincere,92,
+Solitreo,,/Expressive/Sophisticated,0,hebrew
+Solitreo,,/Expressive/Stiff,0,hebrew
 Solitreo,,/Expressive/Vintage,45,
 Solitreo,,/Quality/Concept,60,
 Solitreo,,/Quality/Drawing,68,
@@ -32177,6 +32303,8 @@ Suez One,,/Expressive/Fancy,0,hebrew
 Suez One,,/Expressive/Innovative,0,hebrew
 Suez One,,/Expressive/Loud,41,
 Suez One,,/Expressive/Rugged,75,
+Suez One,,/Expressive/Sophisticated,0,hebrew
+Suez One,,/Expressive/Stiff,0,hebrew
 Suez One,,/Expressive/Vintage,41,
 Suez One,,/Quality/Concept,70,
 Suez One,,/Quality/Drawing,70,
@@ -32886,6 +33014,7 @@ Tinos,,/Expressive/Innovative,0,hebrew
 Tinos,,/Expressive/Loud,1,
 Tinos,,/Expressive/Rugged,45,
 Tinos,,/Expressive/Sincere,70,
+Tinos,,/Expressive/Sophisticated,0,hebrew
 Tinos,,/Expressive/Stiff,10,
 Tinos,,/Expressive/Vintage,40,
 Tinos,,/Quality/Concept,70,
@@ -33780,6 +33909,7 @@ Varela Round,,/Expressive/Innovative,0,hebrew
 Varela Round,,/Expressive/Loud,1,
 Varela Round,,/Expressive/Rugged,35,
 Varela Round,,/Expressive/Sincere,50,
+Varela Round,,/Expressive/Sophisticated,0,hebrew
 Varela Round,,/Expressive/Stiff,25,
 Varela Round,,/Expressive/Vintage,35,
 Varela Round,,/Quality/Concept,70,

@@ -5034,6 +5034,7 @@ Bona Nova,,/Expressive/Sincere,60,
 Bona Nova,,/Expressive/Sophisticated,0,hebrew
 Bona Nova,,/Expressive/Stiff,0,hebrew
 Bona Nova,,/Expressive/Vintage,75,
+Bona Nova,,/Expressive/Vintage,85,hebrew
 Bona Nova,,/Quality/Concept,70,
 Bona Nova,,/Quality/Drawing,72,
 Bona Nova,,/Quality/Spacing,80,
@@ -5991,6 +5992,7 @@ Cardo,,/Expressive/Sincere,70,
 Cardo,,/Expressive/Sophisticated,0,hebrew
 Cardo,,/Expressive/Stiff,0,hebrew
 Cardo,,/Expressive/Vintage,78,
+Cardo,,/Expressive/Vintage,90,hebrew
 Cardo,,/Quality/Concept,65,
 Cardo,,/Quality/Drawing,70,
 Cardo,,/Quality/Spacing,70,
@@ -7823,6 +7825,7 @@ David Libre,,/Expressive/Rugged,30,
 David Libre,,/Expressive/Sophisticated,0,hebrew
 David Libre,,/Expressive/Stiff,0,hebrew
 David Libre,,/Expressive/Vintage,20,
+David Libre,,/Expressive/Vintage,85,hebrew
 David Libre,,/Quality/Concept,80,
 David Libre,,/Quality/Drawing,70,
 David Libre,,/Quality/Spacing,70,
@@ -10030,6 +10033,8 @@ Frank Ruhl Libre,wght@300,/Expressive/Stiff,0,hebrew
 Frank Ruhl Libre,wght@900,/Expressive/Stiff,0,hebrew
 Frank Ruhl Libre,wght@300,/Expressive/Vintage,54,
 Frank Ruhl Libre,wght@900,/Expressive/Vintage,56,
+Frank Ruhl Libre,wght@300,/Expressive/Vintage,75,hebrew
+Frank Ruhl Libre,wght@900,/Expressive/Vintage,80,hebrew
 Frank Ruhl Libre,,/Quality/Concept,70,
 Frank Ruhl Libre,,/Quality/Drawing,72,
 Frank Ruhl Libre,,/Quality/Spacing,80,
@@ -10167,6 +10172,10 @@ Fredoka,"wdth,wght@75,300",/Expressive/Stiff,12,
 Fredoka,"wdth,wght@75,700",/Expressive/Stiff,4,
 Fredoka,"wdth,wght@125,300",/Expressive/Stiff,6,
 Fredoka,"wdth,wght@125,700",/Expressive/Stiff,8,
+Fredoka,"wdth,wght@75,300",/Expressive/Vintage,0,hebrew
+Fredoka,"wdth,wght@125,300",/Expressive/Vintage,0,hebrew
+Fredoka,"wdth,wght@75,700",/Expressive/Vintage,0,hebrew
+Fredoka,"wdth,wght@125,700",/Expressive/Vintage,0,hebrew
 Fredoka,,/Quality/Concept,70,
 Fredoka,,/Quality/Drawing,68,
 Fredoka,,/Quality/Spacing,80,
@@ -11715,6 +11724,7 @@ Gveret Levin,,/Expressive/Playful,60,
 Gveret Levin,,/Expressive/Rugged,55,hebrew
 Gveret Levin,,/Expressive/Sophisticated,0,hebrew
 Gveret Levin,,/Expressive/Stiff,0,hebrew
+Gveret Levin,,/Expressive/Vintage,60,hebrew
 Gveret Levin,,/Quality/Concept,70,
 Gveret Levin,,/Quality/Drawing,70,
 Gveret Levin,,/Quality/Spacing,80,
@@ -15541,6 +15551,7 @@ Libertinus Serif,,/Expressive/Sincere,80,
 Libertinus Serif,,/Expressive/Sophisticated,0,hebrew
 Libertinus Serif,,/Expressive/Stiff,0,hebrew
 Libertinus Serif,,/Expressive/Vintage,45,
+Libertinus Serif,,/Expressive/Vintage,78,hebrew
 Libertinus Serif,,/Quality/Concept,70,
 Libertinus Serif,,/Quality/Drawing,80,
 Libertinus Serif,,/Quality/Spacing,80,
@@ -17543,6 +17554,7 @@ Miriam Libre,wght@700,/Expressive/Stiff,60,
 Miriam Libre,wght@400,/Expressive/Stiff,70,hebrew
 Miriam Libre,wght@700,/Expressive/Stiff,80,hebrew
 Miriam Libre,,/Expressive/Vintage,30,
+Miriam Libre,,/Expressive/Vintage,80,hebrew
 Miriam Libre,,/Quality/Concept,60,
 Miriam Libre,,/Quality/Drawing,70,
 Miriam Libre,,/Quality/Spacing,70,
@@ -19165,6 +19177,7 @@ Noto Rashi Hebrew,wght@900,/Expressive/Sophisticated,0,hebrew
 Noto Rashi Hebrew,wght@100,/Expressive/Stiff,0,hebrew
 Noto Rashi Hebrew,wght@900,/Expressive/Stiff,0,hebrew
 Noto Rashi Hebrew,,/Expressive/Vintage,40,
+Noto Rashi Hebrew,,/Expressive/Vintage,80,hebrew
 Noto Rashi Hebrew,,/Quality/Concept,70,
 Noto Rashi Hebrew,,/Quality/Drawing,70,
 Noto Rashi Hebrew,,/Quality/Spacing,70,
@@ -20256,6 +20269,10 @@ Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Sophisticated,0,hebrew
 Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Sophisticated,0,hebrew
 Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Sophisticated,0,hebrew
 Noto Sans Hebrew,,/Expressive/Stiff,10,
+Noto Sans Hebrew,"wdth,wght@62.5,100",/Expressive/Vintage,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,100",/Expressive/Vintage,0,hebrew
+Noto Sans Hebrew,"wdth,wght@62.5,900",/Expressive/Vintage,0,hebrew
+Noto Sans Hebrew,"wdth,wght@100,900",/Expressive/Vintage,0,hebrew
 Noto Sans Hebrew,,/Quality/Concept,70,
 Noto Sans Hebrew,,/Quality/Drawing,70,
 Noto Sans Hebrew,,/Quality/Spacing,70,
@@ -22839,6 +22856,10 @@ Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Stiff,0,hebrew
 Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Stiff,0,hebrew
 Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Stiff,0,hebrew
 Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Stiff,0,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,100",/Expressive/Vintage,60,hebrew
+Noto Serif Hebrew,"wdth,wght@100,100",/Expressive/Vintage,55,hebrew
+Noto Serif Hebrew,"wdth,wght@62.5,900",/Expressive/Vintage,70,hebrew
+Noto Serif Hebrew,"wdth,wght@100,900",/Expressive/Vintage,75,hebrew
 Noto Serif Hebrew,,/Quality/Concept,70,
 Noto Serif Hebrew,,/Quality/Drawing,70,
 Noto Serif Hebrew,,/Quality/Spacing,80,
@@ -23999,6 +24020,10 @@ Open Sans,"wdth,wght@100,300",/Expressive/Sophisticated,0,hebrew
 Open Sans,"wdth,wght@75,800",/Expressive/Sophisticated,0,hebrew
 Open Sans,"wdth,wght@100,800",/Expressive/Sophisticated,0,hebrew
 Open Sans,,/Expressive/Stiff,10,
+Open Sans,"wdth,wght@75,300",/Expressive/Vintage,12,hebrew
+Open Sans,"wdth,wght@100,300",/Expressive/Vintage,0,hebrew
+Open Sans,"wdth,wght@75,800",/Expressive/Vintage,0,hebrew
+Open Sans,"wdth,wght@100,800",/Expressive/Vintage,0,hebrew
 Open Sans,,/Quality/Concept,70,
 Open Sans,,/Quality/Drawing,70,
 Open Sans,,/Quality/Spacing,80,
@@ -29105,6 +29130,7 @@ Rubik 80s Fade,,/Expressive/Rugged,70,
 Rubik 80s Fade,,/Expressive/Sophisticated,0,hebrew
 Rubik 80s Fade,,/Expressive/Stiff,0,hebrew
 Rubik 80s Fade,,/Expressive/Vintage,85,
+Rubik 80s Fade,,/Expressive/Vintage,65,hebrew
 Rubik 80s Fade,,/Quality/Concept,70,
 Rubik 80s Fade,,/Quality/Drawing,70,
 Rubik 80s Fade,,/Quality/Spacing,70,
@@ -29528,6 +29554,7 @@ Rubik Puddles,,/Expressive/Playful,94,
 Rubik Puddles,,/Expressive/Rugged,82,
 Rubik Puddles,,/Expressive/Sophisticated,0,hebrew
 Rubik Puddles,,/Expressive/Stiff,0,hebrew
+Rubik Puddles,,/Expressive/Vintage,0,hebrew
 Rubik Puddles,,/Quality/Concept,40,
 Rubik Puddles,,/Quality/Drawing,55,
 Rubik Puddles,,/Quality/Spacing,80,
@@ -31526,6 +31553,7 @@ Solitreo,,/Expressive/Sincere,92,
 Solitreo,,/Expressive/Sophisticated,0,hebrew
 Solitreo,,/Expressive/Stiff,0,hebrew
 Solitreo,,/Expressive/Vintage,45,
+Solitreo,,/Expressive/Vintage,90,hebrew
 Solitreo,,/Quality/Concept,60,
 Solitreo,,/Quality/Drawing,68,
 Solitreo,,/Quality/Spacing,70,
@@ -33154,6 +33182,7 @@ Tinos,,/Expressive/Sincere,70,
 Tinos,,/Expressive/Sophisticated,0,hebrew
 Tinos,,/Expressive/Stiff,10,
 Tinos,,/Expressive/Vintage,40,
+Tinos,,/Expressive/Vintage,85,hebrew
 Tinos,,/Quality/Concept,70,
 Tinos,,/Quality/Drawing,70,
 Tinos,,/Quality/Spacing,70,
